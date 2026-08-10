@@ -6,6 +6,7 @@ Compendiu în limba română despre principalele direcții ale teoriei literare 
 
 - PDF final: `output/pdf/compendiu_teorie_literara.pdf`
 - Sursă editabilă: `work/teoria_literara/compendiu_teorie_literara.md`
+- Registrul verificării conceptuale: `work/teoria_literara/audit_tehnici.md`
 
 ## Conținut
 
@@ -23,8 +24,9 @@ Documentul acoperă:
 - constructivismul rus;
 - deconstrucția;
 - hărți comparative, dicționar de concepte și bibliografie.
-- un atlas aplicativ cu 160 de tehnici și concepte, fiecare explicat în cinci
+- un atlas aplicativ cu 278 de tehnici și concepte, fiecare explicat în 5–10
   puncte și ilustrat prin două episoade din opere diferite ale literaturii
   universale.
 
-PDF-ul are 110 pagini A4 și a fost verificat vizual integral după randare.
+În total sunt oferite 556 de aplicații literare. PDF-ul are 158 de pagini A4
+și a fost verificat vizual integral după randare.
