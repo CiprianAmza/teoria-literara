@@ -2164,3 +2164,2430 @@ Istoria Teoriei literare nu este o succesiune în care o școală o anulează co
 - postcritica, ce relații și atașamente fac operele posibile.
 
 Instrumentele rămân cel mai fertile când sunt combinate fără a fi confundate: descriere formală, contextualizare istorică, analiză a puterii, atenție la cititor și disponibilitate față de surpriza operei.
+
+# Partea a XIII-a. Atlas de tehnici: explicații și exemple
+
+Această parte transformă conceptele volumului în instrumente de analiză. Fiecare fișă conține cinci enunțuri explicative și două aplicații din opere diferite ale literaturii universale. Exemplele indică episoade precise și sunt parafrazate, astfel încât analiza să poată fi verificată direct în text.
+
+# A. Formalismul rus și Școala de la Praga
+
+## 139. Procedeul artistic
+
+**Ideea**
+
+- Pentru formaliști, opera nu este un recipient al ideilor, ci un ansamblu organizat de procedee.
+- Procedeul este operația prin care materialul verbal devine perceptibil ca artă.
+- El poate privi sunetul, sintaxa, ordinea episoadelor, punctul de vedere sau compoziția.
+- Aceeași temă produce efecte diferite când este construită prin procedee diferite.
+- Analiza identifică operația, locul ei în sistem și efectul produs asupra lecturii.
+
+**Două exemple**
+
+- În *Tristram Shandy* de Laurence Sterne, nașterea protagonistului este amânată prin digresiuni, comentarii și istorii laterale; procedeul întârzierii devine mai important decât evenimentul anunțat.
+- În *Doamna Bovary* de Gustave Flaubert, declarațiile lui Rodolphe sunt montate peste discursurile solemne de la târgul agricol; alternanța dintre cele două registre demască mecanica seducției.
+
+## 140. Automatizarea percepției
+
+**Ideea**
+
+- Automatizarea apare când obiectele și expresiile familiare sunt recunoscute fără a mai fi percepute intens.
+- Obișnuința scurtează actul percepției și transformă lumea într-o succesiune de etichete.
+- Literatura poate face vizibil tocmai ceea ce uzul cotidian a făcut transparent.
+- Conceptul nu descrie doar clișeul verbal, ci orice formă devenită mecanică.
+- În analiză, căutăm norma uzată pe care textul o încetinește, o rupe sau o expune.
+
+**Două exemple**
+
+- În *Învierea* de Lev Tolstoi, ritualul judiciar este descris prin gesturi administrative și formule repetate, astfel încât solemnitatea „firească” a tribunalului apare ca mecanism automat.
+- În *1984* de George Orwell, rescrierea zilnică a arhivelor devine rutină la Ministerul Adevărului; episodul arată cum repetarea transformă falsificarea într-un reflex profesional.
+
+## 141. Insolitarea
+
+**Ideea**
+
+- Insolitarea prezintă un lucru familiar ca și cum ar fi văzut pentru prima dată.
+- Ea prelungește percepția printr-un nume neașteptat, o perspectivă stranie sau o descriere ocolită.
+- Scopul ei nu este simpla excentricitate, ci recuperarea intensității experienței.
+- Cititorul este împiedicat să sară direct la recunoaștere și trebuie să reconstruiască obiectul.
+- Tehnica poate acționa local, într-o imagine, sau global, prin alegerea unui observator neobișnuit.
+
+**Două exemple**
+
+- În *Kholstomer* de Tolstoi, instituția proprietății este percepută de un cal, care nu înțelege cum oamenii pot numi „al meu” un animal; perspectiva face stranie o convenție socială banală.
+- În *Călătoriile lui Gulliver* de Jonathan Swift, corpul omenesc văzut de uriașii din Brobdingnag devine poros și grotesc; schimbarea scării destramă imaginea idealizată a omului.
+
+## 142. Forma dificilă
+
+**Ideea**
+
+- Forma dificilă îngreunează deliberat lectura pentru a împiedica receptarea automată.
+- Dificultatea poate proveni din sintaxă, cronologie, vocabular, tipografie sau discontinuitate.
+- Efortul nu este un defect exterior, ci o parte a efectului estetic.
+- Cititorul devine activ, fiind obligat să lege fragmente și să revizuiască ipoteze.
+- Analiza trebuie să explice ce face dificultatea, nu doar să constate că textul este obscur.
+
+**Două exemple**
+
+- În episodul „Sirenele” din *Ulise* de James Joyce, propozițiile fragmentate și ecourile sonore anticipează motive care vor reveni, obligând cititorul să audă structura înainte de a o înțelege.
+- În prima secțiune din *Zgomotul și furia* de William Faulkner, timpul lui Benjy sare fără marcaje stabile între copilărie și prezent; dificultatea reproduce memoria lui necronologică.
+
+## 143. Fabula și subiectul
+
+**Ideea**
+
+- Fabula este succesiunea logică și cronologică a evenimentelor reconstruite de cititor.
+- Subiectul sau siujetul este ordinea și forma în care textul prezintă acele evenimente.
+- Diferența permite descrierea reordonării, omisiunii, repetiției și întârzierii informației.
+- Fabula nu există gata formulată, ci este inferată din indiciile discursului.
+- Efectul unei narațiuni depinde adesea de distanța dintre cronologia faptelor și ordinea relatării.
+
+**Două exemple**
+
+- În *Odiseea*, rătăcirile lui Ulise preced sosirea la feaci în fabulă, dar sunt povestite retrospectiv de erou după ce poemul a început in medias res.
+- În *Beloved* de Toni Morrison, uciderea copilului de către Sethe aparține trecutului, însă este dezvăluită fragmentar, iar cititorul îi reconstruiește treptat cauzele și consecințele.
+
+## 144. Retardarea
+
+**Ideea**
+
+- Retardarea amână un eveniment așteptat și prelungește drumul către deznodământ.
+- Ea poate introduce digresiuni, obstacole, repetiții, descrieri sau episoade secundare.
+- Tensiunea provine din conflictul dintre dorința de a afla și întârzierea impusă de text.
+- Procedeul poate face vizibilă povestirea însăși, nu doar rezultatul acțiunii.
+- În unele opere, amânarea devine tema centrală a existenței personajelor.
+
+**Două exemple**
+
+- În *Hamlet*, răzbunarea cerută de fantomă este amânată prin îndoieli, investigații și spectacolul „Cursa de șoareci”; întârzierea construiește drama conștiinței.
+- În *În așteptarea lui Godot* de Samuel Beckett, sosirea promisă este amânată de două ori prin același mesaj al băiatului, iar suspendarea devine însăși forma piesei.
+
+## 145. Construcția în trepte
+
+**Ideea**
+
+- Construcția în trepte dezvoltă o acțiune prin reluări succesive, fiecare mai intensă sau mai complexă.
+- Repetiția oferă o schemă recognoscibilă, iar variația produce progresul.
+- Procedeul este frecvent în basm, epopee, comedie și scenele de probă.
+- Fiecare treaptă pregătește așteptarea pentru următoarea și măsoară transformarea eroului.
+- Analiza urmărește ce se conservă și ce se schimbă între reluări.
+
+**Două exemple**
+
+- În *Regele Lear*, cererile adresate succesiv celor trei fiice repetă aceeași probă, dar răspunsul Cordeliei rupe seria și declanșează tragedia.
+- În *Povestea lui Aladin* din *O mie și una de nopți*, dorințele și intervențiile duhului cresc de la satisfacerea nevoilor imediate la construirea palatului și confruntarea cu magicianul.
+
+## 146. Paralelismul și contrastul
+
+**Ideea**
+
+- Paralelismul pune alături situații, personaje sau imagini cu structură asemănătoare.
+- Contrastul accentuează diferențele dintre elementele astfel apropiate.
+- Împreună, procedeele produc comparații fără ca naratorul să le explice integral.
+- O intrigă secundară poate funcționa ca oglindă deformată a intrigii principale.
+- Analiza verifică atât corespondențele structurale, cât și divergențele lor semnificative.
+
+**Două exemple**
+
+- În *Regele Lear*, orbirea lui Gloucester și nebunia lui Lear formează trasee paralele: ambii judecă greșit copiii și dobândesc luciditate după pierdere.
+- În *Doamna Dalloway* de Virginia Woolf, ziua pregătirii petrecerii Clarissei este montată în paralel cu criza lui Septimus, iar apropierea morții lui schimbă sensul serii mondene.
+
+## 147. Înrămarea
+
+**Ideea**
+
+- Înrămarea introduce una sau mai multe povestiri într-o situație narativă care le cuprinde.
+- Rama explică cine povestește, cui, unde și cu ce scop.
+- Ea poate uni texte eterogene și poate produce comentarii reciproce între povestitori.
+- Trecerea dintre ramă și poveste modifică nivelul narativ și autoritatea relatării.
+- Uneori rama devine locul în care cititorul e învățat cum să interpreteze poveștile interioare.
+
+**Două exemple**
+
+- În *Decameronul* de Giovanni Boccaccio, zece tineri fug de ciumă și organizează zile de povestire; experiența epidemiei încadrează și nuanțează cele o sută de nuvele.
+- În *Frankenstein* de Mary Shelley, scrisorile lui Walton cuprind relatarea lui Victor, care cuprinde la rândul ei povestea Creaturii, producând niveluri concurente de mărturie.
+
+## 148. Înlănțuirea episodică
+
+**Ideea**
+
+- Înlănțuirea leagă episoade relativ autonome prin prezența aceluiași erou, a unei călătorii sau a unei misiuni.
+- Coerența rezultă mai puțin din cauzalitate strictă și mai mult din succesiunea aventurilor.
+- Fiecare episod poate testa o altă însușire sau o altă regulă a lumii.
+- Procedeul permite extensia narațiunii fără schimbarea formulei de bază.
+- Analiza caută principiul comun care transformă seria într-un întreg.
+
+**Două exemple**
+
+- În *Don Quijote*, episodul morilor, întâlnirea cu ocnașii și spectacolul păpușilor sunt aventuri distincte unite de lectura cavalerească a protagonistului.
+- În *Odiseea*, ciclopul, Circe, sirenele și coborârea în Infern alcătuiesc probe succesive legate prin itinerarul întoarcerii în Itaca.
+
+## 149. Dezgolirea procedeului
+
+**Ideea**
+
+- Dezgolirea procedeului apare când textul își expune convențiile și mecanismele de construcție.
+- Iluzia unei lumi autonome este întreruptă de comentarii despre autor, narator, gen sau montaj.
+- Cititorul vede simultan povestea și dispozitivul care o produce.
+- Tehnica poate fi comică, critică sau reflexivă.
+- Ea este un precursor important al metaficțiunii moderne și postmoderne.
+
+**Două exemple**
+
+- În *Tristram Shandy*, naratorul desenează traseele digresiunilor și comentează paginile negre ori marmorate, transformând cartea într-o demonstrație a propriului artificiu.
+- În *Dacă într-o noapte de iarnă un călător* de Italo Calvino, Cititorul începe repetat romane întrerupte, iar mecanismul lecturii și al publicării devine intriga principală.
+
+## 150. Personajul ca procedeu
+
+**Ideea**
+
+- În perspectiva formalistă, personajul este o funcție de organizare, nu o persoană reală ascunsă în text.
+- Trăsăturile sale leagă motivele și justifică apariția anumitor acțiuni.
+- Numele, gesturile recurente și rolul în intrigă pot conta mai mult decât profunzimea psihologică.
+- Un personaj poate servi drept observator, agent, obstacol, catalizator sau principiu de coeziune.
+- Analiza întreabă ce face personajul în construcție înainte de a-l diagnostica psihologic.
+
+**Două exemple**
+
+- În *Oedip rege* de Sofocle, încăpățânarea investigativă a lui Oedip unește mărturiile mesagerului, păstorului și Tiresias, conducând mecanic spre recunoaștere.
+- În *Marele Gatsby* de F. Scott Fitzgerald, Nick funcționează ca filtru și martor: accesul său parțial organizează apariția treptată a lui Gatsby și ambiguitatea judecății.
+
+## 151. Limbajul poetic
+
+**Ideea**
+
+- Limbajul poetic atrage atenția asupra formei mesajului, nu doar asupra informației transmise.
+- Sunetele, ritmul, ambiguitatea și paralelismele devin purtătoare de sens.
+- Cuvintele nu mai sunt simple mijloace transparente către obiecte.
+- Distincția față de limbajul practic este funcțională, nu absolută.
+- O analiză adecvată leagă textura verbală de efectul global al operei.
+
+**Două exemple**
+
+- În poemul *Corbul* de Edgar Allan Poe, refrenul rostit de pasăre își schimbă sensul la fiecare întrebare, iar sonoritatea obsesivă transformă un cuvânt într-un destin.
+- În sonetul 73 de Shakespeare, succesiunea imaginilor toamnei, amurgului și jarului organizează temporal iubirea prin paralelisme, nu printr-o afirmație abstractă.
+
+## 152. Repetiția sonoră
+
+**Ideea**
+
+- Repetiția sonoră include rimă, aliterație, asonanță, refren și ecou fonic.
+- Ea creează legături între cuvinte înainte sau dincolo de legăturile lor logice.
+- Sunetul poate intensifica ritmul, poate imita o mișcare sau poate instala o obsesie.
+- Recurența devine semnificativă prin poziție și variație.
+- Analiza evită simbolismul arbitrar și arată cum modelul sonor lucrează în context.
+
+**Două exemple**
+
+- În *Clopotele* de Edgar Allan Poe, revenirea cuvintelor și a consoanelor trece de la clinchet festiv la dangăt funebru, modelând auditiv cele patru secvențe.
+- În cântecele vrăjitoarelor din *Macbeth*, rima incantatorie și ritmul trohaic se separă de versul dramatic obișnuit, marcând o ordine verbală neliniștitoare.
+
+## 153. Ritmul și sintaxa
+
+**Ideea**
+
+- Ritmul literar rezultă din distribuția accentelor, pauzelor, repetițiilor și lungimii frazelor.
+- Sintaxa poate accelera acțiunea, poate suspenda înțelegerea sau poate reproduce o stare mentală.
+- Ritmul nu aparține doar poeziei; proza și teatrul au organizări temporale recognoscibile.
+- O schimbare ritmică locală poate marca o criză ori o schimbare de perspectivă.
+- Analiza corelează forma frazei cu scena și cu experiența pe care o induce.
+
+**Două exemple**
+
+- În monologul final al lui Molly Bloom din *Ulise*, fraza aproape neîntreruptă și absența punctuației convenționale apropie lectura de fluxul corporal al amintirii.
+- În scena furtunii din *Regele Lear*, replicile scurte, imperativele și întreruperile sparg ritmul ceremonial anterior și fac audibilă dezordinea politică și psihică.
+
+## 154. Literaritatea
+
+**Ideea**
+
+- Literaritatea desemnează trăsăturile care fac ca un discurs să funcționeze ca literatură într-un sistem dat.
+- Ea mută întrebarea de la „ce este literatura?” la „ce face literar acest text?”.
+- Nu este o substanță eternă, deoarece normele și genurile se schimbă istoric.
+- Aceleași procedee pot fi dominante într-o epocă și banale în alta.
+- Analiza combină observația formală cu poziția textului în repertoriul cultural.
+
+**Două exemple**
+
+- În *Eugen Oneghin* de Aleksandr Pușkin, strofa fixă, digresiunile naratorului și adresarea către cititor transformă o intrigă sentimentală într-o demonstrație a formei romanești în versuri.
+- În *Un anotimp în infern* de Arthur Rimbaud, proza fragmentară dobândește literaritate prin ritm, imagini recurente și instabilitatea enunțătorului, nu prin versificație regulată.
+
+## 155. Motivul
+
+**Ideea**
+
+- Motivul este cea mai mică unitate tematico-narativă capabilă să intre într-o combinație.
+- Poate fi un obiect, un gest, o situație sau o formulă care pune acțiunea în mișcare.
+- Motivele se repetă, se transformă și se leagă în rețele.
+- Funcția lor depinde de locul ocupat în compoziție, nu de un sens universal fix.
+- Inventarierea motivelor este utilă doar dacă explică relațiile dintre ele.
+
+**Două exemple**
+
+- În *Macbeth*, sângele reapare după uciderea lui Duncan, în viziunile lui Macbeth și în somnambulismul soției sale, legând crima de imposibilitatea purificării.
+- În *Moby-Dick* de Herman Melville, albul balenei revine în mărturii, presimțiri și reflecții, unind aventura vânătorii cu problema unui sens imposibil de fixat.
+
+## 156. Motive legate și motive libere
+
+**Ideea**
+
+- Motivele legate sunt necesare pentru lanțul cauzal al fabulei.
+- Motivele libere pot fi eliminate fără a distruge schema minimală a evenimentelor.
+- Tocmai motivele libere dau adesea densitate stilistică, atmosferă și specificitate istorică.
+- Distincția este relativă: un detaliu aparent liber poate deveni decisiv mai târziu.
+- Analiza testează consecințele eliminării și funcția estetică a surplusului.
+
+**Două exemple**
+
+- În *Crimă și pedeapsă*, toporul, vizita de recunoaștere și sosirea neașteptată a Lizavetei sunt legate de mecanismul crimei, în timp ce visul iepei amplifică simbolic violența fără a o cauza.
+- În *Mizerabilii* de Victor Hugo, întâlnirea lui Valjean cu episcopul este legată de transformarea intrigii, iar lunga descriere a canalizărilor Parisului funcționează ca digresiune liberă cu rol istoric și metaforic.
+
+## 157. Motive dinamice și statice
+
+**Ideea**
+
+- Motivele dinamice schimbă situația și împing acțiunea către o nouă stare.
+- Motivele statice descriu, explică sau suspendă fără să modifice imediat cursul evenimentelor.
+- O operă își construiește ritmul prin alternarea celor două tipuri.
+- Descrierea statică poate pregăti retrospectiv un eveniment sau poate modifica interpretarea lui.
+- Analiza urmărește efectul temporal, nu confundă „static” cu „inutil”.
+
+**Două exemple**
+
+- În *Anna Karenina*, întâlnirea Annei cu Vronski la gară este dinamică, în timp ce portretul mulțimii și al frigului suspendă acțiunea și încarcă locul cu presimțirea accidentului.
+- În *Casa Buddenbrook* de Thomas Mann, deciziile comerciale și căsătoriile schimbă destinul familiei, iar descrierile locuințelor fixează static degradarea gustului și a prestigiului.
+
+## 158. Motivarea
+
+**Ideea**
+
+- Motivarea este justificarea prezenței unui procedeu sau eveniment în economia operei.
+- Motivarea compozițională îl face necesar pentru intrigă, iar cea realistă îl face plauzibil în lumea reprezentată.
+- Motivarea artistică îi justifică forma prin efect estetic și prin convenția genului.
+- O singură secvență poate combina toate aceste justificări.
+- Când motivarea este slabă ori expusă, textul poate produce ironie sau metaficțiune.
+
+**Două exemple**
+
+- În *Oedip rege*, porunca de a găsi ucigașul lui Laios motivează compozițional ancheta, iar ciuma motivează realist urgența ei în cetate.
+- În *Jane Eyre* de Charlotte Brontë, incendiul provocat în camera lui Rochester este explicat realist prin prezența femeii din pod și pregătește compozițional dezvăluirea căsătoriei ascunse.
+
+## 159. Skazul
+
+**Ideea**
+
+- Skazul imită o povestire orală individualizată prin vocabular, intonație și sintaxă.
+- Vocea naratorului devine un obiect artistic distinct de autor.
+- Erorile, ticurile și limitările sale colorează întreaga lume relatată.
+- Cititorul trebuie să audă diferența dintre ceea ce vocea spune și ceea ce textul lasă să se înțeleagă.
+- Tehnica favorizează ironia, pluralitatea socială și apropierea de vorbirea vie.
+
+**Două exemple**
+
+- În *Aventurile lui Huckleberry Finn* de Mark Twain, Huck relatează fuga pe Mississippi în idiomul său regional, iar limitele educației sale intră în conflict cu judecățile morale pe care experiența i le formează.
+- În *Suflete moarte* de Nikolai Gogol, naratorul trece de la confesiune la bârfă și apostrofă, iar exuberanța vocii transformă inventarul provincial într-un spectacol verbal.
+
+## 160. Dominanta
+
+**Ideea**
+
+- Dominanta este componenta care organizează și transformă celelalte componente ale operei.
+- Ea nu este neapărat tema, ci principiul formal aflat în prim-plan.
+- Într-un poem poate domina ritmul; într-un roman, perspectiva, fragmentarea sau montajul.
+- Dominanta se poate schimba istoric, modificând ierarhia procedeelor unui gen.
+- Analiza o propune ca ipoteză și o verifică în cât mai multe niveluri ale textului.
+
+**Două exemple**
+
+- În *Doamna Dalloway*, trecerea fluidă între conștiințe este dominanta care organizează plimbările, amintirile, Big Ben și paralelismul Clarissa–Septimus.
+- În *Pământul pustiu* de T. S. Eliot, montajul vocilor și al citatelor domină tema ruinelor, schimbările de limbă și succesiunea secțiunilor.
+
+## 161. Parodia și stilizarea
+
+**Ideea**
+
+- Stilizarea reproduce recognoscibil un model fără a-l ataca obligatoriu.
+- Parodia repetă modelul cu o distanță critică, comică sau polemică.
+- Ambele cer existența unui cod anterior pe care cititorul îl poate identifica.
+- Diferența se află în orientarea evaluativă a imitației și în gradul deformării.
+- Procedeele pot revitaliza un gen tocmai prin expunerea convențiilor sale.
+
+**Două exemple**
+
+- În *Don Quijote*, veghea armelor la han imită ritualul învestirii cavalerești, dar obiectele banale și hangiul transformă stilizarea în parodie.
+- În *Ulise*, episodul „Boii Soarelui” traversează succesiv stiluri ale prozei engleze; imitația funcționează ca istorie comprimată și ca deformare ludică.
+
+## 162. Evoluția literară
+
+**Ideea**
+
+- Evoluția literară este schimbarea relațiilor dintre procedee și sisteme, nu o simplă listă de capodopere.
+- O formă marginală poate ajunge dominantă, iar una centrală poate deveni convenție epuizată.
+- Parodia, traducerea și contactul cu genurile neliterare pot declanșa transformări.
+- Inovația este inteligibilă numai în raport cu norma pe care o deplasează.
+- Analiza istorică urmărește funcțiile schimbătoare ale aceleiași forme.
+
+**Două exemple**
+
+- În *Don Quijote*, convențiile romanului cavaleresc trec din poziția de model prestigios în aceea de material parodiat, iar din această deplasare se conturează romanul modern.
+- În *Madame Bovary*, motivele romantice citite de Emma sunt mutate într-un cadru provincial și economic, devenind obiect al ironiei realiste.
+
+## 163. Funcția narativă și sferele de acțiune
+
+**Ideea**
+
+- La Propp, funcția este acțiunea definită prin rolul ei în desfășurarea basmului.
+- Personaje diferite pot îndeplini aceeași funcție, iar un personaj poate ocupa mai multe sfere de acțiune.
+- Ordinea funcțiilor este mai stabilă decât identitatea eroilor și a obiectelor.
+- Schema evidențiază plecarea, interdicția, încălcarea, proba, ajutorul, lupta și întoarcerea.
+- Instrumentul descrie bine narațiunile formulaice, dar nu trebuie transformat într-o lege a tuturor romanelor.
+
+**Două exemple**
+
+- În *Cenușăreasa*, interdicția orei de întoarcere, ajutorul zânei, obiectul magic și recunoașterea prin pantof ocupă funcții clare indiferent de variantele culturale ale poveștii.
+- În *Hobbitul* de J. R. R. Tolkien, plecarea lui Bilbo, probele, ajutoarele oferite de Gandalf și descoperirea obiectului magic pot fi cartografiate funcțional, deși romanul complică schema basmului.
+
+## 164. Tema și rema
+
+**Ideea**
+
+- Tema este informația luată ca punct de plecare al enunțului, iar rema este ceea ce se afirmă despre ea.
+- Distincția aparține perspectivei funcționale a propoziției, nu doar gramaticii.
+- Ordinea cuvintelor, accentul și contextul stabilesc distribuția informației.
+- Literatura poate devia ordinea obișnuită pentru a focaliza un element sau a crea suspans.
+- La scară mare, un capitol poate transforma o informație nouă în tema capitolului următor.
+
+**Două exemple**
+
+- În începutul din *Metamorfoza* de Franz Kafka, Gregor este tema familiară a propoziției, iar transformarea în insectă este rema șocantă prezentată cu o sintaxă aproape administrativă.
+- În deschiderea din *Anna Karenina*, familia Oblonski este introdusă ca temă, iar dezordinea provocată de infidelitate devine informația nouă care organizează episoadele casei.
+
+## 165. Marcat și nemarcat
+
+**Ideea**
+
+- Termenul nemarcat reprezintă forma tratată de sistem ca neutră sau implicită.
+- Termenul marcat poartă o trăsătură suplimentară și devine perceptibil ca abatere.
+- Opoziția este relațională: același element poate fi marcat într-un context și normal în altul.
+- Literatura exploatează marcajul prin repetiție, inversare sau transfer între personaje.
+- Analiza poate dezvălui și ierarhiile culturale ascunse sub aparenta neutralitate.
+
+**Două exemple**
+
+- În *Orlando* de Virginia Woolf, schimbarea sexului protagonistului face vizibile convențiile de gen care păreau nemarcate în prima parte a biografiei.
+- În *Mâna stângă a întunericului* de Ursula K. Le Guin, locuitorii androgini ai planetei Gethen transformă masculinitatea presupus neutră a observatorului într-o poziție cultural marcată.
+
+## 166. Funcția poetică
+
+**Ideea**
+
+- Funcția poetică proiectează principiul echivalenței de pe axa selecției pe axa combinării.
+- Formularea atrage atenția asupra modului în care mesajul este alcătuit.
+- Rima, paralelismul, simetria și jocul lexical fac relațiile dintre semne perceptibile.
+- Funcția poetică poate apărea în orice discurs, dar domină în anumite texte literare.
+- Sensul rezultă din organizarea materialului verbal, nu numai din referința lui.
+
+**Două exemple**
+
+- În poemul *Tyger* de William Blake, întrebările simetrice, repetiția cadrului și ritmul construiesc analogia dintre creația poetică și făurirea creaturii.
+- În discursul funebru al lui Marc Antoniu din *Iulius Cezar*, revenirea formulei despre „onorabilul” Brutus schimbă ironic sensul adjectivului prin poziție și repetiție.
+
+## 167. Metafora și metonimia
+
+**Ideea**
+
+- Metafora leagă termeni prin asemănare și substituție.
+- Metonimia leagă termeni prin contiguitate, cauză, parte, context sau asociere.
+- Jakobson vede în ele doi poli ai organizării limbajului și ai stilurilor.
+- Un text poate privilegia condensarea metaforică sau desfășurarea metonimică a detaliilor.
+- Analiza urmărește principiul dominant fără a reduce opera la o singură figură.
+
+**Două exemple**
+
+- În *Infernul* lui Dante, pădurea întunecată în care se pierde călătorul funcționează metaforic pentru rătăcirea morală și spirituală.
+- În *Doamna Bovary*, șapca ridicolă a lui Charles, descrisă la intrarea în clasă, funcționează metonimic: obiectul concentrează mediul, stângăcia și poziția lui socială.
+
+## 168. Actualizarea sau foregroundingul
+
+**Ideea**
+
+- Actualizarea face un element lingvistic perceptibil prin abatere de la normă sau prin paralelism intens.
+- Fundalul limbii comune permite formei deviante să iasă în relief.
+- Devierea poate fi fonică, gramaticală, semantică, grafică ori compozițională.
+- Efectul depinde de context: nu orice anomalie este automat estetică.
+- Analiza identifică norma, abaterea și funcția pe care contrastul o dobândește în întreg.
+
+**Două exemple**
+
+- În *Jabberwocky* de Lewis Carroll, cuvintele inventate ocupă poziții gramaticale recognoscibile, iar abaterea lexicală obligă cititorul să producă sens din ritm și context.
+- În *Portocala mecanică* de Anthony Burgess, jargonul nadsat al lui Alex devine prim-plan lingvistic; cititorul îl învață treptat și simte seducția unei violențe mediate verbal.
+
+## 169. Funcția estetică
+
+**Ideea**
+
+- Funcția estetică orientează atenția spre semnul și organizarea obiectului, nu numai spre utilitatea lui.
+- Ea nu aparține exclusiv artei și poate apărea în ritual, modă sau obiecte cotidiene.
+- În opera de artă, funcția estetică tinde să restructureze celelalte funcții.
+- Valoarea ei se schimbă odată cu normele colective și cu instituțiile culturale.
+- Analiza examinează tensiunea dintre întrebuințare, comunicare, ideologie și formă.
+
+**Două exemple**
+
+- În *À rebours* de J.-K. Huysmans, Des Esseintes transformă locuința, parfumurile și chiar mesele în compoziții autonome, subordonând utilitatea funcției estetice.
+- În *Portretul lui Dorian Gray* de Oscar Wilde, portretul trece de la obiect artistic la depozit vizibil al degradării morale, iar funcțiile estetică și etică intră în conflict.
+
+## 170. Gestul semantic
+
+**Ideea**
+
+- Gestul semantic este principiul dinamic prin care părțile operei tind către o unitate de sens.
+- El nu se confundă cu un mesaj rezumabil sau cu intenția psihologică a autorului.
+- Fiecare motiv primește valoare prin direcția întregului pe care îl ajută să se formeze.
+- Unitatea rămâne procesuală și poate include tensiuni ori contradicții.
+- Analiza formulează gestul după examinarea structurii, nu îl impune dinainte.
+
+**Două exemple**
+
+- În *Procesul* de Kafka, arestarea fără acuzație, birourile sufocante și parabola din catedrală converg către gestul unei căutări a legii care se îndepărtează pe măsură ce este urmărită.
+- În *Spre far* de Virginia Woolf, promisiunea excursiei, secțiunea „Timpul trece” și sosirea finală organizează un gest al apropierii mereu remodelate de timp și pierdere.
+
+## 171. Concretizarea
+
+**Ideea**
+
+- Concretizarea este activitatea prin care cititorul completează locurile nedeterminate ale operei.
+- Textul oferă perspective, obiecte schematizate și indicații, nu o lume exhaustivă.
+- Lecturi diferite pot actualiza posibilități diferite fără a fi arbitrare.
+- Normele epocii și experiența cititorului influențează imaginea construită.
+- Analiza distinge ceea ce textul afirmă de ceea ce interpretarea completează.
+
+**Două exemple**
+
+- În *În așteptarea lui Godot*, identitatea lui Godot nu este stabilită; cititorul sau spectatorul concretizează absența ca salvare, autoritate, sens ori simplă promisiune.
+- În *Cotitura de șurub* de Henry James, aparițiile pot fi concretizate ca fantome reale sau ca proiecții ale guvernantei, deoarece relatarea oferă indicii pentru ambele scenarii.
+
+## 172. Norma estetică
+
+**Ideea**
+
+- Norma estetică este ansamblul așteptărilor prin care o comunitate recunoaște și evaluează formele.
+- Ea este istorică, variabilă și concurată de alte norme.
+- Inovația devine vizibilă numai pe fundalul unei norme existente.
+- O abatere repetată poate fi absorbită și transformată ulterior în convenție.
+- Analiza reconstruiește orizontul contemporan operei și distanța față de lectura actuală.
+
+**Două exemple**
+
+- În premiera romanului *Doamna Bovary*, tratarea impersonală a adulterului și amestecul discursurilor au contrazis așteptările morale și judiciare, lucru vizibil în procesul intentat autorului.
+- În *Florile răului* de Charles Baudelaire, asocierea formei lirice elevate cu putrezirea, orașul și erotismul a deviat de la norma tematică dominantă și a produs scandal.
+
+## 173. Obiectul estetic și artefactul
+
+**Ideea**
+
+- Artefactul este suportul material stabil: cartea, partitura, tabloul sau textul tipărit.
+- Obiectul estetic este structura de sens actualizată în experiența receptorului.
+- Distincția explică de ce aceeași operă poate avea concretizări istorice diferite.
+- Obiectul estetic nu este pur subiectiv, fiind constrâns de organizarea artefactului.
+- Analiza poate compara suportul, convențiile de lectură și actualizările rezultate.
+
+**Două exemple**
+
+- În *Un coup de dés* de Stéphane Mallarmé, distribuția tipografică a cuvintelor pe pagină aparține artefactului, iar traseul vizual și ritmic construit de fiecare lectură formează obiectul estetic.
+- În *Casa frunzelor* de Mark Z. Danielewski, paginile răsucite, spațiile goale și notele concurente sunt date materiale, dar labirintul narativ apare numai prin parcursul concret al cititorului.
+
+# B. Structuralismul francez și naratologia clasică
+
+## 174. Opoziția binară
+
+**Ideea**
+
+- Structuralismul caută relații diferențiale precum natură/cultură, viață/moarte sau centru/margine.
+- Termenii nu au sens izolat, ci prin opoziția care îi leagă.
+- Narațiunea poate media, inversa sau complica contrastul inițial.
+- Opozițiile nu trebuie tratate ca adevăruri universale, ci ca modele verificabile.
+- Analiza urmărește transformările dintre poli și elementele care nu încap în schemă.
+
+**Două exemple**
+
+- În *Furtuna* de Shakespeare, opoziția cultură/natură organizează relațiile Prospero–Caliban, dar limbajul poetic al lui Caliban destabilizează distribuția simplă a termenilor.
+- În *Inima întunericului* de Joseph Conrad, contrastul civilizație/sălbăticie este enunțat de discursul colonial și răsturnat de violența companiei și de destinul lui Kurtz.
+
+## 175. Mitemul
+
+**Ideea**
+
+- Mitemul este o unitate relațională minimă din structura unui mit.
+- Sensul lui apare prin poziția într-un pachet de relații, nu prin conținutul izolat.
+- Variantele unui mit pot modifica episoadele, păstrând anumite opoziții.
+- Lectura structurală așază elementele pe axe și caută transformări recurente.
+- Metoda explică logica variantelor, dar poate pierde particularitatea stilistică a fiecărei opere.
+
+**Două exemple**
+
+- În *Oedip rege*, uciderea tatălui, căsătoria cu mama și rezolvarea enigmei pot fi citite ca relații între rudenie, autohtonism și cunoaștere, nu doar ca episoade succesive.
+- În *Antigona*, conflictul dintre datoria familială și legea cetății reia un nucleu mitic al casei Labdacizilor, transformând opoziția sânge/autoritate publică.
+
+## 176. Modelul actanțial
+
+**Ideea**
+
+- Greimas reduce personajele la șase roluri: Subiect, Obiect, Destinator, Destinatar, Adjuvant și Oponent.
+- Actantul este o poziție structurală, nu neapărat o singură persoană.
+- Același personaj poate schimba rolul, iar un rol poate fi ocupat de o idee sau instituție.
+- Modelul clarifică dorința, transmiterea valorii și raportul dintre ajutor și obstacol.
+- Analiza trebuie să surprindă mutațiile, nu să forțeze fiecare figură într-o căsuță fixă.
+
+**Două exemple**
+
+- În *Stăpânul inelelor*, Frodo este Subiectul, distrugerea Inelului este Obiectul, Consiliul îl mandatează, Sam ajută, iar Sauron și puterea Inelului se opun.
+- În *Marele Gatsby*, Gatsby urmărește recuperarea lui Daisy, dar banii, Nick, Tom și propria imagine idealizată ocupă roluri fluctuante de ajutor și opoziție.
+
+## 177. Programul narativ
+
+**Ideea**
+
+- Programul narativ descrie trecerea unui subiect de la separarea de un obiect de valoare la conjuncția cu el sau invers.
+- El include competența, performanța și sancțiunea.
+- Competența presupune a trebui, a vrea, a ști și a putea să acționezi.
+- Mai multe programe se pot încrucișa, unul devenind obstacolul altuia.
+- Analiza urmărește transformările de stare și valorile investite în obiect.
+
+**Două exemple**
+
+- În *Odiseea*, Ulise vrea și trebuie să revină acasă, dobândește ajutoare și cunoaștere, își execută întoarcerea deghizat și este recunoscut prin semne succesive.
+- În *Contele de Monte-Cristo* de Alexandre Dumas, evadarea și dobândirea comorii oferă competența necesară programului răzbunării, a cărui sancțiune morală se complică pe parcurs.
+
+## 178. Pătratul semiotic
+
+**Ideea**
+
+- Pătratul semiotic extinde o opoziție A/non-A prin contrarietate, contradicție și implicație.
+- El face vizibile pozițiile intermediare ori neutre pe care binarismul le ascunde.
+- Termenii trebuie formulați în raport cu valorile textului, nu ale analistului.
+- Parcursul unui personaj poate fi descris ca deplasare între pozițiile pătratului.
+- Instrumentul este o hartă logică, nu o explicație completă a operei.
+
+**Două exemple**
+
+- În *Antigona*, legal/ilegal se complică prin legea divină și autoritatea civică: gestul eroinei este ilegal pentru Creon, dar legitim într-un alt sistem normativ.
+- În *Străinul* de Albert Camus, vinovat/nevinovat este perturbat la proces, unde indiferența la înmormântare devine mai incriminatoare decât circumstanțele crimei.
+
+## 179. Logica posibilităților narative
+
+**Ideea**
+
+- Bremond descrie narațiunea ca rețea de acțiuni posibile, actualizate sau ratate.
+- O virtualitate se poate împlini, poate eșua ori poate fi abandonată.
+- Personajele apar ca agenți care beneficiază sau suferă procese.
+- Modelul evidențiază ramificațiile ascunse de versiunea finală a intrigii.
+- Analiza întreabă ce ar fi putut urma la fiecare prag și de ce textul selectează o cale.
+
+**Două exemple**
+
+- În *Grădina potecilor ce se bifurcă* de Jorge Luis Borges, romanul lui Ts’ui Pên actualizează simultan alternative incompatibile, literalizând arborele posibilităților.
+- În *Romeo și Julieta*, scrisoarea neajunsă la Romeo închide posibilitatea salvării și actualizează lanțul erorilor care conduce la dublul suicid.
+
+## 180. Echilibrul și transformarea
+
+**Ideea**
+
+- Todorov descrie multe narațiuni ca trecere de la un echilibru inițial la dezechilibru și la un nou echilibru.
+- Finalul nu restaurează neapărat starea originară, ci integrează consecințele transformării.
+- Schema permite compararea genurilor și a tipurilor de intrigă.
+- Dezechilibrul poate fi provocat de o dorință, o crimă, o revelație sau o intruziune.
+- Analiza trebuie să observe ce valori sunt schimbate între prima și ultima stare.
+
+**Două exemple**
+
+- În *Mândrie și prejudecată*, echilibrul provincial este tulburat de sosirea lui Bingley și Darcy, iar căsătoriile finale instituie o ordine nouă după corectarea judecăților.
+- În *Metamorfoza*, transformarea lui Gregor distruge economia familiei, iar moartea lui produce un nou echilibru dur, centrat pe viitorul Gretei.
+
+## 181. Ezitarea fantastică
+
+**Ideea**
+
+- Fantasticul apare, la Todorov, prin ezitarea dintre o explicație naturală și una supranaturală.
+- Ezitarea poate aparține personajului, cititorului sau ambilor.
+- Dacă supranaturalul este acceptat, textul tinde spre miraculos; dacă este explicat, spre straniu.
+- Tehnica cere menținerea incompatibilității suficient timp pentru a organiza lectura.
+- Analiza identifică indiciile care susțin fiecare explicație și momentul eventualei decizii.
+
+**Două exemple**
+
+- În *Cotitura de șurub*, fantomele observate de guvernantă pot fi agenți supranaturali sau efecte ale obsesiei ei, iar manuscrisul nu rezolvă sigur alternativa.
+- În *Omul de nisip* de E. T. A. Hoffmann, Coppelius/Olimpia pot confirma o conspirație demonică ori prăbușirea psihică a lui Nathanael, păstrând ezitarea până aproape de final.
+
+## 182. Nucleii și catalizele
+
+**Ideea**
+
+- Nucleii sunt momente-cardinal care deschid sau închid alternative decisive ale acțiunii.
+- Catalizele umplu intervalele dintre nuclee prin gesturi, descrieri și acțiuni secundare.
+- Eliminarea unui nucleu schimbă logica intrigii; eliminarea unei catalize schimbă mai ales ritmul și textura.
+- Catalizele pot crea suspans și pot pregăti simbolic o decizie.
+- Analiza urmărește ierarhia funcțională fără a declara detaliile lipsite de sens.
+
+**Două exemple**
+
+- În *Crimă și pedeapsă*, hotărârea și executarea crimei sunt nuclee; drumul, ezitările și verificarea ușii funcționează drept catalize care dilată tensiunea.
+- În *Anna Karenina*, întâlnirea Annei cu Vronski și mărturisirea către Karenin sunt nuclee, în timp ce scenele mondene dintre ele modulează presiunea socială.
+
+## 183. Indicii și informanții
+
+**Ideea**
+
+- Indiciile trimit la atmosferă, caracter sau sens implicit și cer interpretare.
+- Informanții oferă date identificabile despre timp, loc, vârstă sau nume.
+- Indiciile lucrează vertical, legând un detaliu de întregul semnificativ.
+- Informanții ancorează lumea și produc efect de realitate.
+- Același element poate funcționa simultan ca dată concretă și ca indiciu simbolic.
+
+**Două exemple**
+
+- În *Marele Gatsby*, lumina verde este un indiciu al dorinței proiectate, în timp ce numele localităților East Egg și West Egg informează și structurează geografia socială.
+- În *Ciuma* de Albert Camus, numărul crescător al șobolanilor oferă informații despre epidemie și devine indiciu al unei ordini urbane care se dezagregă.
+
+## 184. Codul hermeneutic
+
+**Ideea**
+
+- Codul hermeneutic organizează întrebările, enigmele, amânările și dezvăluirile unui text.
+- El produce dorința de a afla cine, cum sau de ce.
+- Răspunsurile parțiale pot complica enigma în loc să o închidă.
+- Suspansul depinde de distribuirea controlată a informației.
+- Analiza cartografiază formularea enigmei, blocajele și soluția sau absența ei.
+
+**Două exemple**
+
+- În *Oedip rege*, întrebarea „cine l-a ucis pe Laios?” este amânată prin mărturii incomplete până când anchetatorul se identifică drept vinovat.
+- În *Numele trandafirului* de Umberto Eco, seria morților și cartea interzisă despre râs produc enigme convergente, rezolvate în biblioteca-labirint.
+
+## 185. Codul proairetic
+
+**Ideea**
+
+- Codul proairetic organizează acțiunile în secvențe recognoscibile și așteptări practice.
+- Un gest precum „scoate arma” anticipează un câmp de continuări posibile.
+- Cititorul numește secvențe precum urmărire, duel, evadare sau seducție.
+- Codul cooperează cu enigma: acțiunea poate întârzia ori furniza informația.
+- Analiza urmărește promisiunile de acțiune și modul în care sunt împlinite sau frustrate.
+
+**Două exemple**
+
+- În *Cei trei muschetari*, provocarea, alegerea martorilor și scoaterea spadelor activează scenariul duelului, apoi sosirea gărzilor îl transformă într-o alianță.
+- În *Bătrânul și marea* de Ernest Hemingway, pregătirea firului, mușcătura și tragerea peștelui alcătuiesc o secvență de vânătoare a cărei durată produce tensiunea.
+
+## 186. Codurile semic, simbolic și cultural
+
+**Ideea**
+
+- Codul semic adună trăsături care construiesc personaje, obiecte și locuri.
+- Codul simbolic organizează opoziții și condensări cu valoare repetitivă.
+- Codul cultural invocă cunoaștere comună, proverbe, științe sau autorități.
+- Codurile se suprapun, iar un detaliu poate participa la mai multe rețele.
+- Analiza arată cum sensul plural rezultă din intersectarea lor.
+
+**Două exemple**
+
+- În *Moby-Dick*, cicatricea și privirea lui Ahab formează seme ale obsesiei, albul balenei intră în codul simbolic, iar capitolele cetologice mobilizează codul cultural.
+- În *Numele trandafirului*, orbirea lui Jorge îl construiește semic, labirintul funcționează simbolic, iar disputele teologice activează coduri culturale medievale.
+
+## 187. Analepsa
+
+**Ideea**
+
+- Analepsa relatează după un punct al narațiunii un eveniment anterior acelui punct.
+- Ea poate fi externă, internă sau mixtă în raport cu povestirea principală.
+- Procedeul completează cauze, corectează impresii și întârzie revelații.
+- Întinderea și distanța retrospectivei determină efectul ei.
+- Analiza precizează cine își amintește, când și cu ce grad de siguranță.
+
+**Două exemple**
+
+- În *Odiseea*, Ulise povestește feacilor aventurile de la plecarea din Troia, transformând eroul prezent în narator al propriului trecut.
+- În *La răscruce de vânturi* de Emily Brontë, Nelly reconstruiește pentru Lockwood copilăria lui Heathcliff și Catherine, iar retrospectiva explică ostilitatea prezentă.
+
+## 188. Prolepsa
+
+**Ideea**
+
+- Prolepsa anticipează un eveniment care va avea loc ulterior în timpul poveștii.
+- Ea poate promite, avertiza sau reduce suspansul pentru a amplifica fatalitatea.
+- Unele prolepse sunt precise, altele doar presimțiri ori scenarii imaginate.
+- Anticiparea modifică felul în care cititorul interpretează fiecare pas către rezultat.
+- Analiza distinge viitorul sigur al naratorului de posibilitățile personajelor.
+
+**Două exemple**
+
+- În *Cronica unei morți anunțate* de Gabriel García Márquez, moartea lui Santiago Nasar este declarată de la început, iar interesul se mută de la „ce?” la „cum a fost posibil?”.
+- În *Romeo și Julieta*, prologul anunță destinul îndrăgostiților, conferind fiecărei încercări de evitare a conflictului o ironie tragică.
+
+## 189. Elipsa temporală
+
+**Ideea**
+
+- Elipsa omite o perioadă a poveștii din discursul narativ.
+- Ea poate fi explicită, marcată printr-o formulă, sau implicită, dedusă din schimbări.
+- Procedeul accelerează ritmul și obligă cititorul să completeze intervalul.
+- Omiterea poate proteja o enigmă ori poate semnala caracterul indezirabil al unei experiențe.
+- Analiza măsoară ce durată lipsește și ce urme lasă absența ei.
+
+**Două exemple**
+
+- În secțiunea „Timpul trece” din *Spre far*, anii războiului și morțile membrilor familiei sunt comprimate ori enunțate între paranteze, în timp ce casa goală ocupă prim-planul.
+- În *Anii* de Virginia Woolf, salturile între date lasă în afara scenei decenii întregi, iar schimbarea corpurilor și a locuințelor face intervalul perceptibil.
+
+## 190. Rezumatul
+
+**Ideea**
+
+- Rezumatul comprimă o durată amplă a poveștii într-un segment scurt de discurs.
+- El selectează tendințe și rezultate în locul gesturilor individuale.
+- Poate lega două scene, poate grăbi o perioadă repetitivă sau poate produce distanță ironică.
+- Gradul de comprimare exprimă ierarhia acordată evenimentelor.
+- Analiza compară timpul povestit cu spațiul textual care îi este oferit.
+
+**Două exemple**
+
+- În *Educația sentimentală* de Flaubert, perioade întregi din viața lui Frédéric sunt rezumate între întâlniri decisive, subliniind deriva și ratarea.
+- În *Un veac de singurătate*, ascensiunea și prăbușirea unor afaceri ori războaie sunt comprimate rapid, întărind senzația ciclurilor istorice.
+
+## 191. Scena
+
+**Ideea**
+
+- Scena apropie durata discursului de durata evenimentului reprezentat.
+- Dialogul, gesturile succesive și detaliul senzorial creează impresia desfășurării în timp real.
+- Ea concentrează de obicei confruntări, revelații sau alegeri.
+- Scena nu reproduce timpul perfect, ci construiește o echivalență convențională.
+- Analiza observă intrările, replicile, pauzele și schimbarea raporturilor de putere.
+
+**Două exemple**
+
+- În *Mândrie și prejudecată*, prima cerere în căsătorie a lui Darcy se desfășoară ca scenă dialogată, iar fiecare replică inversează raportul dintre orgoliu și judecată.
+- În *Frații Karamazov*, episodul „Marele Inchizitor” încetinește acțiunea într-o amplă confruntare verbală despre libertate și autoritate.
+
+## 192. Pauza descriptivă
+
+**Ideea**
+
+- Pauza apare când discursul continuă, dar timpul evenimentelor nu înaintează.
+- Descrierea, reflecția ori comentariul suspendă acțiunea.
+- Ea poate orienta privirea, încărca simbolic un obiect sau expune o ideologie.
+- Pauza controlează ritmul și poate contrazice urgența intrigii.
+- Analiza întreabă cine descrie și de ce oprirea apare exact în acel punct.
+
+**Două exemple**
+
+- În *Moby-Dick*, capitolele despre anatomia și clasificarea balenelor suspendă vânătoarea, transformând obiectul urmărit într-un exces de cunoaștere.
+- În *Notre-Dame de Paris* de Victor Hugo, panorama Parisului medieval oprește acțiunea pentru a construi orașul și catedrala ca personaje istorice.
+
+## 193. Frecvența singulativă
+
+**Ideea**
+
+- Narațiunea singulativă povestește o dată ceea ce s-a întâmplat o dată.
+- Este forma aparent neutră a relatării evenimentelor discrete.
+- Neutralitatea ei este doar un reper pentru celelalte raporturi de frecvență.
+- Poziția și amploarea unei relatări unice indică importanța atribuită evenimentului.
+- Analiza urmărește cum singularitatea este pregătită și ce consecințe produce.
+
+**Două exemple**
+
+- În *Anna Karenina*, moartea Annei sub tren este relatată ca eveniment unic, pregătit prin motivul gării și imposibil de repetat în lumea poveștii.
+- În *Oedip rege*, recunoașterea identității lui Oedip are loc o singură dată și reorganizează retrospectiv toate mărturiile anterioare.
+
+## 194. Frecvența repetitivă
+
+**Ideea**
+
+- Narațiunea repetitivă relatează de mai multe ori un eveniment petrecut o singură dată.
+- Fiecare versiune poate aparține altei perspective sau altei etape de cunoaștere.
+- Repetiția nu este redundantă, deoarece schimbă evaluarea și distribuția informației.
+- Tehnica este potrivită pentru traumă, anchetă și conflictul mărturiilor.
+- Analiza compară diferențele de selecție, vocabular și autoritate.
+
+**Două exemple**
+
+- În *Absalom, Absalom!* de Faulkner, istoria lui Sutpen este reconstruită repetat de Rosa, Mr. Compson, Quentin și Shreve, fără a deveni complet sigură.
+- În *Beloved*, uciderea copilului revine în amintiri și voci diferite, fiecare reluare modificând raportul dintre cruzime, iubire și supraviețuire.
+
+## 195. Frecvența iterativă
+
+**Ideea**
+
+- Narațiunea iterativă spune o singură dată ceea ce s-a petrecut de mai multe ori.
+- Formule precum „în fiecare zi” comprimă o serie de evenimente asemănătoare.
+- Ea construiește obiceiuri, medii sociale și durate de fundal.
+- O scenă singulară poate rupe seria și deveni astfel foarte marcată.
+- Analiza urmărește trecerea dintre rutină și excepție.
+
+**Două exemple**
+
+- În *În căutarea timpului pierdut*, ritualurile serilor de la Combray sunt relatate iterativ, iar seara sărutului refuzat se desprinde ca abatere singulară.
+- În *Robinson Crusoe*, activitățile repetate de cultivare, numărare și fortificare sunt condensate în jurnal, până când urma unui picior rupe rutina.
+
+## 196. Focalizarea zero
+
+**Ideea**
+
+- În focalizarea zero, naratorul oferă mai multe informații decât deține oricare personaj.
+- El poate pătrunde în conștiințe diferite și poate anticipa ori comenta.
+- „Omnisciența” este un efect textual, nu cunoașterea reală a unui autor.
+- Libertatea informațională poate susține ironia și panorama socială.
+- Analiza identifică schimbările de acces și limitele pe care textul totuși le păstrează.
+
+**Două exemple**
+
+- În *Război și pace*, relatarea bătăliei de la Borodino trece între Kutuzov, Pierre, Andrei și planul general, depășind perspectiva fiecăruia.
+- În *Casa umbrelor* de Charles Dickens, naratorul panoramic urmărește ceața londoneză, instituțiile și familiile înainte ca personajele să le poată conecta.
+
+## 197. Focalizarea internă
+
+**Ideea**
+
+- Focalizarea internă limitează informația la percepția și cunoașterea unui personaj.
+- Ea poate fi fixă, variabilă sau multiplă.
+- Naratorul poate vorbi la persoana a treia, păstrând totuși filtrul interior.
+- Cititorul împărtășește erorile, prejudecățile și surprizele focalizatorului.
+- Analiza separă vocea care relatează de conștiința prin care se vede.
+
+**Două exemple**
+
+- În *Mândrie și prejudecată*, multe scene sunt filtrate prin Elizabeth; scrisoarea lui Darcy obligă cititorul să-și revizuiască judecata odată cu ea.
+- În *Ambasadorii* de Henry James, Parisul și familia Newsome sunt evaluate prin Strether, iar informațiile sosesc pe măsura transformării percepției sale.
+
+## 198. Focalizarea externă
+
+**Ideea**
+
+- Focalizarea externă prezintă gesturi și vorbe fără acces direct la gândurile personajelor.
+- Naratorul știe aparent mai puțin decât actorii observați.
+- Efectul poate fi de obiectivitate, mister, tensiune sau alienare.
+- Cititorul deduce motivațiile din comportament și context.
+- Analiza observă ce interioritate este refuzată și când apar eventuale breșe.
+
+**Două exemple**
+
+- În povestirea *Ucigașii* de Hemingway, Nick și cititorul urmăresc conversația și pregătirile celor doi asasini fără explicații psihologice sau istorie completă.
+- În *Șoimii* de Dashiell Hammett, gesturile și dialogurile detectivului Sam Spade sunt oferite din exterior, păstrându-i intențiile strategice opace.
+
+## 199. Vocea heterodiegetică și homodiegetică
+
+**Ideea**
+
+- Naratorul heterodiegetic nu participă ca personaj la povestea pe care o spune.
+- Naratorul homodiegetic aparține lumii povestite, ca protagonist sau martor.
+- Persoana gramaticală nu decide singură statutul; importantă este participarea la evenimente.
+- Statutul influențează accesul la informație și responsabilitatea mărturiei.
+- Analiza combină întrebarea „cine vorbește?” cu „ce rol a avut în fapte?”.
+
+**Două exemple**
+
+- În *Marile speranțe* de Dickens, Pip adult povestește homodiegetic copilăria și își poate judeca retrospectiv iluziile.
+- În *Doamna Bovary*, un „noi” de colegi apare la început, dar relatarea devine predominant heterodiegetică și mobilă, semnalând o tranziție deliberată a vocii.
+
+## 200. Nivelurile narative
+
+**Ideea**
+
+- Nivelul extradiegetic este situația în care se produce relatarea principală.
+- Nivelul intradiegetic este lumea evenimentelor povestite, iar o poveste inclusă poate deveni metadiegetică.
+- Schimbarea nivelului explică poveștile în ramă, manuscrisele și relatările personajelor.
+- Fiecare nivel poate avea alt narator, destinatar și grad de credibilitate.
+- Analiza trasează frontierele înainte de a interpreta trecerile dintre ele.
+
+**Două exemple**
+
+- În *Frankenstein*, Walton scrie scrisori, Victor îi povestește viața, iar Creatura își introduce propria relatare, formând trei niveluri încastrate.
+- În *O mie și una de nopți*, Șeherezada spune povești în care personaje devin la rândul lor povestitori, amânând prin încastrare execuția.
+
+## 201. Metalepsa
+
+**Ideea**
+
+- Metalepsa transgresează frontiera dintre niveluri narative care ar trebui să rămână separate.
+- Un narator poate intra în lumea personajelor, iar un personaj poate întâlni autorul sau cititorul.
+- Procedeul produce umor, vertij ontologic sau reflecție asupra ficțiunii.
+- El dezvăluie convenția tocmai prin încălcarea ei.
+- Analiza precizează frontiera încălcată și consecințele asupra realității povestite.
+
+**Două exemple**
+
+- În partea a doua din *Don Quijote*, personajele întâlnesc oameni care au citit prima parte a romanului, iar produsul editorial pătrunde în lumea ficțiunii.
+- În *Dacă într-o noapte de iarnă un călător*, „tu”, Cititorul, devine personaj care caută chiar cartea pe care cititorul empiric o ține în mână.
+
+## 202. Autorul implicat
+
+**Ideea**
+
+- Autorul implicat este imaginea principiului creator pe care cititorul o reconstruiește din întregul text.
+- El nu este persoana biografică și nu se confundă cu naratorul.
+- Se manifestă prin selecție, norme, ironii și arhitectura operei.
+- Conceptul explică situațiile în care textul subminează valorile vocii narative.
+- Analiza îl folosește prudent, ca efect al operei, nu ca intenție psihologică demonstrată.
+
+**Două exemple**
+
+- În *Lolita* de Vladimir Nabokov, eleganța lui Humbert aparține naratorului, dar contradicțiile, suferința lui Dolores și cadrul editorial permit reconstruirea unei norme care îl condamnă.
+- În *Rămășițele zilei* de Kazuo Ishiguro, Stevens își justifică loialitatea, însă scenele ratate cu Miss Kenton și dezvăluirile despre lordul Darlington construiesc o evaluare opusă.
+
+## 203. Naratorul nefiabil
+
+**Ideea**
+
+- Naratorul nefiabil oferă o relatare ale cărei judecăți sau informații trebuie corectate de cititor.
+- Nefiabilitatea poate proveni din minciună, autoamăgire, inocență, traumă sau limitare cognitivă.
+- Indiciile apar în contradicții, reacțiile altora și distanța dintre eveniment și evaluare.
+- Tehnica produce o a doua poveste: aceea pe care cititorul o reconstruiește împotriva vocii.
+- Nefiabil nu înseamnă lipsit de valoare; deformarea poate comunica adevăruri afective.
+
+**Două exemple**
+
+- În *Lolita*, Humbert transformă abuzul într-o poveste de iubire, dar detaliile fugii, izolării și fricii lui Dolores contrazic retorica sa.
+- În *Prăbușirea casei Usher* de Edgar Allan Poe, observatorul se declară rațional, însă sensibilitatea lui crescândă și imposibilitatea verificării fac relatarea finală incertă.
+
+# C. Semiotica, poststructuralismul și naratologia postclasică
+
+## 204. Semnul arbitrar
+
+**Ideea**
+
+- La Saussure, semnul unește un semnificant cu un semnificat, nu un cuvânt cu un obiect în mod natural.
+- Legătura dintre cele două fețe este convențională și menținută de un sistem social.
+- Valoarea semnului rezultă din diferențele față de celelalte semne.
+- Literatura poate expune fragilitatea convenției prin traducere, neologism și joc omonimic.
+- Analiza întreabă ce opoziții ale limbii fac posibil efectul local.
+
+**Două exemple**
+
+- În *Alice în Țara Oglinzilor* de Lewis Carroll, Humpty Dumpty pretinde că poate impune cuvintelor orice sens, iar scena transformă arbitrarul semnului într-o problemă de putere.
+- În *1984*, partidul reduce vocabularul prin Nouvorbă, încercând să modifice câmpul gândibil prin reorganizarea diferențelor din sistem.
+
+## 205. Iconul
+
+**Ideea**
+
+- Iconul semnifică printr-o relație de asemănare cu obiectul său.
+- Asemănarea este selectivă și codificată, nu o copie neutră.
+- Diagrama, portretul, harta și onomatopeea pot funcționa iconic în grade diferite.
+- În literatură, distribuția grafică ori ritmul pot imita forma unei mișcări.
+- Analiza identifică trăsătura reprodusă și convenția care permite recunoașterea.
+
+**Două exemple**
+
+- În *Un coup de dés* de Mallarmé, gruparea și dispersarea cuvintelor pe pagină iconizează constelația și mișcarea aruncării.
+- În *Casa frunzelor*, rândurile care se îngustează, se răsucesc ori lasă pagini aproape goale imită grafic fuga și spațiul imposibil al coridorului.
+
+## 206. Indicele
+
+**Ideea**
+
+- Indicele este legat de obiect prin contiguitate fizică, urmă sau cauzalitate.
+- Fumul indică focul, urma indică trecerea, iar simptomul indică o stare.
+- În narațiune, indicele pune în mișcare inferența detectivă.
+- Sensul lui depinde de un context care conectează efectul cu o cauză posibilă.
+- Un indice poate rămâne ambiguu când mai multe cauze explică aceeași urmă.
+
+**Două exemple**
+
+- În *Robinson Crusoe*, urma singulară a unui picior pe nisip indică prezența altui om și distruge siguranța insulară construită de protagonist.
+- În *Câinele din Baskerville* de Arthur Conan Doyle, urmele, noroiul și mirosul sunt tratate de Holmes ca efecte materiale care permit reconstruirea complotului.
+
+## 207. Simbolul
+
+**Ideea**
+
+- La Peirce, simbolul semnifică prin regulă, convenție sau obișnuință culturală.
+- Legătura sa cu obiectul trebuie învățată, spre deosebire de indice și de icon.
+- Limbajul verbal este în mare măsură simbolic.
+- În literatură, un simbol poate combina convenția cu asemănarea și urma materială.
+- Analiza evită dicționarele rigide și reconstruiește regulile active în text.
+
+**Două exemple**
+
+- În *Litera stacojie* de Nathaniel Hawthorne, litera A este o marcă legală convențională, dar sensul ei trece de la adulter la abilitate și identitate publică.
+- În *Ferma animalelor* de George Orwell, steagul, cântecul și poruncile funcționează ca simboluri politice ale noii comunități, apoi sunt rescrise de conducători.
+
+## 208. Semioza nelimitată
+
+**Ideea**
+
+- Interpretantul unui semn devine la rândul său semn și poate genera o nouă interpretare.
+- Semioza este potențial nelimitată, dar comunitățile și contextele stabilesc opriri provizorii.
+- Conceptul explică de ce sensul se dezvoltă fără a deveni pur arbitrar.
+- Textele reflexive pot dramatiza lanțuri de comentarii și traduceri.
+- Analiza urmărește traseul interpretanților și criteriile locale de stabilizare.
+
+**Două exemple**
+
+- În *Numele trandafirului*, semnele crimelor sunt interpretate prin Apocalipsă, apoi reinterpretate ca efect al unei serii doar parțial planificate.
+- În *Pierre Menard, autorul lui Don Quijote* de Borges, aceleași propoziții primesc alte interpretări când sunt atribuite unui autor din secolul XX.
+
+## 209. Denotația, conotația și mitul
+
+**Ideea**
+
+- Denotația oferă sensul aparent direct, iar conotația activează valori culturale secundare.
+- Mitul barthesian transformă un semn deja format în semnificantul unui al doilea sistem.
+- Construcțiile istorice ajung astfel să pară naturale și evidente.
+- Literatura poate reproduce mitul sau îi poate expune mecanismul.
+- Analiza pornește de la detaliul concret și reconstruiește valorile ideologice atașate.
+
+**Două exemple**
+
+- În *Marele Gatsby*, automobilul denotă un obiect de lux, conotează mobilitate și statut, iar accidentul demontează mitul succesului american fără cost.
+- În *Moartea unui comis-voiajor* de Arthur Miller, casa, frigiderul și slujba lui Willy susțin mitul prosperității prin merit, pe care eșecul familiei îl dezvăluie ca presiune ideologică.
+
+## 210. Opera deschisă
+
+**Ideea**
+
+- Opera deschisă organizează un câmp de posibilități interpretative fără a renunța la formă.
+- Deschiderea nu înseamnă că orice lectură este egală, deoarece textul stabilește constrângeri.
+- Ambiguitatea, discontinuitatea și participarea receptorului devin principii constructive.
+- Unele opere sunt deschise semantic, altele permit chiar ordini materiale variabile.
+- Analiza descrie ce alegeri îi sunt oferite cititorului și unde se închid.
+
+**Două exemple**
+
+- În *Castelul destinelor încrucișate* de Calvino, cărțile de tarot pot susține istorii diferite, dar combinațiile lor vizuale limitează interpretarea.
+- În *Șotron* de Julio Cortázar, cititorul poate urma ordinea liniară ori traseul indicat de autor, obținând configurații diferite ale acelorași capitole.
+
+## 211. Cititorul-model
+
+**Ideea**
+
+- Cititorul-model este competența de lectură prevăzută și construită de strategia textului.
+- El cunoaște codurile necesare, face inferențe și acceptă anumite reguli ale jocului.
+- Nu se confundă cu cititorul empiric, care poate coopera mai mult sau mai puțin.
+- Textul oferă instrucțiuni prin gen, repetiții, lacune și semnale metatextuale.
+- Analiza reconstruiește operațiile cerute, nu inventează profilul sociologic al publicului.
+
+**Două exemple**
+
+- În *Numele trandafirului*, cititorul-model corelează indicii detectivistice cu dezbateri medievale și recunoaște că soluția nu elimină hazardul.
+- În *Dacă într-o noapte de iarnă un călător*, adresarea la persoana a doua construiește explicit un cititor care caută continuitate și învață să accepte întreruperea.
+
+## 212. Semiosfera
+
+**Ideea**
+
+- Semiosfera este spațiul cultural în care procesele de semnificare pot exista și interacționa.
+- Ea conține centre, periferii, granițe și mecanisme de traducere.
+- Granița nu doar separă, ci filtrează și transformă mesajele venite din exterior.
+- Textele literare pot modela conflicte între coduri culturale incompatibile.
+- Analiza urmărește cine traduce, ce rămâne intraductibil și cum periferia schimbă centrul.
+
+**Două exemple**
+
+- În *Lucrurile se destramă* de Chinua Achebe, proverbele și ritualurile igbo intră în contact cu misiunea și administrația britanică, iar finalul arată reducerea violentă prin cod colonial.
+- În *Mâna stângă a întunericului*, Genly Ai traduce obiceiurile planetei Gethen prin categorii terestre, iar călătoria cu Estraven îi transformă codul inițial.
+
+## 213. Genotextul și fenotextul
+
+**Ideea**
+
+- Fenotextul este forma comunicabilă, structurată gramatical și social a enunțului.
+- Genotextul desemnează procesele pulsionale, ritmice și presemantice care tulbură acea ordine.
+- Distincția nu separă două texte, ci două dimensiuni ale producerii semnificației.
+- Repetiția, sonoritatea și ruptura sintactică pot lăsa genotextul să traverseze fenotextul.
+- Analiza leagă energia materială a limbajului de poziția subiectului vorbitor.
+
+**Două exemple**
+
+- În monologul lui Molly Bloom din *Ulise*, firul inteligibil al amintirilor este traversat de ritmuri corporale, reluări și asociații care depășesc ordinea sintactică.
+- În *Valurile* de Virginia Woolf, solilocviile păstrează identități recognoscibile, dar repetițiile marine și ritmul comun dizolvă granițele stabile dintre voci.
+
+## 214. Moartea autorului
+
+**Ideea**
+
+- „Moartea autorului” contestă folosirea intenției biografice ca origine și verdict final al sensului.
+- Textul este o țesătură de coduri și citate care depășesc conștiința individuală.
+- Unitatea lecturii se deplasează către activitatea cititorului.
+- Teza nu afirmă dispariția scriitorilor reali, ci schimbarea autorității interpretative.
+- Analiza privilegiază relațiile textuale verificabile înaintea presupunerilor despre intenție.
+
+**Două exemple**
+
+- În *Pierre Menard*, un fragment identic cu cel al lui Cervantes capătă sens nou prin schimbarea atribuirii, demonstrând că numele autorului organizează lectura fără a epuiza textul.
+- În *Pământul pustiu*, vocile și sursele eterogene nu se reduc la biografia lui Eliot; cititorul construiește relații între mit, cântec popular și ruină contemporană.
+
+## 215. De la operă la Text
+
+**Ideea**
+
+- Opera este obiectul delimitat și instituționalizat, în timp ce Textul este câmpul metodologic al producerii sensului.
+- Textul se experimentează în limbaj și în relații cu alte discursuri.
+- El nu are un centru unic și solicită o lectură plurală.
+- Distincția nu neagă existența cărții, ci refuză închiderea sensului în obiect.
+- Analiza urmărește traseele de coduri și transformările cititorului în actul lecturii.
+
+**Două exemple**
+
+- În *Ulise*, o zi delimitată și un volum material devin Text prin traversarea Odiseei, a presei, a muzicii, a teologiei și a vocilor Dublinului.
+- În *Dacă într-o noapte de iarnă un călător*, volumul fizic pune în scenă Textul ca rețea de începuturi, genuri și acte de lectură imposibil de totalizat.
+
+## 216. Arheologia discursului
+
+**Ideea**
+
+- Arheologia descrie regulile istorice care fac anumite enunțuri posibile și inteligibile.
+- Ea nu caută un spirit unic al epocii sau o origine continuă.
+- Obiectele cunoașterii sunt produse de practici, clasificări și instituții.
+- Discontinuitățile dintre formațiuni discursive sunt la fel de importante ca permanențele.
+- Analiza literară poate întreba ce regim de enunțare permite apariția unei figuri sau categorii.
+
+**Două exemple**
+
+- În *Jane Eyre*, descrierile medicale, juridice și coloniale ale Berthei Mason participă la discursuri istorice care fac „nebunia” și izolarea ei inteligibile pentru lumea romanului.
+- În *Dracula* de Bram Stoker, jurnalele, fonograful, telegramele și medicina modernă alcătuiesc o arhivă de enunțuri prin care grupul încearcă să clasifice supranaturalul.
+
+## 217. Genealogia
+
+**Ideea**
+
+- Genealogia urmărește apariția valorilor și practicilor prin conflicte, accidente și raporturi de putere.
+- Ea refuză povestea unei origini pure și a unui progres necesar.
+- Corpurile, pedepsele și instituțiile păstrează urmele acestor lupte.
+- Literatura poate fi citită ca arhivă a modului în care subiecții sunt formați.
+- Analiza caută costurile și excluderile ascunse de o valoare prezentată drept naturală.
+
+**Două exemple**
+
+- În *Litera stacojie*, pedeapsa publică, eșafodul și litera purtată pe corp arată producerea istorică a identității de „păcătoasă”.
+- În *Povestea slujitoarei* de Margaret Atwood, ceremoniile și costumele regimului Gilead reconstruiesc genealogic controlul reproductiv din fragmente biblice și instituții moderne.
+
+## 218. Funcția-autor
+
+**Ideea**
+
+- Funcția-autor este modul în care numele autorului clasifică, delimitează și pune în circulație discursuri.
+- Nu toate enunțurile unei societăți primesc această funcție în același fel.
+- Numele garantează anumite așteptări de coerență, proprietate și răspundere.
+- Funcția variază istoric și instituțional.
+- Analiza poate cerceta cum un text inventează, ascunde sau multiplică sursa autorității sale.
+
+**Două exemple**
+
+- În *Don Quijote*, Cervantes invocă manuscrisul istoricului Cide Hamete Benengeli, fragmentând funcția-autor între traducător, editor și cronicar fictiv.
+- În *Povestea slujitoarei*, „Notele istorice” transformă mărturia lui Offred într-un document editat și atribuit academic, modificând autoritatea vocii ei.
+
+## 219. Rizomul
+
+**Ideea**
+
+- Rizomul este un model de organizare fără origine unică, centru stabil sau ierarhie arborescentă.
+- Orice punct se poate conecta cu altul, iar ruptura poate produce noi trasee.
+- Multiplicitatea contează mai mult decât unitatea impusă din exterior.
+- În literatură, rețeaua de voci și intrări poate înlocui progresia liniară.
+- Analiza cartografiază conexiuni locale fără a presupune o cheie totalizatoare.
+
+**Două exemple**
+
+- În *Șotron*, capitolele pot fi parcurse prin mai multe rute, iar Parisul, Buenos Airesul, jazzul și reflecțiile formează o rețea fără centru unic.
+- În *Dicționar khazar* de Milorad Pavić, intrările celor trei tradiții se leagă transversal, iar cititorul construiește trasee diferite prin aceeași arhivă.
+
+## 220. Deterritorializarea
+
+**Ideea**
+
+- Deterritorializarea desprinde o limbă, o formă sau o identitate de teritoriul ei obișnuit.
+- Reterritorializarea o reinscrie într-un nou ansamblu de reguli și puteri.
+- Literatura minoră intensifică limba majoră din interior prin folosire deviantă.
+- Experiența individuală capătă imediat o dimensiune politică și colectivă.
+- Analiza urmărește deformările limbii dominante și noile comunități imaginate.
+
+**Două exemple**
+
+- În *Procesul*, germana administrativă este împinsă spre o claritate rece și stranie, desprinzând birocrația de funcția ei practică și transformând-o în mediu existențial.
+- În *Copiii din miez de noapte* de Salman Rushdie, engleza este reconfigurată prin ritmuri, expresii și istorii sud-asiatice, devenind limbă a unei națiuni fragmentare.
+
+## 221. Metanarațiunea și neîncrederea
+
+**Ideea**
+
+- Metanarațiunea legitimează cunoașterea și istoria printr-o poveste totală despre progres, emancipare sau adevăr.
+- Postmodernitatea este caracterizată de neîncrederea în asemenea explicații universale.
+- Narațiunile locale și incompatibile ies în prim-plan.
+- Literatura poate arăta cum o poveste legitimatoare exclude experiențe care nu i se potrivesc.
+- Analiza compară versiunea oficială cu vocile și evenimentele pe care le reduce.
+
+**Două exemple**
+
+- În *Copiii din miez de noapte*, istoria triumfală a independenței Indiei este fragmentată prin corpul instabil și memoria corectată a lui Saleem.
+- În *Beloved*, povestea națională a emancipării juridice este confruntată cu trauma persistentă a sclaviei în casa de pe Bluestone Road.
+
+## 222. Simulacrul
+
+**Ideea**
+
+- Simulacrul nu este doar copia unui original, ci semnul care circulă fără un referent stabil.
+- În hiperrealitate, modelele și imaginile preced experiența și îi stabilesc forma.
+- Distincția dintre autentic și imitație devine greu de menținut.
+- Literatura poate dramatiza lumi în care personajele trăiesc după scenarii mediatice.
+- Analiza urmărește când reprezentarea începe să producă realul pe care pretinde că îl reflectă.
+
+**Două exemple**
+
+- În *Banii* de Don DeLillo, viața lui John Self este organizată de reclame, film și consum, iar identitatea lui imită imagini care nu mai au un original coerent.
+- În *Androidii visează oi electrice?* de Philip K. Dick, animalele artificiale și androizii destabilizează criteriul autenticității, inclusiv testul empatiei.
+
+## 223. Stadiul oglinzii
+
+**Ideea**
+
+- Stadiul oglinzii descrie formarea eului prin identificarea cu o imagine unificată.
+- Imaginea promite coerență, deși experiența corporală rămâne fragmentară.
+- Identitatea rezultă astfel dintr-o recunoaștere care este și necunoaștere.
+- Personajele pot depinde de portrete, dubluri sau privirea celuilalt.
+- Analiza urmărește ruptura dintre imaginea ideală și corpul ori dorința trăită.
+
+**Două exemple**
+
+- În *Portretul lui Dorian Gray*, Dorian își proiectează unitatea și tinerețea în imaginea publică, în timp ce portretul ascuns înregistrează fragmentarea morală.
+- În *Frankenstein*, Creatura se vede reflectată în apă și înțelege diferența dintre imaginea dorită, învățată de la familia De Lacey, și corpul respins social.
+
+## 224. Realul, Imaginarul și Simbolicul
+
+**Ideea**
+
+- Imaginarul organizează identificări și imagini ale coerenței.
+- Simbolicul este ordinea limbajului, a legii și a diferențelor sociale.
+- Realul este ceea ce rezistă simbolizării complete și revine ca ruptură.
+- Cele trei registre nu sunt lumi separate, ci dimensiuni împletite ale experienței.
+- Analiza urmărește momentele în care limbajul și imaginea nu pot absorbi un eveniment.
+
+**Două exemple**
+
+- În *Hamlet*, fantoma intră în rețeaua simbolică a datoriei și succesiunii, dar reapariția ei păstrează un rest imposibil de verificat sau integrat.
+- În *Beloved*, numele, poveștile și ritualul comunității încearcă să simbolizeze trauma, însă prezența corporală a lui Beloved revine ca exces al trecutului.
+
+## 225. Lumea narativă sau storyworld
+
+**Ideea**
+
+- Storyworld-ul este modelul mental al lumii în care receptorul plasează evenimentele povestite.
+- El include spațiu, timp, personaje, cauzalitate, norme și posibilități.
+- Cititorul îl construiește din indicii incomplete și îl actualizează continuu.
+- Conceptul funcționează dincolo de roman, în film, bandă desenată și conversație.
+- Analiza urmărește cum informația reconfigurează harta lumii și regulile ei.
+
+**Două exemple**
+
+- În *Un veac de singurătate*, cititorul învață regulile Macondo-ului, unde insomnia, ascensiunea și repetiția numelor coexistă cu istoria politică.
+- În *Stăpânul inelelor*, hărțile, limbile, itinerarele și legendele permit construirea unei lumi care depășește traseul imediat al lui Frodo.
+
+## 226. Experiențialitatea
+
+**Ideea**
+
+- Experiențialitatea desemnează capacitatea narațiunii de a evoca o conștiință întrupată care trăiește o lume.
+- Narativitatea nu depinde numai de intrigă, ci și de „cum este” să treci printr-un eveniment.
+- Percepția, emoția, temporalitatea și corporalitatea sunt centrale.
+- Chiar o narațiune cu puțină acțiune poate avea experiențialitate intensă.
+- Analiza reconstruiește perspectiva trăită, nu doar lista faptelor.
+
+**Două exemple**
+
+- În *Doamna Dalloway*, sunetele Londrei, bătaia ceasului și amintirile care irump redau felul în care Clarissa locuiește simultan prezentul și trecutul.
+- În *Străinul*, căldura, lumina și oboseala corporală din scena plajei structurează experiența lui Meursault înaintea explicațiilor morale ale procesului.
+
+## 227. Lumile posibile
+
+**Ideea**
+
+- Teoria lumilor posibile descrie ficțiunea ca sistem de lumi accesibile din lumea actuală a textului.
+- Dorințele, obligațiile, credințele și scenariile personajelor pot forma lumi alternative.
+- Conflictul narativ apare adesea din incompatibilitatea acestor lumi.
+- Contrafactualul și povestirea alternativă fac structura explicită.
+- Analiza precizează regulile accesului și punctul în care o posibilitate este anulată.
+
+**Două exemple**
+
+- În *Grădina potecilor ce se bifurcă*, fiecare alegere deschide o lume în care o alternativă diferită se realizează, iar incompatibilitățile coexistă în cartea-labirint.
+- În *Omul din castelul înalt* de Philip K. Dick, lumea în care Axa a câștigat războiul conține o carte contrafactuală despre victoria Aliaților, multiplicând nivelurile posibilului.
+
+## 228. Transmedialitatea
+
+**Ideea**
+
+- Narațiunea este transmedială deoarece poate fi realizată în limbaj, imagine, sunet, performance sau medii digitale.
+- Fiecare mediu oferă resurse și limite specifice pentru timp, perspectivă și interioritate.
+- Adaptarea nu este simplă copiere, ci transpunere între sisteme semiotice.
+- O lume narativă se poate extinde prin mai multe medii fără a repeta aceeași intrigă.
+- Analiza compară ce este păstrat, eliminat și inventat de noul suport.
+
+**Două exemple**
+
+- În adaptarea grafică a *Jurnalului Annei Frank* de Ari Folman și David Polonsky, pasajele confesive sunt convertite în secvențe vizuale și metafore desenate, schimbând accesul la interioritate.
+- În *Frankenstein*, scena creației este foarte scurtă și eliptică în roman, în timp ce adaptările cinematografice o extind într-un spectacol al laboratorului, electricității și corpului.
+
+## 229. Mintea distribuită și intermentalitatea
+
+**Ideea**
+
+- Naratologia cognitivă studiază gândirea nu doar în minți individuale, ci și între persoane și grupuri.
+- Intermentalitatea apare când planurile, emoțiile și cunoașterea sunt coordonate colectiv.
+- Conversația, zvonul și ritualul pot forma o minte socială.
+- Conceptul corectează privilegierea monologului interior ca unic model al conștiinței.
+- Analiza urmărește cum informația circulă și cine este inclus ori exclus din grup.
+
+**Două exemple**
+
+- În *Middlemarch* de George Eliot, opinia orașului despre Lydgate și Dorothea este produsă prin conversații, vizite și zvonuri, devenind o inteligență colectivă constrângătoare.
+- În *Lucrurile se destramă*, adunările clanului, proverbele și ritualurile organizează decizia comună, iar convertirea separă treptat indivizii de această minte socială.
+
+## 230. Teoria minții aplicată narațiunii
+
+**Ideea**
+
+- Cititorii atribuie personajelor credințe, intenții și emoții care pot diferi de realitate.
+- Narațiunile exploatează aceste atribuiri prin ironie, secret și eroare.
+- „Citirea minții” este inferențială și poate eșua.
+- Unele texte solicită niveluri încastrate: un personaj crede că altul dorește ceva.
+- Analiza reconstruiește dovezile și limitele fiecărei atribuiri.
+
+**Două exemple**
+
+- În *Othello*, Iago îl face pe Othello să creadă că Desdemona îl înșală, manipulând felul în care acesta interpretează gesturile și batista.
+- În *Mândrie și prejudecată*, Elizabeth atribuie mândrie și răutate acțiunilor lui Darcy, iar scrisoarea lui dezvăluie erorile acestei lecturi a minții.
+
+## 231. Vocea și autoritatea narativă feministă
+
+**Ideea**
+
+- Naratologia feministă examinează cine are dreptul social și textual de a vorbi.
+- Autoritatea unei voci depinde de gen, clasă, rasă, instituție și formă.
+- Tăcerea nu este absență neutră, ci poate fi produsă de structuri de putere.
+- Formele private precum scrisoarea sau jurnalul pot deveni spații de contra-narațiune.
+- Analiza leagă tehnica vocii de condițiile istorice ale credibilității.
+
+**Două exemple**
+
+- În *Culoarea purpurie* de Alice Walker, scrisorile Celiei trec de la adresarea către Dumnezeu la schimbul cu Nettie, iar vocea interzisă devine autoritate asupra propriei istorii.
+- În *Povestea slujitoarei*, mărturia orală a lui Offred supraviețuiește pe casete, dar conferința finală o reîncadrează prin autoritatea masculină a arhivei.
+
+## 232. Naratologia retorică
+
+**Ideea**
+
+- Narațiunea este înțeleasă ca act de comunicare prin care cineva spune ceva cuiva într-un anumit scop.
+- Autorul, naratorul și personajele operează pe niveluri etice și retorice diferite.
+- Progresia textului organizează întrebări, judecăți și reacții ale publicului.
+- Interesul narativ combină instabilități ale acțiunii cu tensiuni ale cunoașterii.
+- Analiza evaluează simultan tehnica, efectul și responsabilitatea comunicării.
+
+**Două exemple**
+
+- În *Rămășițele zilei*, Stevens își adresează retrospectiva unui auditor nenumit pentru a-și apăra viața, dar progresia îi erodează justificarea.
+- În *Inima întunericului*, Marlow povestește pe vapor unor ascultători interni, iar cadrul obligă cititorul să evalueze atât colonialismul, cât și limitele confesiunii sale.
+
+## 233. Narațiunea nenaturală
+
+**Ideea**
+
+- Narațiunea nenaturală folosește situații de povestire imposibile fizic, logic sau cognitiv.
+- Ea nu trebuie normalizată imediat ca vis, simbol ori eroare.
+- Imposibilitatea poate fi un principiu productiv al lumii și al vocii.
+- Tehnica testează limitele modelelor construite după conversația cotidiană.
+- Analiza descrie paradoxul și efectul său înainte de a-l domestici.
+
+**Două exemple**
+
+- În *Hoțul de cărți* de Markus Zusak, Moartea narează și urmărește simultan destine umane, ocupând o poziție imposibilă pentru un povestitor realist.
+- În *Iubita locotenentului francez* de John Fowles, naratorul oferă finaluri alternative și apare în compartimentul personajelor, încălcând timpul și ontologia lumii.
+
+## 234. Întruparea și afectul
+
+**Ideea**
+
+- Lectura implică simularea mișcărilor, senzațiilor și emoțiilor descrise.
+- Corpul personajului nu este un simplu suport al acțiunii, ci un centru de orientare.
+- Ritmul, deixisul și detaliul senzorial pot induce răspunsuri afective înaintea interpretării conceptuale.
+- Afectul circulă între corpuri, spații și obiecte.
+- Analiza urmărește cum forma produce tensiune, disconfort, apropiere sau repulsie.
+
+**Două exemple**
+
+- În *Metamorfoza*, încercarea lui Gregor de a se ridica, de a deschide ușa și de a controla membrele străine obligă cititorul să simuleze un corp imposibil.
+- În *Bătrânul și marea*, firul care taie mâinile lui Santiago și oboseala trasului transmit lupta prin durere și efort corporal repetat.
+
+## 235. Narațiunea ludică
+
+**Ideea**
+
+- Narațiunea ludică organizează lectura ca joc de reguli, alegeri, probe și feedback.
+- În mediile interactive, receptorul poate interveni în ordinea ori rezultatul evenimentelor.
+- Jocul produce agențialitate, dar alegerile rămân proiectate de sistem.
+- Repetarea și eșecul pot aparține experienței canonice a poveștii.
+- Analiza distinge povestea reprezentată de acțiunile cerute jucătorului sau cititorului.
+
+**Două exemple**
+
+- În cartea-joc *The Cave of Time* de Edward Packard, alegerile de la capătul secțiunilor produc trasee și finaluri diferite, făcând decizia parte din discurs.
+- În romanul *Șotron*, tabla de direcționare transformă ordinea lecturii într-o regulă de joc, deși cititorul nu poate inventa capitolele disponibile.
+
+## 236. Narațiunea transficțională
+
+**Ideea**
+
+- Transficționalitatea mută personaje, lumi sau intrigi dintr-un text în altul.
+- Continuarea, versiunea alternativă și povestea unui personaj secundar extind ficțiunea inițială.
+- Noul text poate completa lacune sau contesta distribuția autorității.
+- Identitatea personajului este negociată între continuitate și transformare.
+- Analiza compară regulile lumilor și schimbările de perspectivă.
+
+**Două exemple**
+
+- În *Wide Sargasso Sea* de Jean Rhys, Bertha din *Jane Eyre* devine Antoinette și primește o copilărie caraibiană, iar „nebunia” este recontextualizată colonial.
+- În *Foe* de J. M. Coetzee, lumea lui *Robinson Crusoe* este reluată prin Susan Barton și tăcerea lui Friday, contestând autoritatea autorului asupra poveștii.
+
+## 237. Empatia narativă
+
+**Ideea**
+
+- Empatia narativă este răspunsul prin care cititorul simulează sau împărtășește stări ale personajelor.
+- Perspectiva internă o poate facilita, dar nu o garantează.
+- Distanța, dificultatea și chiar nefiabilitatea pot produce forme complexe de apropiere.
+- Empatia nu echivalează automat cu aprobarea morală.
+- Analiza identifică tehnicile de acces, blocajele și distribuția inegală a atenției.
+
+**Două exemple**
+
+- În *Beloved*, trecerea între Sethe, Denver și Paul D distribuie trauma sclaviei fără a reduce gestul lui Sethe la o sentință simplă.
+- În *Crimă și pedeapsă*, focalizarea apropiată de febra și frica lui Raskolnikov produce participare afectivă fără a transforma crima într-un act acceptabil.
+
+## 238. Narațiunea traumă
+
+**Ideea**
+
+- Narațiunea traumei reprezintă evenimente care nu au fost integrate într-o memorie coerentă.
+- Fragmentul, repetiția, tăcerea și temporalitatea ruptă pot reda revenirea lor.
+- Mărturia oscilează între nevoia de a spune și imposibilitatea formulării complete.
+- Cititorul reconstruiește legături fără a trebui să transforme rana într-o intrigă perfect închisă.
+- Analiza evită diagnosticul facil și urmărește forma specifică a discontinuității.
+
+**Două exemple**
+
+- În *Beloved*, trecutul plantației revine prin fantomă, repetiții și monologuri suprapuse, iar „rememorarea” invadează prezentul casei.
+- În *Abatorul cinci* de Kurt Vonnegut, Billy Pilgrim devine „desprins din timp”, iar revenirea la bombardarea Dresdei fragmentează cronologia și protecțiile realismului.
+
+# D. Citarea, intertextualitatea și critica Teoriei
+
+## 239. Citatul
+
+**Ideea**
+
+- Citatul extrage un fragment dintr-un context și îl inserează într-un context nou.
+- Ghilimelele, nota sau formula introductivă pot marca explicit această schimbare de cadru.
+- Fragmentul păstrează urme ale sursei, dar primește o funcție nouă în textul-gazdă.
+- Citarea poate legitima, ironiza, comemora, contrazice sau colecționa.
+- Analiza identifică sursa, decupajul, transformarea și autoritatea produsă prin inserție.
+
+**Două exemple**
+
+- În *Pământul pustiu*, versurile în mai multe limbi și fragmentele din Dante, Shakespeare ori Wagner sunt montate în vocea prezentului ruinat, nu doar reproduse erudit.
+- În *Numele trandafirului*, formulele biblice și patristice sunt citate de călugări pentru a susține poziții opuse despre râs, sărăcie și erezie.
+
+## 240. Colajul de citate
+
+**Ideea**
+
+- Colajul alătură fragmente eterogene fără a le dizolva complet diferențele de origine.
+- Rupturile de registru și de voce rămân vizibile.
+- Sensul apare din montaj, vecinătate și conflict, nu dintr-o tranziție omogenă.
+- Procedeul poate reproduce suprasaturarea mediatică sau ruina unei tradiții.
+- Analiza urmărește atât sursele, cât și ordinea și fricțiunile dintre fragmente.
+
+**Două exemple**
+
+- În *Cantos* de Ezra Pound, documente economice, texte chineze, cronici și fragmente lirice sunt juxtapuse într-o arhivă poetică discontinuă.
+- În *Pământul pustiu*, cântecul de music-hall, Upanișadele și vocile londoneze sunt montate fără o voce unificatoare care să le împace definitiv.
+
+## 241. Aluzia
+
+**Ideea**
+
+- Aluzia trimite indirect la un text, personaj sau episod presupus recognoscibil.
+- Ea nu reproduce obligatoriu formularea sursei.
+- Cititorul completează legătura prin memorie culturală.
+- Efectul poate fi de prestigiu, contrast, ironie sau condensare.
+- Analiza trebuie să arate ce se schimbă în textul nou după recunoașterea trimiterii.
+
+**Două exemple**
+
+- În *Ulise*, rătăcirea lui Leopold Bloom prin Dublin trimite la itinerarul lui Ulise, iar eroismul epic este transpus în gesturile unei zile obișnuite.
+- În *Copiii din miez de noapte*, nașterea lui Saleem la ora independenței trimite la miturile fondatoare, dar corpul lui imperfect ironizează imaginea națiunii unitare.
+
+## 242. Centonul
+
+**Ideea**
+
+- Centonul este un text alcătuit integral sau predominant din fragmente preluate din alte opere.
+- Fragmentele sunt reasamblate astfel încât să producă o poveste ori o poziție nouă.
+- Procedeul face vizibil caracterul material și recombinabil al tradiției.
+- Coerența rezultă din montaj, deși fiecare piesă păstrează o memorie a sursei.
+- Analiza compară sensul originar al fragmentelor cu rolul lor în noua configurație.
+
+**Două exemple**
+
+- În *Cento nuptialis* de Ausonius, versuri din Vergiliu sunt reasamblate pentru a descrie o nuntă, iar solemnitatea epică este deplasată spre registrul erotic.
+- În *The Waste Land: A Facsimile and Transcript*, montajul final păstrează fragmente din numeroase tradiții; lectura secvenței finale arată cum citatele produc o rugăciune compozită.
+
+## 243. Dialogismul
+
+**Ideea**
+
+- Dialogismul afirmă că orice enunț răspunde altor enunțuri și anticipează răspunsuri viitoare.
+- Sensul se formează între voci, nu într-o conștiință izolată.
+- Chiar un monolog poartă urmele cuvintelor celorlalți.
+- Narațiunea poate pune în conflict limbaje sociale fără a le reduce la o teză unică.
+- Analiza urmărește adresarea, replica implicită și orientarea către discursul străin.
+
+**Două exemple**
+
+- În *Frații Karamazov*, legenda Marelui Inchizitor răspunde credinței lui Alioșa, iar sărutul tăcut al acestuia devine la rândul său replică.
+- În *Doamna Bovary*, limbajul romantic al Emmei dialoghează conflictual cu formulele comerciale, medicale și clericale ale provinciei.
+
+## 244. Heteroglosia
+
+**Ideea**
+
+- Heteroglosia este coexistența limbajelor sociale, profesionale, generaționale și ideologice într-o operă.
+- Fiecare limbaj aduce o perspectivă asupra lumii.
+- Romanul poate orchestra aceste idiomuri fără a le omogeniza.
+- Stilizarea și parodia fac diferențele dintre ele audibile.
+- Analiza identifică cine folosește un registru, în ce situație și cu ce autoritate.
+
+**Două exemple**
+
+- În *Doamna Bovary*, discursul sentimental, jargonul farmacistului, retorica târgului și limbajul clerical se intersectează în aceeași lume provincială.
+- În *Ulise*, presa, catehismul, reclama, balada și monologul interior transformă Dublinul într-o pluralitate de limbaje sociale.
+
+## 245. Polifonia
+
+**Ideea**
+
+- Polifonia desemnează coexistența unor conștiințe relativ autonome, care nu sunt simple obiecte ale naratorului.
+- Vocile își păstrează propriile adevăruri și orizonturi.
+- Autorul organizează dialogul fără a închide definitiv conflictul.
+- Polifonia este mai mult decât alternarea perspectivelor: implică independență ideologică.
+- Analiza verifică dacă vocile sunt realmente active sau doar ilustrări ale unei teze.
+
+**Două exemple**
+
+- În *Frații Karamazov*, Ivan, Alioșa, Dmitri și Zosima formulează poziții incompatibile despre libertate, suferință și credință, fără o anulare simplă.
+- În *Pe patul de moarte* de Faulkner, membrii familiei Bundren povestesc pe rând călătoria, iar diferențele de limbaj împiedică o versiune unică.
+
+## 246. Absorbția și transformarea
+
+**Ideea**
+
+- La Kristeva, textul absoarbe și transformă alte texte în procesul producerii sale.
+- Intertextualitatea nu este numai identificarea surselor, ci dinamica dintre sisteme de semne.
+- Un fragment poate fi inversat, dispersat sau trecut în alt registru.
+- Subiectul și sensul se formează în această rețea, nu înaintea ei.
+- Analiza descrie operația transformatoare, nu se oprește la formula „se inspiră din”.
+
+**Două exemple**
+
+- În *Wide Sargasso Sea*, personajul marginal din *Jane Eyre* este absorbit și transformat într-o protagonistă cu istorie caraibiană și voce proprie.
+- În *Ulise*, structura *Odiseei* este absorbită în Dublin, unde monstrul, călătoria și întoarcerea devin episoade cotidiene și stilistice.
+
+## 247. Hipograma și matricea
+
+**Ideea**
+
+- La Riffaterre, matricea este nucleul semantic minimal din care textul dezvoltă variații.
+- Hipograma este un cuvânt, o expresie ori un text anterior care generează indirect aceste variații.
+- Lectura trece de la sensul mimetic dificil la recunoașterea unei rețele intertextuale.
+- Agramaticalitățile semnalează că lectura literală nu este suficientă.
+- Analiza propune nucleul și verifică transformările lui în cât mai multe detalii.
+
+**Două exemple**
+
+- În *Corbul* de Poe, pierderea irevocabilă funcționează ca matrice, iar refrenul transformă succesiv fiecare întrebare într-o variație a imposibilității.
+- În sonetul *Correspondances* de Baudelaire, matricea relației dintre simțuri generează pădurea de simboluri, parfumurile, culorile și sunetele care se răspund.
+
+## 248. Paratextul
+
+**Ideea**
+
+- Paratextul cuprinde pragurile care prezintă și condiționează accesul la text.
+- Titlul, prefața, epigraful, notele și coperta aparțin peritextului.
+- Interviurile și publicitatea editorială pot funcționa ca epitext.
+- Paratextul promite un gen, stabilește o autoritate și orientează interpretarea.
+- Analiza observă tensiunile dintre prag și ceea ce urmează.
+
+**Două exemple**
+
+- În *Lolita*, prefața fictivă semnată de John Ray prezintă manuscrisul ca document psihiatric și moral, înainte ca vocea seducătoare a lui Humbert să înceapă.
+- În *Povestea slujitoarei*, secțiunea „Note istorice” reîncadrează retrospectiv confesiunea ca obiect academic și expune limitările editorilor.
+
+## 249. Metatextualitatea
+
+**Ideea**
+
+- Metatextualitatea este relația prin care un text comentează alt text, explicit sau implicit.
+- Comentariul poate lua forma criticii, interpretării, corectării sau disputei.
+- Textul comentat nu trebuie citat integral pentru ca relația să funcționeze.
+- Literatura poate integra critica în intrigă și voce.
+- Analiza separă obiectul comentat de poziția și strategia comentariului.
+
+**Două exemple**
+
+- În *Pierre Menard*, naratorul comentează fragmentele din *Don Quijote* ca și când ar fi o operă nouă, satirizând convențiile criticii.
+- În partea a doua din *Don Quijote*, personajele discută prima parte publicată, evaluând erori, episoade și reputații în interiorul continuării.
+
+## 250. Arhitextualitatea
+
+**Ideea**
+
+- Arhitextualitatea leagă opera de categoriile generale ale discursului: gen, mod și tip de enunț.
+- Relația este adesea implicită și se manifestă prin așteptări.
+- Un text poate confirma, amesteca sau sabota convențiile genului.
+- Titlul și subtitlul pot declara o apartenență pe care opera o complică.
+- Analiza compară regulile repertoriului cu folosirea lor locală.
+
+**Două exemple**
+
+- În *Don Quijote*, modelul romanului cavaleresc este activat pentru a fi contrazis de hanuri, țărani și consecințe materiale.
+- În *Numele trandafirului*, convențiile romanului polițist organizează ancheta, dar finalul cu soluție incompletă și bibliotecă arsă refuză închiderea tipică.
+
+## 251. Hipertextualitatea
+
+**Ideea**
+
+- Hipertextualitatea leagă un text nou, hipertextul, de un text anterior, hipotextul, prin transformare sau imitație.
+- Relația poate fi ludică, satirică, serioasă sau mixtă.
+- Parodia, travestiul, pastișa și transpoziția sunt forme importante.
+- Hipertextul rămâne inteligibil singur, dar relația adaugă un nivel de sens.
+- Analiza identifică operația exactă, nu numește orice asemănare „intertext”.
+
+**Două exemple**
+
+- *Ulise* transformă *Odiseea* prin transpunerea călătoriei eroice într-o zi urbană, păstrând corespondențe fără a reproduce intriga literal.
+- *Wide Sargasso Sea* transformă *Jane Eyre* prin extinderea trecutului Berthei și schimbarea centrului etic al poveștii.
+
+## 252. Pastișa
+
+**Ideea**
+
+- Pastișa imită trăsăturile unui stil sau gen fără atacul satiric obligatoriu al parodiei.
+- Ea poate fi omagială, ludică, experimentală sau neutră.
+- Recunoașterea modelului depinde de trăsături repetabile, nu de copierea unui singur fragment.
+- Uneori pastișa scoate la iveală formula internă a stilului imitat.
+- Analiza descrie ce trăsături sunt selectate și ce atitudine rezultă.
+
+**Două exemple**
+
+- În *Ulise*, capitolul „Boii Soarelui” imită etapele istorice ale prozei engleze, trecând de la stiluri arhaice la limbaj contemporan.
+- În povestirile cu Sherlock Holmes scrise de autori ulteriori, vocea memorialistică a lui Watson, indiciile și demonstrația finală sunt reproduse ca formulă recognoscibilă.
+
+## 253. Travestiul
+
+**Ideea**
+
+- Travestiul păstrează în linii mari acțiunea unui model, dar îi schimbă registrul stilistic.
+- Materia înaltă poate fi relatată într-un stil jos sau invers.
+- Contrastul dintre intrigă și dicțiune produce efect comic ori critic.
+- Procedeul expune convențiile de prestigiu ale limbajului.
+- Analiza compară nivelul subiectului cu nivelul expresiei.
+
+**Două exemple**
+
+- În *Batrahomiomahia*, războiul dintre broaște și șoareci este relatat în stilul solemn al epopeii homerice, coborând materia eroică în miniatură animalieră.
+- În *The Rape of the Lock* de Alexander Pope, disputa pentru o șuviță este tratată cu invocații, arme și mașinării epice, disproporția devenind critică socială.
+
+## 254. Transpoziția
+
+**Ideea**
+
+- Transpoziția schimbă cadrul, epoca, genul, perspectiva sau mediul unui text anterior.
+- Spre deosebire de parodia scurtă, ea poate remodela o operă întreagă.
+- Noul context modifică valorile și conflictele hipotextului.
+- Transformarea poate recupera voci marginalizate sau testa actualitatea unui mit.
+- Analiza compară echivalențele structurale și diferențele istorice.
+
+**Două exemple**
+
+- În *Mourning Becomes Electra* de Eugene O’Neill, mitul Orestiei este mutat într-o familie americană de după Războiul Civil.
+- În *Home Fire* de Kamila Shamsie, conflictul din *Antigona* este transpus în contextul cetățeniei britanice, radicalizării și securității contemporane.
+
+## 255. Ironia intertextuală
+
+**Ideea**
+
+- Ironia intertextuală oferă un sens imediat și un al doilea sens cititorului care recunoaște sursa.
+- Cele două niveluri pot coexista fără ca publicul neinformat să fie exclus complet.
+- Recunoașterea produce complicitate și reevaluare.
+- Tehnica poate critica atât prezentul, cât și textul anterior.
+- Analiza explică diferența concretă produsă de competența intertextuală.
+
+**Două exemple**
+
+- În *Numele trandafirului*, numele William din Baskerville activează ironic tradiția lui Sherlock Holmes, dar anchetatorul medieval nu poate controla hazardul ca detectivul clasic.
+- În *Ulise*, episodul ciclopului este transformat într-o confruntare de tavernă; cititorul informat vede simultan grandilocvența epică și naționalismul ridicol.
+
+## 256. Iterabilitatea citatului
+
+**Ideea**
+
+- Orice semn poate fi repetat într-un context diferit de cel al producerii sale.
+- Repetabilitatea îi permite să funcționeze, dar face imposibil controlul total al sensului.
+- Citatul nu este un accident exterior al limbajului, ci manifestarea acestei structuri.
+- Contextul nou nu anulează urmele celui vechi și nu poate fi închis definitiv.
+- Analiza urmărește diferența produsă de repetarea aparent identică.
+
+**Două exemple**
+
+- În *Pierre Menard*, propozițiile identice cu ale lui Cervantes sunt citite diferit din cauza atribuirii și contextului istoric nou.
+- În *1984*, sloganurile partidului sunt repetate pe ziduri și în mințile cetățenilor; schimbarea situațiilor face contradicțiile lor tot mai vizibile cititorului.
+
+## 257. Descrierea înaintea interpretării
+
+**Ideea**
+
+- Critica Teoriei cere uneori descrierea atentă a operei înaintea aplicării unei grile.
+- Descrierea inventariază forme, ritmuri, situații și reacții fără a le reduce imediat la simptom.
+- Ea nu este neutră, dar își face selecțiile verificabile.
+- Procedeul încetinește interpretarea și permite surprizei textului să corecteze ipoteza.
+- Analiza începe cu „ce se întâmplă aici?” înainte de „ce ascunde?”.
+
+**Două exemple**
+
+- În scena târgului din *Doamna Bovary*, descrierea alternanței replicilor, a aplauzelor și a termenilor agricoli precedă concluzia despre ironia socială.
+- În „Timpul trece” din *Spre far*, inventarierea parantezelor, a obiectelor și a anotimpurilor arată forma pierderii înaintea unei lecturi psihanalitice sau istorice.
+
+## 258. Lectura paranoidă
+
+**Ideea**
+
+- Lectura paranoidă anticipează că textul ascunde dominație, contradicție sau violență ideologică.
+- Ea este vigilentă, demistificatoare și orientată către expunere.
+- Forța sa constă în identificarea tiparelor pe care lectura inocentă le normalizează.
+- Limita apare când rezultatul este cunoscut dinainte și surpriza devine imposibilă.
+- Analiza reflexivă își examinează atât suspiciunea, cât și satisfacția de a demasca.
+
+**Două exemple**
+
+- În *Povestea slujitoarei*, o lectură paranoidă urmărește cum formulele biblice, costumele și ceremoniile naturalizează controlul corpurilor feminine.
+- În *Marele Gatsby*, ea citește petrecerile, mașinile și casele ca suprafețe care maschează exploatarea și ierarhia de clasă.
+
+## 259. Lectura reparatoare
+
+**Ideea**
+
+- Lectura reparatoare caută resurse de supraviețuire, plăcere și refacere fără a nega violența.
+- Ea acceptă că textul poate surprinde și hrăni, nu doar confirma o structură de dominație.
+- Fragmentele sunt reasamblate pentru nevoi prezente.
+- Procedeul nu cere optimism, ci deschidere față de efecte neprevăzute.
+- Analiza întreabă ce poate face opera pentru cititor și comunitate.
+
+**Două exemple**
+
+- În *Culoarea purpurie*, scrisorile, relația cu Shug și recuperarea muncii de croitorie devin resurse prin care Celie își reconstruiește vocea.
+- În *Beloved*, adunarea femeilor din comunitate și cântecul colectiv oferă o formă imperfectă de reparare a izolării lui Sethe.
+
+## 260. Lectura de suprafață
+
+**Ideea**
+
+- Lectura de suprafață acordă prioritate lucrurilor evidente, formelor vizibile și sensurilor declarate.
+- Ea suspendă presupunerea că adevărul textului se află obligatoriu într-o adâncime ascunsă.
+- Poate descrie modele, spații, repetiții și circulația cărților sau obiectelor.
+- Nu interzice interpretarea, ci contestă reflexul demascării automate.
+- Analiza explică ce devine vizibil când suprafața este tratată ca informație.
+
+**Două exemple**
+
+- În *Un coup de dés*, dimensiunea literelor și spațiile paginii sunt citite ca organizare materială, nu ca simplu înveliș al unei semnificații ascunse.
+- În *Casa frunzelor*, notele, culorile și orientarea tipografică pot fi cartografiate înainte de a fi reduse la simboluri ale inconștientului.
+
+## 261. Producerea prezenței
+
+**Ideea**
+
+- Producerea prezenței desemnează efectele prin care lucrurile par tangibile, apropiate și corporal active.
+- Ea completează cultura interpretării centrată exclusiv pe sens.
+- Ritmul, vocea, materialitatea și atmosfera pot conta înaintea explicației.
+- Prezența și semnificația nu se exclud, ci intră în tensiune.
+- Analiza descrie intensitatea senzorială și mediul care o face posibilă.
+
+**Două exemple**
+
+- În *Iliada*, descrierea scutului lui Ahile face vizibile orașe, recolte și dansuri înainte ca ele să fie integrate într-o teză despre război.
+- În *În căutarea timpului pierdut*, gustul madlenei produce o prezență corporală a trecutului înainte ca memoria să-i reconstruiască locurile și oamenii.
+
+## 262. De la „fapte” la „preocupări”
+
+**Ideea**
+
+- Latour propune trecerea de la demascarea faptelor ca simple construcții la urmărirea lucrurilor care adună actori.
+- O „preocupare” este simultan reală, disputată și susținută de rețele.
+- Criticul nu doar distruge credințe, ci descrie atașamente și consecințe.
+- Obiectele devin mediatori activi ai relațiilor.
+- Analiza urmărește cine și ce se reunesc în jurul unei probleme.
+
+**Două exemple**
+
+- În *Moby-Dick*, balena adună marinari, științe, mituri, economie și obsesia lui Ahab, fiind mai mult decât un simbol de demascat.
+- În *Ciuma*, boala reunește medici, administrație, familii, statistici și alegeri morale, transformând orașul într-o rețea de preocupări comune.
+
+## 263. Recunoașterea, încântarea, cunoașterea și șocul
+
+**Ideea**
+
+- Felski descrie mai multe moduri de atașament față de literatură.
+- Recunoașterea oferă o imagine articulată a sinelui sau a experienței.
+- Încântarea presupune absorbție și plăcere, iar cunoașterea furnizează orientare în lume.
+- Șocul rupe obișnuințele și produce dezorientare fertilă.
+- Analiza poate urmări aceste efecte fără a le reduce imediat la naivitate ideologică.
+
+**Două exemple**
+
+- În *Jane Eyre*, cititorul poate recunoaște dorința de autonomie în refuzul lui Jane de a deveni amanta lui Rochester și poate dobândi cunoaștere despre limitele sociale ale alegerii.
+- În *Metamorfoza*, propoziția inaugurală produce șoc, în timp ce adaptarea domestică la imposibil creează o încântare formală neliniștitoare.
+
+# E. Constructivismul rus
+
+## 264. Tectonica
+
+**Ideea**
+
+- Tectonica leagă concepția ideologică a obiectului de organizarea lui materială.
+- Forma trebuie să exprime rolul social și logica întregului.
+- Ea evită decorul adăugat fără funcție.
+- În literatură, poate desemna proiectarea arhitecturii generale după scopul comunicativ.
+- Analiza întreabă cum structura globală transformă o poziție socială în formă.
+
+**Două exemple**
+
+- În poemul *150.000.000* de Maiakovski, vocea colectivă, scara hiperbolică și conflictul mondial construiesc tectonic ideea revoluției de masă.
+- În *Mama* de Maxim Gorki, trecerea Pelagheei de la spațiul domestic la procesiunea publică organizează arhitectura romanului după formarea conștiinței colective.
+
+## 265. Faktura
+
+**Ideea**
+
+- Faktura este tratarea vizibilă a materialului și a procesului de lucru.
+- Suprafața nu ascunde cum a fost făcut obiectul.
+- În text, tipografia, colajul și asperitățile limbajului pot expune materialitatea.
+- Procedeul se opune finisajului care produce iluzia unei forme naturale.
+- Analiza identifică urmele producției și efectul lor asupra receptorului.
+
+**Două exemple**
+
+- În *Pentru voce* de Maiakovski și El Lissitzky, filele-index, literele mari și raportul roșu-negru expun cartea ca instrument material de lectură și rostire.
+- În *Zang Tumb Tuuum* de F. T. Marinetti, dimensiunile literelor și onomatopeele fac vizibilă compunerea tipografică a zgomotului de război.
+
+## 266. Construcția
+
+**Ideea**
+
+- Construcția organizează elementele după funcție, economie și relația lor activă.
+- Ea înlocuiește compoziția înțeleasă ca armonizare pur contemplativă.
+- Fiecare parte trebuie să lucreze în ansamblu.
+- În literatură, montajul și documentul pot deveni componente cu sarcini precise.
+- Analiza verifică funcția elementului și evită decorativismul fără efect.
+
+**Două exemple**
+
+- În *Zece zile care au zguduit lumea* de John Reed, proclamațiile, scenele de stradă și observația martorului sunt construite ca piese ale unei cronici revoluționare operative.
+- În *Berlin Alexanderplatz* de Alfred Döblin, anunțurile, știrile și cântecele sunt montate funcțional pentru a construi mediul urban care îl acționează pe Franz Biberkopf.
+
+## 267. Fotomontajul
+
+**Ideea**
+
+- Fotomontajul decupează imagini existente și le reasamblează într-un mesaj nou.
+- Discontinuitatea surselor rămâne vizibilă și produce energie critică.
+- Textul, fotografia și geometria pot intra în aceeași construcție.
+- Procedeul contestă imaginea unică și autoritatea perspectivei naturale.
+- În analiză, contează selecția, scara, juxtapunerea și direcția privirii.
+
+**Două exemple**
+
+- În poemul ilustrat *Despre asta* de Maiakovski, montajele Rodcenkăi combină chipul poetului cu corpuri și obiecte decupate, materializând conflictul dintre iubire și viața modernă.
+- În *Austerlitz* de W. G. Sebald, fotografiile inserate întrerup proza și funcționează ca fragmente arhivistice a căror dovadă rămâne incertă.
+
+## 268. Comanda socială
+
+**Ideea**
+
+- Comanda socială desemnează nevoia colectivă căreia producătorul cultural îi răspunde.
+- Ea nu se reduce la ordin administrativ, deși poate fi capturată instituțional.
+- Artistul observă problemele, publicurile și mijloacele de circulație.
+- Forma este evaluată prin capacitatea ei de intervenție.
+- Analiza trebuie să păstreze tensiunea dintre utilitate, autonomie și propagandă.
+
+**Două exemple**
+
+- În poemul *La stânga marș!* de Maiakovski, ritmul imperativ și adresarea colectivă răspund direct mobilizării revoluționare.
+- În *Ciuma*, cronicile lui Rieux răspund nevoii de mărturie comună după epidemie, deși romanul păstrează complexitatea morală dincolo de mesajul mobilizator.
+
+## 269. Scriitorul-operativ
+
+**Ideea**
+
+- Scriitorul-operativ participă la producția socială, nu observă de la distanță.
+- El colectează date, organizează colective și intervine în procesul descris.
+- Scrierea devine un instrument de comunicare și transformare.
+- Autoritatea provine din colaborare și experiență directă, nu doar din prestigiu estetic.
+- Analiza urmărește circuitul textului și acțiunile pe care acesta încearcă să le provoace.
+
+**Două exemple**
+
+- În reportajele lui Serghei Tretiakov despre colhozul „Farul comunist”, autorul înregistrează munca și participă la gazeta colectivului, transformând observația în activitate.
+- În *Omagiu Cataloniei* de George Orwell, naratorul este combatant și martor, iar descrierea frontului și a represiunii răspunde unei dispute politice imediate.
+
+## 270. Biografia obiectului
+
+**Ideea**
+
+- Biografia obiectului mută centrul de la individ la traseul social al unui lucru.
+- Producția, schimbul, folosirea și uzura leagă oameni și instituții.
+- Obiectul devine firul care traversează clase și spații.
+- Tehnica reduce psihologismul și face vizibile relațiile materiale.
+- Analiza urmărește transformarea valorii obiectului la fiecare transfer.
+
+**Două exemple**
+
+- În *Paltonul* de Gogol, fabricarea, purtarea și furtul hainei organizează destinul lui Akaki și ierarhia birocratică din Petersburg.
+- În *Perla* de John Steinbeck, descoperirea, evaluarea și încercarea de vânzare a perlei conectează familia lui Kino la medic, negustori și violența colonială.
+
+## 271. Factografia
+
+**Ideea**
+
+- Factografia privilegiază documentul, mărturia, cifra și evenimentul verificabil.
+- Materialul nu este abandonat ficțiunii autonome, ci montat pentru intervenție publică.
+- Selecția și ordinea faptelor rămân totuși procedee constructive.
+- Textele pot combina jurnal, proces-verbal, fotografie și reportaj.
+- Analiza verifică proveniența documentului și retorica montajului.
+
+**Două exemple**
+
+- În *Armata de cavalerie* de Isaac Babel, datele campaniei, localitățile și observațiile de front sunt condensate în schițe care păstrează tensiunea dintre document și stil.
+- În *Cu sânge rece* de Truman Capote, ancheta, interviurile și cronologia crimei sunt organizate într-o „narațiune nonficțională” cu tehnici de roman.
+
+## 272. Cine-ochiul
+
+**Ideea**
+
+- Cine-ochiul afirmă capacitatea aparatului de a vedea relații inaccesibile ochiului obișnuit.
+- Filmarea și montajul construiesc un adevăr al proceselor, nu o simplă înregistrare neutră.
+- Unghiul, încetinirea și apropierea desfac gesturile automatizate.
+- În proză, analogul apare prin secvențe vizuale scurte și schimbări rapide de cadru.
+- Analiza urmărește dispozitivul perceptiv și ordinea montajului.
+
+**Două exemple**
+
+- În *Berlin Alexanderplatz*, fragmentele de trafic, reclame și mulțime sunt montate ca priviri mecanice asupra orașului care îl depășește pe protagonist.
+- În *Manhattan Transfer* de John Dos Passos, cadrele scurte ale străzilor, reclamelor și personajelor produc o vedere urbană discontinuă, apropiată de montajul cinematografic.
+
+## 273. Montajul atracțiilor
+
+**Ideea**
+
+- Montajul atracțiilor organizează stimuli calculați pentru a produce un efect precis asupra publicului.
+- Unitatea de bază nu este continuitatea realistă, ci șocul activ.
+- Juxtapunerea poate transforma sensul fiecărui fragment.
+- Procedeul provine din teatru și film, dar poate descrie coliziunile prozei.
+- Analiza identifică succesiunea stimulilor și reacția intelectual-afectivă urmărită.
+
+**Două exemple**
+
+- În *Mama* de Bertolt Brecht, cântecele și pancartele întrerup acțiunea pentru a transforma emoția într-o problemă politică și discutabilă.
+- În *Abatorul cinci*, Dresda, planeta Tralfamadore și formula repetată despre moarte sunt juxtapuse ca șocuri care blochează reconcilierea sentimentală.
+
+## 274. Biomecanica
+
+**Ideea**
+
+- Biomecanica tratează jocul actorului ca succesiune precisă de intenție, realizare și reacție.
+- Corpul este antrenat pentru eficiență, ritm și control spațial.
+- Gestul exterior nu ilustrează o emoție interioară, ci o produce și o comunică.
+- Convenția teatrală rămâne vizibilă.
+- În analiza dramatică, tehnica evidențiază scorul fizic al acțiunii.
+
+**Două exemple**
+
+- În *Revizorul* de Gogol, intrările, înclinările și agitația funcționarilor pot fi montate biomecanic, făcând panica administrativă vizibilă înaintea explicației psihologice.
+- În *Ubu rege* de Alfred Jarry, mersul, loviturile și gesturile exagerate ale lui Ubu transformă corpul actorului într-o mașină grotescă a puterii.
+
+# F. Deconstrucția
+
+## 275. Identificarea opoziției ierarhice
+
+**Ideea**
+
+- Lectura deconstructivă pornește adesea de la o opoziție care organizează textul.
+- Termenii nu sunt egali: unul este privilegiat drept originar, pur sau prezent.
+- Cel de-al doilea este tratat ca derivat, impur ori secundar.
+- Analiza arată dependența termenului dominant de ceea ce exclude.
+- Scopul nu este alegerea simplă a polului inferior, ci destabilizarea ierarhiei.
+
+**Două exemple**
+
+- În *Furtuna*, civilizat/sălbatic îl privilegiază pe Prospero, dar cunoașterea insulei și limbajul lui Caliban fac autoritatea „civilizată” dependentă de cel subordonat.
+- În *Jane Eyre*, rațiune/nebunie o separă pe Jane de Bertha, însă dorința și furia celei dintâi sunt proiectate și făcute vizibile prin figura încuiată în pod.
+
+## 276. Dubla lectură
+
+**Ideea**
+
+- Dubla lectură reconstruiește mai întâi logica dominantă a textului cu maximă fidelitate.
+- A doua trecere urmărește detaliile pe care această logică nu le poate controla.
+- Contradicția trebuie demonstrată în limbaj și structură, nu adăugată din exterior.
+- Textul este citit simultan cu și împotriva propriilor declarații.
+- Rezultatul nu este o soluție finală, ci expunerea unei tensiuni productive.
+
+**Două exemple**
+
+- În *Inima întunericului*, prima lectură urmărește denunțarea atrocităților coloniale de către Marlow; a doua observă că africanii rămân adesea fără voce în chiar discursul critic.
+- În *Povestea slujitoarei*, prima lectură recuperează mărturia lui Offred, iar a doua examinează cum „Notele istorice” o transformă din nou într-un obiect al autorității masculine.
+
+## 277. Răsturnarea și deplasarea
+
+**Ideea**
+
+- Răsturnarea acordă provizoriu prioritate termenului subordonat al opoziției.
+- Deplasarea arată apoi că ambele poziții depind de o logică instabilă.
+- Prima mișcare este necesară pentru a face ierarhia vizibilă.
+- A doua împiedică instalarea unei noi dogme simetrice.
+- Analiza caută un termen sau o operație care traversează opoziția.
+
+**Două exemple**
+
+- În *Wide Sargasso Sea*, vocea „nebunei din pod” răstoarnă ierarhia din *Jane Eyre*, iar identitățile Antoinette/Bertha deplasează opoziția sănătate/nebunie.
+- În *Foe*, tăcerea lui Friday primește prioritate față de narațiunea stăpânilor, dar rămâne un rest care nu poate fi transformat într-o voce transparentă.
+
+## 278. Différance
+
+**Ideea**
+
+- Différance numește simultan diferențierea semnelor și amânarea prezenței sensului.
+- Un semn înseamnă prin relațiile cu semne absente.
+- Niciun termen nu se oferă complet în clipa folosirii.
+- Jocul nu elimină sensul, ci îl face relațional și temporal.
+- Analiza urmărește lanțurile în care definiția se deplasează de la un termen la altul.
+
+**Două exemple**
+
+- În *Castelul* de Kafka, autoritatea castelului este mereu definită prin mesageri, funcționari și zvonuri, iar accesul direct este amânat indefinit.
+- În *În așteptarea lui Godot*, sensul lui Godot este diferențiat prin așteptare, mesaje și presupuneri, fără ca prezența promisă să stabilizeze numele.
+
+## 279. Urma
+
+**Ideea**
+
+- Fiecare semn poartă urma semnelor de care se diferențiază și care nu sunt prezente.
+- Prezentul nu este pur, fiind locuit de trecut și de posibilități excluse.
+- Urma nu este un rest material simplu și nici o origine recuperabilă.
+- În literatură, absența poate organiza mai puternic decât apariția.
+- Analiza urmărește efectele elementului lipsă în cuvinte, obiecte și repetiții.
+
+**Două exemple**
+
+- În *Beloved*, copilul mort este absent fizic la început, dar numele casei, fantoma și reacțiile familiei păstrează urma crimei în fiecare scenă.
+- În *Spre far*, doamna Ramsay dispare în secțiunea mediană, însă obiectele casei și gesturile supraviețuitorilor poartă urma ei până la excursia finală.
+
+## 280. Suplimentul
+
+**Ideea**
+
+- Suplimentul pare să se adauge unui întreg deja complet.
+- Totuși, necesitatea lui arată că întregului îi lipsea ceva de la început.
+- El este simultan adaos și înlocuitor.
+- Logica suplimentului destabilizează opoziții precum original/copiere și natură/cultură.
+- Analiza caută elementul declarat secundar care face posibil centrul.
+
+**Două exemple**
+
+- În *Frankenstein*, Creatura este produsă ca adaos la viața naturală, dar existența ei dezvăluie lipsa familiei, a responsabilității și a controlului în proiectul lui Victor.
+- În *Foe*, scriitorul Foe pare doar să dea formă aventurii lui Susan, însă „suplimentul” autorului ajunge să înlocuiască și să controleze experiența pretins originară.
+
+## 281. Scrierea originară
+
+**Ideea**
+
+- Deconstrucția contestă ideea că vorbirea ar oferi sensul viu, iar scrierea ar fi o copie secundară.
+- Orice semn funcționează prin absență, diferență și repetabilitate.
+- „Scrierea” generalizată numește această structură anterioară opoziției vorbire/text.
+- Prezența vorbitorului nu garantează interpretarea unică.
+- Analiza urmărește medierea chiar în scenele care promit comunicare imediată.
+
+**Două exemple**
+
+- În *Povestea slujitoarei*, vocea lui Offred ajunge la viitor numai prin casete reasamblate, iar oralitatea presupus vie depinde de înscriere și editare.
+- În *Dracula*, personajele își coordonează lupta prin jurnale, stenograme și fonograf; comunitatea „prezentă” este produsă de arhiva semnelor.
+
+## 282. Diseminarea
+
+**Ideea**
+
+- Diseminarea descrie răspândirea sensului în direcții multiple care nu se reunesc într-o sămânță originară.
+- Un cuvânt activează serii etimologice, figurale și contextuale concurente.
+- Polisemia nu este rezolvată obligatoriu prin alegerea sensului corect.
+- Textul produce un surplus care scapă rezumatului unificator.
+- Analiza urmărește ramificațiile fără a le declara nelimitate arbitrar.
+
+**Două exemple**
+
+- În *Trandafirul* din *Numele trandafirului*, numele final deschide simultan tradiții despre frumusețe, pierdere, nominalism și bibliotecă, fără o cheie unică.
+- În *Moby-Dick*, „albul” se diseminează între puritate, groază, vid, rasă și fenomen natural în capitolul dedicat culorii balenei.
+
+## 283. Pharmakonul
+
+**Ideea**
+
+- Pharmakon înseamnă atât remediu, cât și otravă, refuzând alegerea unui singur pol.
+- Indecidabilul participă la ambele valori fără a fi o sinteză liniștitoare.
+- Contextul încearcă să fixeze sensul, dar depinde de ambivalența termenului.
+- Tehnica de lectură caută obiecte care vindecă prin același gest prin care rănesc.
+- Analiza păstrează ambele lanțuri de consecințe.
+
+**Două exemple**
+
+- În *Romeo și Julieta*, poțiunea fratelui Lorenzo oferă posibilitatea salvării, dar produce neînțelegerea care conduce la moarte.
+- În *Portretul lui Dorian Gray*, portretul îl protejează pe Dorian de urmele vârstei și îi permite totodată degradarea morală care îl distruge.
+
+## 284. Himenul
+
+**Ideea**
+
+- Himenul este un indecidabil al separării și unirii, interiorului și exteriorului.
+- El nu desemnează doar un obiect anatomic, ci logica unei frontiere care unește despărțind.
+- Termenul perturbă succesiunea simplă înainte/după.
+- În lectură, pragurile pot aparține simultan ambelor spații.
+- Analiza caută scena în care distincția se produce prin elementul care o traversează.
+
+**Două exemple**
+
+- În *Jane Eyre*, pragul camerei din pod separă domesticitatea de secret, dar zgomotele Berthei fac interiorul respectabil dependent de ceea ce exclude.
+- În *Castelul*, hanurile, telefoanele și mesagerii îl conectează pe K. la castel tocmai prin proceduri care îi mențin distanța.
+
+## 285. Parergonul
+
+**Ideea**
+
+- Parergonul este rama, ornamentul sau adaosul care pare exterior operei.
+- El delimitează interiorul, dar nu poate fi plasat complet înăuntru sau în afară.
+- Fără ramă, obiectul nu apare în același fel ca operă.
+- Conceptul destabilizează autonomia și granița textului.
+- Analiza examinează titlurile, prefețele, cadrele și marginile ca operatori.
+
+**Două exemple**
+
+- Prefața fictivă din *Lolita* pare anexă editorială, dar determină statutul manuscrisului și conflictul dintre verdictul moral și seducția naratorului.
+- Rama lui Marlow din *Inima întunericului* pare exterioară aventurii africane, însă poziția ascultătorilor pe Tamisa leagă colonialismul de centrul imperial.
+
+## 286. Aporia
+
+**Ideea**
+
+- Aporia este impasul în care cerințe logice sau etice ale textului devin incompatibile.
+- Nu este o simplă confuzie care așteaptă o soluție mai atentă.
+- Textul trebuie să decidă și, în același timp, își subminează criteriul deciziei.
+- Aporia face vizibilă limita unui sistem de concepte.
+- Analiza formulează exact cele două obligații și pasajele care le susțin.
+
+**Două exemple**
+
+- În *Antigona*, respectarea legii cetății și respectarea datoriei funerare sunt ambele obligatorii în sisteme care nu pot fi reconciliate fără pierdere.
+- În *Alegerea Sophiei* de William Styron, ordinul de a alege un copil produce o decizie imposibilă, în care orice opțiune anulează condiția morală a alegerii.
+
+## 287. Retorica împotriva gramaticii
+
+**Ideea**
+
+- Gramatica poate afirma o propoziție, în timp ce figura retorică îi schimbă forța sau o contrazice.
+- Întrebarea retorică, ironia și prosopopeea creează indecidabilitate.
+- Lectura literală și lectura figurată pot conduce la rezultate incompatibile.
+- Pentru de Man, această tensiune este structurală limbajului literar.
+- Analiza demonstrează conflictul în formulare, nu îl rezolvă prin intenția autorului.
+
+**Două exemple**
+
+- În discursul lui Marc Antoniu din *Iulius Cezar*, gramatica repetă că Brutus este „onorabil”, dar contextul și repetiția transformă afirmația în acuzație ironică.
+- În *Modesta propunere* de Swift, gramatica argumentului economic recomandă o soluție, iar retorica satirică cere cititorului să o respingă și să judece sistemul care o face plauzibilă.
+
+## 288. Alegoria lecturii
+
+**Ideea**
+
+- Unele narațiuni dramatizează propriile dificultăți de interpretare.
+- Personajele citesc semne, texte și oameni, iar erorile lor reflectă actul cititorului.
+- Povestea devine alegorie a imposibilității unei lecturi complet stăpânite.
+- Revelația finală poate produce o nouă orbire în locul certitudinii.
+- Analiza compară scenele interne de lectură cu solicitările adresate receptorului extern.
+
+**Două exemple**
+
+- În *Oedip rege*, eroul citește oracolul și mărturiile pentru a găsi un alt vinovat, iar ancheta devine povestea interpretului prins în propriul răspuns.
+- În *Scrisoarea furată* de Poe, poliția caută profunzimi și ascunzători, în timp ce scrisoarea expusă obligă cititorul să-și revizuiască modelul interpretativ.
+
+## 289. Repetiția cu diferență
+
+**Ideea**
+
+- Repetarea nu restaurează niciodată identic un eveniment sau un semn.
+- Noul context introduce diferență chiar când formularea rămâne aceeași.
+- Originalul însuși devine recognoscibil prin posibilitatea repetării.
+- Seria poate destabiliza identitatea personajelor și a motivelor.
+- Analiza compară fiecare revenire și efectul acumulării.
+
+**Două exemple**
+
+- În *Un veac de singurătate*, numele Aureliano și José Arcadio revin în generații, dar fiecare repetare modifică singurătatea, războiul și raportul cu memoria.
+- În *În așteptarea lui Godot*, a doua zi repetă copacul, perechea și mesajul, însă frunzele și uitarea fac imposibilă identitatea perfectă.
+
+## 290. Mimicry sau mimetismul ambivalent
+
+**Ideea**
+
+- Mimetismul colonial cere subiectului să semene cu modelul dominant, dar niciodată complet.
+- Asemănarea „aproape aceeași” produce simultan disciplină și amenințare.
+- Copia poate exagera și expune artificialitatea autorității.
+- Limba și manierele devin terenuri ale ambivalenței.
+- Analiza urmărește cine impune modelul și ce diferență trebuie păstrată.
+
+**Două exemple**
+
+- În *O trecere spre India* de E. M. Forster, educația și politețea personajelor indiene sunt cerute de administrație, dar nu le oferă egalitate sau credibilitate.
+- În *Rușinea* de Salman Rushdie, elitele imită forme politice și culturale importate, iar exagerarea lor grotescă expune instabilitatea modelului postcolonial.
+
+## 291. Écriture féminine
+
+**Ideea**
+
+- Écriture féminine caută forme de scriere care scapă logicii falocentrice și identității rigide.
+- Corpul, ritmul, pluralitatea și excesul tulbură sintaxa autorității.
+- Nu desemnează o esență biologică sau un stil unic al femeilor.
+- Practica deschide spațiu vocilor și dorințelor reprimate.
+- Analiza urmărește mișcările limbajului fără a transforma conceptul într-o listă de trăsături fixe.
+
+**Două exemple**
+
+- În *Valurile*, vocile curg una în alta prin ritm și imagini recurente, slăbind granița dintre eul individual și corporalitatea comună.
+- În *Pasiunea după G.H.* de Clarice Lispector, întâlnirea cu gândacul destramă propozițiile și identitatea naratoarei într-o scriere corporală, repetitivă și paradoxală.
+
+## 292. Citirea tăcerii
+
+**Ideea**
+
+- Deconstrucția postcolonială întreabă cine poate vorbi și prin ce instituții este recunoscută vocea.
+- Tăcerea nu trebuie umplută automat de interpretul privilegiat.
+- Arhiva poate produce absența pe care apoi pretinde că o constată.
+- Reprezentarea politică și reprezentarea estetică nu sunt identice, dar se intersectează.
+- Analiza urmărește medierea și limitele propriei recuperări.
+
+**Două exemple**
+
+- În *Foe*, Friday refuză ori nu poate să-și spună povestea, iar încercările lui Susan și Foe de a-i interpreta tăcerea repetă controlul colonial.
+- În *Lucrurile se destramă*, finalul reduce viața lui Okonkwo la un posibil paragraf din cartea comisarului, arătând producerea arhivistică a tăcerii indigene.
+
+## 293. Orbirea și intuiția
+
+**Ideea**
+
+- Un critic sau narator poate formula o intuiție importantă printr-un limbaj care îi contrazice demonstrația.
+- Orbirea nu este lipsă totală de vedere, ci condiția paradoxală a unei descoperiri.
+- Textul spune mai mult și altceva decât proiectul său explicit.
+- Lectura urmărește momentele în care figura scapă controlului conceptual.
+- Analiza evită superioritatea facilă și arată exact dependența dintre eroare și intuiție.
+
+**Două exemple**
+
+- În *Oedip rege*, încrederea lui Oedip în propria capacitate de a descifra conduce la descoperirea adevărului, dar îi ascunde până la final identitatea celui căutat.
+- În *Rămășițele zilei*, disciplina verbală prin care Stevens își apără demnitatea îi permite să relateze tocmai scenele care dovedesc ratarea vieții sale.
+
+## 294. Prosopopeea
+
+**Ideea**
+
+- Prosopopeea dă voce unei absențe, unui mort, unui obiect sau unei entități abstracte.
+- Figura produce aparența prezenței prin limbaj.
+- În același gest, ea confirmă absența celui care nu poate vorbi singur.
+- Vocea atribuită ridică o problemă de reprezentare și responsabilitate.
+- Analiza întreabă cine vorbește pentru cine și ce pierdere face figura audibilă.
+
+**Două exemple**
+
+- În *Hoțul de cărți*, Moartea primește voce de narator și comentează oamenii pe care îi colectează, făcând abstracția simultan familiară și stranie.
+- În *Beloved*, copilul mort primește corp și voce, dar discursul ei fragmentar nu repară complet absența sau trauma.
+
+## 295. Indecidabilitatea
+
+**Ideea**
+
+- Indecidabilitatea apare când textul susține două lecturi incompatibile fără criteriu final sigur.
+- Ea nu înseamnă că lipsesc dovezile, ci că dovezile se distribuie conflictual.
+- Decizia interpretativă rămâne necesară, dar nu poate pretinde fundament absolut.
+- Termenii indecidabili traversează opozițiile pe care sistemul le cere.
+- Analiza păstrează presiunea ambelor lecturi și consecințele alegerii.
+
+**Două exemple**
+
+- În *Cotitura de șurub*, fantomele sunt simultan susținute ca prezențe și subminate ca proiecții ale guvernantei.
+- În *Viața lui Pi* de Yann Martel, povestea cu animale și versiunea fără animale cer o alegere, dar criteriul adevărului este înlocuit de întrebarea despre povestea preferată.
+
+## 296. Centrul și jocul structurii
+
+**Ideea**
+
+- Centrul organizează structura și limitează jocul elementelor, pretinzând că el însuși nu este supus relațiilor.
+- Când centrul devine o funcție substituibilă, jocul diferențelor se extinde.
+- Deconstrucția nu celebrează haosul, ci examinează nevoia repetată de recentrare.
+- Mitul, autorul, originea sau adevărul pot ocupa succesiv poziția centrală.
+- Analiza urmărește substituțiile și momentele în care sistemul își expune marginea.
+
+**Două exemple**
+
+- În *Împăratul muștelor* de William Golding, scoica organizează inițial adunarea și vorbirea; pierderea autorității ei arată că centrul politic depindea de acceptarea colectivă.
+- În *Castelul*, castelul pare centrul care explică satul, dar accesul prin birouri și mesageri îl transformă într-o funcție mereu substituită.
+
+## 297. Legea și dreptatea
+
+**Ideea**
+
+- Legea este un sistem calculabil de reguli, precedente și aplicări.
+- Dreptatea cere o decizie singulară care nu poate fi redusă complet la regulă.
+- Decizia trebuie să folosească legea și totodată să-i reinventeze aplicarea.
+- Această tensiune produce o aporie etică, nu o scuză pentru arbitrar.
+- Analiza întreabă cine decide, sub ce presiune și ce rămâne nereparat.
+
+**Două exemple**
+
+- În *Neguțătorul din Veneția*, aplicarea literală a contractului și intervenția Portiei arată conflictul dintre lege, milă și manipularea regulii.
+- În *Antigona*, decretul lui Creon este legal în cetate, dar îngroparea lui Polinice revendică o dreptate care nu se lasă calculată de aceeași normă.
+
+## 298. Lectura contrasemnăturii
+
+**Ideea**
+
+- Contrasemnătura este răspunsul singular prin care o lectură repetă și transformă semnătura textului.
+- Fidelitatea nu constă în reproducerea identică, ci în continuarea responsabilă.
+- Orice interpretare selectează și reinscrie opera într-un context nou.
+- Cititorul trebuie să răspundă atât constrângerilor textului, cât și situației prezente.
+- Analiza își asumă propria intervenție în loc să pretindă transparență totală.
+
+**Două exemple**
+
+- *Wide Sargasso Sea* contrasemnează *Jane Eyre*: păstrează figura femeii din pod, dar o transformă prin istoria colonială și vocea Antoinettei.
+- *Home Fire* contrasemnează *Antigona*: repetă conflictul dintre familie și stat, dar îl reinscrie în legislația cetățeniei și în spectacolul mediatic contemporan.
+
+# Sinteză de utilizare a atlasului
+
+Pentru fiecare fișă, o analiză completă poate fi construită în patru pași:
+
+1. numește procedeul și definește-l relațional, nu printr-o etichetă izolată;
+2. indică pasajul, episodul sau distribuția materială în care apare;
+3. descrie operația formală efectivă;
+4. explică efectul asupra sensului, ritmului, cititorului sau poziției istorice.
+
+Cele două exemple nu sunt modele de copiat mecanic, ci demonstrații ale transferului. O tehnică devine cu adevărat utilă când poate fi recunoscută într-un al treilea text și când analiza arată de ce funcționează diferit acolo.

@@ -23,5 +23,8 @@ Documentul acoperă:
 - constructivismul rus;
 - deconstrucția;
 - hărți comparative, dicționar de concepte și bibliografie.
+- un atlas aplicativ cu 160 de tehnici și concepte, fiecare explicat în cinci
+  puncte și ilustrat prin două episoade din opere diferite ale literaturii
+  universale.
 
-PDF-ul are 52 de pagini A4 și a fost verificat vizual integral după randare.
+PDF-ul are 110 pagini A4 și a fost verificat vizual integral după randare.
