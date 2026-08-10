@@ -523,7 +523,7 @@ Mathesius distinge între structura gramaticală și organizarea comunicativă a
 
 Ordinea cuvintelor, accentul și intonația nu sunt simple variații stilistice: ele organizează fluxul informației. Această idee va influența stilistica, lingvistica textului și analiza perspectivei narative.
 
-Texte: „Despre potențialitatea fenomenelor lingvistice” (1911) și studiile reunite ulterior despre perspectiva funcțională a propoziției.
+Texte: „Despre potențialitatea fenomenelor lingvistice” (1911), „Zur Satzperspektive im modernen Englisch” (1929) și „O tak zvaném aktuálním členění větném” (1939).
 
 ## 21. Nikolai Trubețkoi: opoziția și marca
 
@@ -616,7 +616,7 @@ Opera nu se modifică material, dar structura ei estetică este reactivată dife
 
 | Autor | Concepte | Texte |
 |---|---|---|
-| Mathesius | temă/remă, perspectivă funcțională | studiile despre propoziție |
+| Mathesius | temă/remă, perspectivă funcțională | „Zur Satzperspektive im modernen Englisch”; „O tak zvaném aktuálním členění větném” |
 | Trubețkoi | fonem, opoziție, marcă, neutralizare | *Principii de fonologie* |
 | Jakobson | funcția poetică, dominantă, metaforă/metonimie | „Dominanta”; „Lingvistică și poetică” |
 | Mukařovský | actualizare, normă, funcție și valoare estetică | „Limbaj standard și limbaj poetic”; „Arta ca fapt semiologic” |
@@ -691,7 +691,7 @@ Subiectul urmărește conjuncția cu un obiect de valoare. Succesiunea canonică
 
 ### Pătratul semiotic
 
-Pornind de la A și non-A, Greimas distinge contrarietatea, contradicția și implicația. Pătratul face vizibile pozițiile intermediare și termenii complecși ai unui univers semantic.
+Pătratul pornește de la doi termeni contrari, S1 și S2, apoi construiește contradictoriile non-S1 și non-S2. El distinge contrarietatea, contradicția, subcontrarietatea și complementaritatea; astfel devin vizibile termenul complex și termenul neutru pe care o opoziție binară simplă le-ar ascunde.
 
 ## 32. Claude Bremond: logica posibilităților narative
 
@@ -803,9 +803,9 @@ Genette separă întrebarea „cine vede?” de „cine vorbește?”.
 
 ## 36. Seymour Chatman și Franz Stanzel
 
-Chatman, în *Story and Discourse* (1978), separă conținutul narativ de expresia lui și descrie autorul implicat, naratorul, naratarul și cititorul implicat.
+Chatman, în *Story and Discourse* (1978), separă conținutul narativ de expresia lui și descrie autorul implicat, naratorul, naratarul și cititorul implicit.
 
-Stanzel, în *A Theory of Narrative* (1979/1984), organizează situațiile narative într-un cerc tipologic:
+Stanzel, în *Theorie des Erzählens* (1979; trad. engl. *A Theory of Narrative*, 1984), organizează situațiile narative într-un cerc tipologic:
 
 - situație auctorială;
 - situație la persoana întâi;
@@ -857,7 +857,7 @@ Acestea nu sunt obiecte pure; același semn poate combina cele trei moduri.
 
 ## 40. Louis Hjelmslev
 
-În *Prolegomena to a Theory of Language* (1943), Hjelmslev reformulează semnul prin două planuri:
+În *Omkring sprogteoriens grundlæggelse* (1943; trad. engl. *Prolegomena to a Theory of Language*, 1953), Hjelmslev reformulează semnul prin două planuri:
 
 - expresie;
 - conținut.
@@ -867,6 +867,8 @@ Fiecare are formă și substanță. Semiotica analizează mai ales forma relați
 ## 41. Roland Barthes: mitul contemporan
 
 În *Mythologies* (1957), Barthes analizează fotografia, publicitatea, sportul, mâncarea și cultura populară.
+
+În „Éléments de sémiologie” (*Communications* 4, 1964), el precizează raportul dintre denotație și conotație: un sistem semiotic complet poate deveni planul de expresie al unui al doilea sistem.
 
 Mitul este un sistem semiologic de ordin secund:
 
@@ -1032,7 +1034,7 @@ Lacan afirmă că inconștientul este structurat asemenea unui limbaj. Subiectul
 - **simbolicul**: ordinea limbajului și a legii;
 - **realul**: ceea ce rezistă simbolizării;
 - **obiectul a**: cauza mobilă a dorinței;
-- metafora și metonimia modelează simptomul și dorința.
+- metafora modelează simptomul, iar metonimia modelează deplasarea dorinței.
 
 ## 53. Jacques Derrida: locul în poststructuralism
 
@@ -1717,6 +1719,8 @@ Dispunerea în trepte indică pauza, declamația și ritmul, apropiind pagina de
 
 Scriitorul-observator relatează; scriitorul-operativ participă, intervievează, documentează, organizează și modifică procesul despre care scrie.
 
+În „Chto novogo?” („Ce e nou?”), publicat în *Novyi LEF* 9 (1928), Tretiakov include reportajul, ancheta și montajul documentar între formele unei munci publicistice legate de probleme sociale actuale.
+
 Walter Benjamin preia acest model în „Autorul ca producător” (1934).
 
 ### Biografia obiectului
@@ -1943,7 +1947,7 @@ Opozițiile externe — bărbat/femeie, literatură/critică, vinovăție/inocen
 
 Felman combină deconstrucția și psihanaliza. În *Le Scandale du corps parlant* (1980), seducția și promisiunea sunt acte de limbaj care produc relații, nu simple descrieri.
 
-În studiile despre mărturie, discursul poate transmite tocmai prin lacune, repetări și imposibilitatea unei relatări complete.
+În *Testimony* (1992), volum scris împreună cu Dori Laub, mărturia poate transmite tocmai prin lacune, repetări și imposibilitatea unei relatări complete.
 
 ## 130. Bloom și Școala de la Yale
 
@@ -2106,7 +2110,7 @@ Răspunsul deconstructivist: lectura este constrânsă de detaliul textual și i
 
 - Arvatov, Boris. *Art and Production*. 1926.
 - Bakhtin, Mihail. *Problemele poeticii lui Dostoievski*; „Discursul în roman”.
-- Barthes, Roland. *Mythologies*; *S/Z*; „Moartea autorului”; „De la operă la text”.
+- Barthes, Roland. *Mythologies*; „Éléments de sémiologie”; *S/Z*; „Moartea autorului”; „De la operă la text”.
 - Booth, Wayne C. *The Rhetoric of Fiction*. 1961.
 - Compagnon, Antoine. *La Seconde Main*. 1979; *Le Démon de la théorie*. 1998.
 - Derrida, Jacques. *De la grammatologie*; *L’Écriture et la différence*; *La Dissémination*; *Limited Inc*.
@@ -2125,14 +2129,14 @@ Răspunsul deconstructivist: lectura este constrânsă de detaliul textual și i
 - Lotman, Iuri. *Structura textului artistic*; „Despre semiosferă”.
 - Mukařovský, Jan. „Limbaj standard și limbaj poetic”; „Arta ca fapt semiologic”.
 - Ortega y Gasset, José. *Meditații despre Don Quijote*; „Dezumanizarea artei”; „Idei despre roman”.
-- Peirce, Charles S. *Collected Papers*.
+- Peirce, Charles S. *Collected Papers*, vol. 2, ed. Charles Hartshorne și Paul Weiss. 1932.
 - Propp, Vladimir. *Morfologia basmului*. 1928.
 - Riffaterre, Michael. *Semiotics of Poetry*. 1978.
 - Sedgwick, Eve Kosofsky. *Touching Feeling*. 2003.
 - Șklovski, Viktor. „Arta ca procedeu”; *Teoria prozei*.
 - Spivak, Gayatri Chakravorty. „Can the Subaltern Speak?”; *A Critique of Postcolonial Reason*.
 - Todorov, Tzvetan. *Grammaire du Décaméron*; *Introduction à la littérature fantastique*; *La Littérature en péril*.
-- Tretiakov, Serghei. „Biografia obiectului”. 1929.
+- Tretiakov, Serghei. „Chto novogo?” („Ce e nou?”), *Novyi LEF* 9. 1928; „Biografia obiectului”. 1929.
 - Tînianov, Iuri. „Faptul literar”; „Despre evoluția literară”.
 
 ## Orientări de lectură
@@ -2167,7 +2171,7 @@ Instrumentele rămân cel mai fertile când sunt combinate fără a fi confundat
 
 # Partea a XIII-a. Atlas de tehnici: explicații și exemple
 
-Această parte transformă conceptele volumului în instrumente de analiză. Fiecare fișă conține cinci enunțuri explicative și două aplicații din opere diferite ale literaturii universale. Exemplele indică episoade precise și sunt parafrazate, astfel încât analiza să poată fi verificată direct în text.
+Această parte transformă conceptele volumului în instrumente de analiză. Fiecare fișă conține cinci enunțuri explicative și două aplicații din opere diferite. Pentru tehnicile literare, ambele aplicații provin din literatura universală. Când procedeul este constitutiv cinematografic, teatral sau vizual — precum cine-ochiul, montajul atracțiilor, biomecanica și fotomontajul — exemplele provin din mediul său istoric și sunt etichetate explicit ca film, montare scenică ori obiect hibrid. Exemplele indică episoade sau secvențe precise și sunt parafrazate, astfel încât analiza să poată fi verificată direct în operă.
 
 # A. Formalismul rus
 
@@ -2664,7 +2668,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 **Două exemple**
 
 - În *Don Quijote*, veghea armelor la han imită ritualul învestirii cavalerești, dar obiectele banale și hangiul transformă stilizarea în parodie.
-- În *The Rape of the Lock* de Alexander Pope, invocația, lupta și intervenția ființelor supranaturale transformă epopeea într-o parodie a conflictului monden pentru o buclă de păr.
+- În *The Rape of the Lock* de Alexander Pope, invocația, lupta și intervenția ființelor supranaturale aplică stilul epic unui conflict monden pentru o buclă de păr; este o parodie de gen realizată prin eroic-comic — subiect jos și stil înalt —, nu prin travesti.
 
 ## 172. Stilizarea
 
@@ -2769,7 +2773,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 **Două exemple**
 
 - În *Albă-ca-Zăpada*, regina ocupă sfera răufăcătorului, piticii pe aceea a ajutorului, iar prințul activează recunoașterea și salvarea; distribuția rămâne recognoscibilă în variante diferite.
-- În *Hobbitul* de J. R. R. Tolkien, Gandalf este succesiv trimițător și ajutor, Gollum funcționează ca oponent involuntar și furnizor al obiectului, iar Thorin alunecă temporar spre opoziție prin obsesia comorii.
+- În *Cenușăreasa*, mama vitregă și surorile ocupă sfera răufăcătorului și încearcă să preia fals recunoașterea, zâna îndeplinește funcțiile donatorului și ajutorului, iar prințul și curtea activează căutarea și sancțiunea prin proba pantofului.
 
 ## 179. Imaginea autorului
 
@@ -3032,16 +3036,16 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Ideea**
 
-- Concretizarea este activitatea prin care cititorul completează locurile nedeterminate ale operei.
-- Textul oferă perspective, obiecte schematizate și indicații, nu o lume exhaustivă.
-- Lecturi diferite pot actualiza posibilități diferite fără a fi arbitrare.
-- Normele epocii și experiența cititorului influențează imaginea construită.
-- Analiza distinge ceea ce textul afirmă de ceea ce interpretarea completează.
+- La Vodička, concretizarea este actualizarea istorică a operei de către cititori, critici și instituții.
+- Artefactul poate rămâne material același, în timp ce obiectul estetic și funcția lui se modifică.
+- Normele unei epoci selectează, ierarhizează și valorizează alte trăsături ale textului decât o epocă ulterioară.
+- Concretizările sunt documentabile prin recenzii, polemici, ediții, programe școlare și schimbări de canon.
+- Analiza compară aceste lecturi istorice cu posibilitățile oferite de structura operei, fără a le reduce la impresii individuale.
 
 **Două exemple**
 
-- În *În așteptarea lui Godot*, identitatea lui Godot nu este stabilită; cititorul sau spectatorul concretizează absența ca salvare, autoritate, sens ori simplă promisiune.
-- În *Cotitura de șurub* de Henry James, aparițiile pot fi concretizate ca fantome reale sau ca proiecții ale guvernantei, deoarece relatarea oferă indicii pentru ambele scenarii.
+- În *Hamlet*, ezitarea din jurul spectacolului „Cursa de șoareci” a fost concretizată de critica neoclasică drept defect de acțiune, iar de critica romantică drept semn al profunzimii reflexive a eroului.
+- În *Doamna Bovary*, scena bâlciului și adulterul au fost citite la procesul din 1857 ca pericol moral, în timp ce receptarea ulterioară a valorizat impersonalitatea și discursul indirect liber ca forme ale ironiei.
 
 ## 197. Norma estetică
 
@@ -3055,10 +3059,25 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În premiera romanului *Doamna Bovary*, tratarea impersonală a adulterului și amestecul discursurilor au contrazis așteptările morale și judiciare, lucru vizibil în procesul intentat autorului.
+- La apariția romanului *Doamna Bovary*, tratarea impersonală a adulterului și amestecul discursurilor au contrazis așteptările morale și judiciare, lucru vizibil în procesul intentat autorului.
 - În *Florile răului* de Charles Baudelaire, asocierea formei lirice elevate cu putrezirea, orașul și erotismul a deviat de la norma tematică dominantă și a produs scandal.
 
-## 198. Obiectul estetic și artefactul
+## 198. Valoarea estetică
+
+**Ideea**
+
+- La Mukařovský, valoarea estetică nu este o proprietate eternă depozitată în obiect, ci rezultatul unei evaluări istorice și sociale.
+- Ea apare din raportul mobil dintre artefact, norma dominantă și comunitățile care îl receptează.
+- O operă poate pierde sau câștiga valoare fără ca suportul ei material să se schimbe.
+- Conflictul dintre grupuri și epoci explică de ce judecățile estetice coexistă și de ce canonul se reface.
+- Analiza urmărește argumentele, instituțiile și schimbările de normă prin care o operă este respinsă, recuperată ori canonizată.
+
+**Două exemple**
+
+- În *Florile răului*, poemele condamnate în 1857 pentru ofensă morală, inclusiv cele despre erotism și descompunere, au devenit ulterior repere canonice ale modernității poetice.
+- În *Moby-Dick*, capitolele cetologice și digresiunile despre vânătoarea balenei, primite inițial fără consacrare durabilă, au fost reevaluate în secolul al XX-lea ca parte a arhitecturii enciclopedice a romanului.
+
+## 199. Obiectul estetic și artefactul
 
 **Ideea**
 
@@ -3075,7 +3094,37 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # C. New Criticism
 
-## 199. Ambiguitatea
+## 200. Lectura atentă (*close reading*)
+
+**Ideea**
+
+- Lectura atentă examinează cuvintele, imaginile, sintaxa, ritmul și relațiile interne înaintea explicațiilor biografice generale.
+- În exercițiile lui I. A. Richards, poemele sunt citite fără numele autorului și fără context oferit dinainte, pentru a face vizibile operațiile interpretării.
+- Procedeul testează fiecare afirmație prin detalii locale și prin locul lor în ansamblul operei.
+- Ambiguitatea, ironia și paradoxul devin astfel relații demonstrabile, nu simple etichete tematice.
+- Analiza avansează de la observația verbală precisă spre o ipoteză despre întreg și revine apoi la pasaj pentru verificare.
+
+**Două exemple**
+
+- În *Oda unei urne grecești* de John Keats, urmărirea apostrofelor, a scenelor nemișcate și a opoziției dintre cântecul auzit și cel neauzit explică tensiunea finalului fără apel la biografia poetului.
+- În *Cântecul de dragoste al lui J. Alfred Prufrock* de T. S. Eliot, pronumele instabile, refrenul amânărilor și apariția sirenelor construiesc ruptura dintre dorință și acțiune prin organizarea verbală a poemului.
+
+## 201. Unitatea organică
+
+**Ideea**
+
+- Unitatea organică desemnează integrarea elementelor unei opere într-un întreg ale cărui părți se modifică reciproc.
+- Coerența nu presupune eliminarea contradicțiilor, ci organizarea lor într-o structură de tensiuni productive.
+- Forma și conținutul nu pot fi separate fără pierdere, deoarece ideea există în ritm, imagini, ton și compoziție.
+- Un detaliu este interpretat prin funcția lui în ansamblu, iar ipoteza despre ansamblu este verificată prin detalii.
+- Analiza arată cum finalul, motivele și schimbările de voce produc o relație necesară, nu doar o temă comună.
+
+**Două exemple**
+
+- În *Sonetul 73* de Shakespeare, imaginile toamnei, amurgului și jarului refac succesiv aceeași apropiere a morții, iar distihul final le transformă într-un argument despre intensificarea iubirii.
+- În *Oda unei urne grecești*, nemișcarea și mișcarea, tăcerea și muzica, permanența și pierderea sunt ținute împreună de adresarea către urnă și de revenirea la statutul ei de obiect.
+
+## 202. Ambiguitatea
 
 **Ideea**
 
@@ -3087,10 +3136,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Cotitura de șurub* de Henry James, aparițiile sunt simultan probe ale fantomelor și posibile proiecții ale guvernantei; ambiguitatea organizează întreaga mărturie-cadru.
+- În *The Turn of the Screw* de Henry James, aparițiile sunt simultan probe ale fantomelor și posibile proiecții ale guvernantei; ambiguitatea organizează întreaga mărturie-cadru.
 - În *Hamlet*, cererea fantomei poate fi datorie legitimă sau ispită demonică, iar imposibilitatea verificării alimentează ezitarea prințului.
 
-## 200. Paradoxul
+## 203. Paradoxul
 
 **Ideea**
 
@@ -3105,7 +3154,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Sonetul 73* de Shakespeare, apropierea morții nu micșorează iubirea, ci o intensifică; pierderea devine condiția valorii prezente.
 - În sonetul *Moarte, nu te făli* de John Donne, moartea este învinsă tocmai prin trecerea prin moarte, iar apostrofa transformă finalul într-un paradox teologic și retoric.
 
-## 201. Ironia ca principiu structural
+## 204. Ironia ca principiu structural
 
 **Ideea**
 
@@ -3120,7 +3169,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Modesta propunere* de Jonathan Swift, vocea laudă calculul economic al canibalismului, iar disproporția dintre ton și obiect transformă argumentul într-o condamnare a politicii sociale.
 - În *Mândrie și prejudecată*, începutul despre averea burlacului pare adevăr universal, dar scenele matrimoniale arată că formula aparține interesului familiilor și devine ironie socială.
 
-## 202. Tensiunea semantică
+## 205. Tensiunea semantică
 
 **Ideea**
 
@@ -3135,7 +3184,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Oda unei urne grecești* de John Keats, permanența imaginilor intră în tensiune cu viața trecătoare a privitorului, iar frumusețea nu anulează pierderea.
 - În *Inima întunericului*, critica atrocității coloniale rămâne în tensiune cu limbajul prin care Marlow îi reduce pe africani la imagini și sunete.
 
-## 203. Eroarea intențională
+## 206. Eroarea intențională
 
 **Ideea**
 
@@ -3150,7 +3199,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Foc palid* de Nabokov, Kinbote pretinde că știe adevărata origine a poemului lui Shade, dar textul poemului și aparatul editorial îi subminează intenția atribuită.
 - În *Pierre Menard, autorul lui Don Quijote* de Borges, aceleași propoziții sunt evaluate diferit prin atribuirea unei alte intenții; povestirea expune cât de puternic numele autorului poate deturna lectura textului.
 
-## 204. Eroarea afectivă
+## 207. Eroarea afectivă
 
 **Ideea**
 
@@ -3167,7 +3216,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # D. Structuralismul francez și naratologia clasică
 
-## 205. Langue și parole
+## 208. Langue și parole
 
 **Ideea**
 
@@ -3182,7 +3231,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Mândrie și prejudecată*, formula socială a cererii în căsătorie aparține codului comun, dar prima declarație a lui Darcy o actualizează prin orgoliu și ofensă, provocând refuzul.
 - În *Portretul artistului la tinerețe* de James Joyce, engleza instituțională este codul primit, iar monologul lui Stephen o reconfigurează prin ritmuri personale și ecouri irlandeze.
 
-## 206. Raportul sintagmatic și raportul paradigmatic
+## 209. Raportul sintagmatic și raportul paradigmatic
 
 **Ideea**
 
@@ -3197,7 +3246,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Exerciții de stil* de Raymond Queneau, aceeași întâmplare este reluată prin alegeri paradigmatice de registru, în timp ce scheletul sintagmatic al episodului rămâne recognoscibil.
 - În *1984*, înlocuirea adjectivelor prin forme ca „ne-bun” reduce paradigma lexicală; combinațiile permise de Nouvorbă restrâng nuanțele pe care Winston le-ar putea formula.
 
-## 207. Sincronie și diacronie
+## 210. Sincronie și diacronie
 
 **Ideea**
 
@@ -3212,7 +3261,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Don Quijote*, lectura sincronă observă contrastul dintre han și castel în lumea romanului, iar lectura diacronică vede cum codul cavaleresc medieval a devenit material parodic.
 - În *Ulise*, o zi din Dublin formează sistemul sincron al acțiunii, în timp ce relația diacronică cu *Odiseea* reconfigurează tiparul eroic într-un cotidian modern.
 
-## 208. Opoziția binară
+## 211. Opoziția binară
 
 **Ideea**
 
@@ -3227,7 +3276,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Furtuna* de Shakespeare, opoziția cultură/natură organizează relațiile Prospero–Caliban, dar limbajul poetic al lui Caliban destabilizează distribuția simplă a termenilor.
 - În *Inima întunericului* de Joseph Conrad, contrastul civilizație/sălbăticie este enunțat de discursul colonial și răsturnat de violența companiei și de destinul lui Kurtz.
 
-## 209. Mitemul
+## 212. Mitemul
 
 **Ideea**
 
@@ -3242,7 +3291,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Oedip rege*, uciderea tatălui, căsătoria cu mama și rezolvarea enigmei pot fi citite ca relații între rudenie, autohtonism și cunoaștere, nu doar ca episoade succesive.
 - În *Antigona*, conflictul dintre datoria familială și legea cetății reia un nucleu mitic al casei Labdacizilor, transformând opoziția sânge/autoritate publică.
 
-## 210. Modelul actanțial
+## 213. Modelul actanțial
 
 **Ideea**
 
@@ -3257,7 +3306,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Stăpânul inelelor*, Frodo este Subiectul, distrugerea Inelului este Obiectul, Consiliul îl mandatează, Sam ajută, iar Sauron și puterea Inelului se opun.
 - În *Marele Gatsby*, Gatsby urmărește recuperarea lui Daisy, dar banii, Nick, Tom și propria imagine idealizată ocupă roluri fluctuante de ajutor și opoziție.
 
-## 211. Programul narativ
+## 214. Programul narativ
 
 **Ideea**
 
@@ -3272,22 +3321,22 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Odiseea*, Ulise vrea și trebuie să revină acasă, dobândește ajutoare și cunoaștere, își execută întoarcerea deghizat și este recunoscut prin semne succesive.
 - În *Contele de Monte-Cristo* de Alexandre Dumas, evadarea și dobândirea comorii oferă competența necesară programului răzbunării, a cărui sancțiune morală se complică pe parcurs.
 
-## 212. Pătratul semiotic
+## 215. Pătratul semiotic
 
 **Ideea**
 
-- Pătratul semiotic extinde o opoziție A/non-A prin contrarietate, contradicție și implicație.
-- El face vizibile pozițiile intermediare ori neutre pe care binarismul le ascunde.
-- Termenii trebuie formulați în raport cu valorile textului, nu ale analistului.
-- Parcursul unui personaj poate fi descris ca deplasare între pozițiile pătratului.
-- Instrumentul este o hartă logică, nu o explicație completă a operei.
+- Pătratul semiotic pornește de la doi termeni contrari, S1 și S2, apoi construiește contradictoriile non-S1 și non-S2.
+- S1/non-S1 și S2/non-S2 sunt relații de contradicție, în timp ce S1/S2 și non-S1/non-S2 formează axe de contrarietate și subcontrarietate.
+- Relațiile de complementaritate leagă non-S2 de S1 și non-S1 de S2; de aceea S2 nu trebuie confundat pur și simplu cu non-S1.
+- Combinarea pozițiilor poate face vizibile un termen complex și unul neutru pe care opoziția binară le ascunde.
+- Analiza justifică fiecare termen din text și folosește pătratul ca hartă relațională, nu ca explicație completă a operei.
 
 **Două exemple**
 
-- În *Antigona*, legal/ilegal se complică prin legea divină și autoritatea civică: gestul eroinei este ilegal pentru Creon, dar legitim într-un alt sistem normativ.
-- În *Străinul* de Albert Camus, vinovat/nevinovat este perturbat la proces, unde indiferența la înmormântare devine mai incriminatoare decât circumstanțele crimei.
+- În *Dracula*, viață și moarte pot ocupa pozițiile contrare, iar Lucy-vampirul este construită drept „ne-moartă”: ea nu mai este vie, dar nici moartea nu o fixează înaintea ritualului lui Van Helsing, făcând perceptibil termenul neutru non-viață/non-moarte.
+- În *Mâna stângă a întunericului* de Ursula K. Le Guin, Genly pornește de la opoziția masculin/feminin, însă gethenienii din afara perioadei *kemmer* ocupă poziția non-masculin/non-feminin; activarea sexuală temporară arată că negația unui pol nu implică identitatea stabilă cu celălalt.
 
-## 213. Logica posibilităților narative
+## 216. Logica posibilităților narative
 
 **Ideea**
 
@@ -3302,7 +3351,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Grădina potecilor ce se bifurcă* de Jorge Luis Borges, romanul lui Ts’ui Pên actualizează simultan alternative incompatibile, literalizând arborele posibilităților.
 - În *Romeo și Julieta*, scrisoarea neajunsă la Romeo închide posibilitatea salvării și actualizează lanțul erorilor care conduce la dublul suicid.
 
-## 214. Echilibrul și transformarea
+## 217. Echilibrul și transformarea
 
 **Ideea**
 
@@ -3317,7 +3366,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Mândrie și prejudecată*, echilibrul provincial este tulburat de sosirea lui Bingley și Darcy, iar căsătoriile finale instituie o ordine nouă după corectarea judecăților.
 - În *Metamorfoza*, transformarea lui Gregor distruge economia familiei, iar moartea lui produce un nou echilibru dur, centrat pe viitorul Gretei.
 
-## 215. Propoziția narativă
+## 218. Propoziția narativă
 
 **Ideea**
 
@@ -3332,7 +3381,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În nuvela despre Nastagio degli Onesti din *Decameronul*, refuzul femeii, spectacolul pedepsei și acceptarea căsătoriei pot fi descrise ca transformări succesive ale relației dintre subiect și predicatul dorinței.
 - În *Cenușăreasa*, eroina trece de la exclusă la recunoscută prin probă, deplasare și identificare; aceste transformări rămân stabile chiar când decorul variantelor se schimbă.
 
-## 216. Ezitarea fantastică
+## 219. Ezitarea fantastică
 
 **Ideea**
 
@@ -3344,10 +3393,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Cotitura de șurub*, fantomele observate de guvernantă pot fi agenți supranaturali sau efecte ale obsesiei ei, iar manuscrisul nu rezolvă sigur alternativa.
+- În *The Turn of the Screw*, fantomele observate de guvernantă pot fi agenți supranaturali sau efecte ale obsesiei ei, iar manuscrisul nu rezolvă sigur alternativa.
 - În *Omul de nisip* de E. T. A. Hoffmann, Coppelius/Olimpia pot confirma o conspirație demonică ori prăbușirea psihică a lui Nathanael, păstrând ezitarea până aproape de final.
 
-## 217. Nucleii și catalizele
+## 220. Nucleii și catalizele
 
 **Ideea**
 
@@ -3362,7 +3411,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Crimă și pedeapsă*, hotărârea și executarea crimei sunt nuclee; drumul, ezitările și verificarea ușii funcționează drept catalize care dilată tensiunea.
 - În *Anna Karenina*, întâlnirea Annei cu Vronski și mărturisirea către Karenin sunt nuclee, în timp ce scenele mondene dintre ele modulează presiunea socială.
 
-## 218. Indicii și informanții
+## 221. Indicii și informanții
 
 **Ideea**
 
@@ -3377,7 +3426,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Marele Gatsby*, lumina verde este un indiciu al dorinței proiectate, în timp ce numele localităților East Egg și West Egg informează și structurează geografia socială.
 - În *Ciuma* de Albert Camus, numărul crescător al șobolanilor oferă informații despre epidemie și devine indiciu al unei ordini urbane care se dezagregă.
 
-## 219. Codul hermeneutic
+## 222. Codul hermeneutic
 
 **Ideea**
 
@@ -3392,7 +3441,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Oedip rege*, întrebarea „cine l-a ucis pe Laios?” este amânată prin mărturii incomplete până când anchetatorul se identifică drept vinovat.
 - În *Numele trandafirului* de Umberto Eco, seria morților și cartea interzisă despre râs produc enigme convergente, rezolvate în biblioteca-labirint.
 
-## 220. Codul proairetic
+## 223. Codul proairetic
 
 **Ideea**
 
@@ -3407,7 +3456,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Cei trei muschetari*, provocarea, alegerea martorilor și scoaterea spadelor activează scenariul duelului, apoi sosirea gărzilor îl transformă într-o alianță.
 - În *Bătrânul și marea* de Ernest Hemingway, pregătirea firului, mușcătura și tragerea peștelui alcătuiesc o secvență de vânătoare a cărei durată produce tensiunea.
 
-## 221. Codurile semic, simbolic și cultural
+## 224. Codurile semic, simbolic și cultural
 
 **Ideea**
 
@@ -3422,7 +3471,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Moby-Dick*, cicatricea și privirea lui Ahab formează seme ale obsesiei, albul balenei intră în codul simbolic, iar capitolele cetologice mobilizează codul cultural.
 - În *Numele trandafirului*, orbirea lui Jorge îl construiește semic, labirintul funcționează simbolic, iar disputele teologice activează coduri culturale medievale.
 
-## 222. Nivelurile funcțiilor, acțiunilor și narațiunii
+## 225. Nivelurile funcțiilor, acțiunilor și narațiunii
 
 **Ideea**
 
@@ -3437,7 +3486,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Oedip rege*, mărturiile sunt funcții ale anchetei, Oedip ocupă rolul agentului căutător, iar adresarea publică în fața cetății integrează acțiunea în narațiunea autorității regale.
 - În *Frankenstein*, întâlnirile și probele compun funcțiile, Creatorul și Creatura își inversează rolurile de urmăritor, iar relatările încastrate către Walton organizează nivelul comunicării.
 
-## 223. Istorie, povestire și narare
+## 226. Istorie, povestire și narare
 
 **Ideea**
 
@@ -3452,7 +3501,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Odiseea*, rătăcirile formează istoria, relatarea lor retrospectivă la curtea feacilor aparține povestirii, iar Ulise ca povestitor intern definește actul narării.
 - În *La răscruce de vânturi*, viețile lui Catherine și Heathcliff constituie istoria, discursul transmis de Nelly este povestirea, iar conversația ei cu Lockwood fixează nararea și destinatarii.
 
-## 224. Analepsa
+## 227. Analepsa
 
 **Ideea**
 
@@ -3467,7 +3516,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Odiseea*, Ulise povestește feacilor aventurile de la plecarea din Troia, transformând eroul prezent în narator al propriului trecut.
 - În *La răscruce de vânturi* de Emily Brontë, Nelly reconstruiește pentru Lockwood copilăria lui Heathcliff și Catherine, iar retrospectiva explică ostilitatea prezentă.
 
-## 225. Prolepsa
+## 228. Prolepsa
 
 **Ideea**
 
@@ -3482,7 +3531,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Cronica unei morți anunțate* de Gabriel García Márquez, moartea lui Santiago Nasar este declarată de la început, iar interesul se mută de la „ce?” la „cum a fost posibil?”.
 - În *Romeo și Julieta*, prologul anunță destinul îndrăgostiților, conferind fiecărei încercări de evitare a conflictului o ironie tragică.
 
-## 226. Elipsa temporală
+## 229. Elipsa temporală
 
 **Ideea**
 
@@ -3497,7 +3546,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În secțiunea „Timpul trece” din *Spre far*, anii războiului și morțile membrilor familiei sunt comprimate ori enunțate între paranteze, în timp ce casa goală ocupă prim-planul.
 - În *Anii* de Virginia Woolf, salturile între date lasă în afara scenei decenii întregi, iar schimbarea corpurilor și a locuințelor face intervalul perceptibil.
 
-## 227. Rezumatul
+## 230. Rezumatul
 
 **Ideea**
 
@@ -3512,7 +3561,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Educația sentimentală* de Flaubert, perioade întregi din viața lui Frédéric sunt rezumate între întâlniri decisive, subliniind deriva și ratarea.
 - În *Un veac de singurătate*, ascensiunea și prăbușirea unor afaceri ori războaie sunt comprimate rapid, întărind senzația ciclurilor istorice.
 
-## 228. Scena
+## 231. Scena
 
 **Ideea**
 
@@ -3527,7 +3576,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Mândrie și prejudecată*, prima cerere în căsătorie a lui Darcy se desfășoară ca scenă dialogată, iar fiecare replică inversează raportul dintre orgoliu și judecată.
 - În *Frații Karamazov*, episodul „Marele Inchizitor” încetinește acțiunea într-o amplă confruntare verbală despre libertate și autoritate.
 
-## 229. Pauza descriptivă
+## 232. Pauza descriptivă
 
 **Ideea**
 
@@ -3542,7 +3591,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Moby-Dick*, capitolele despre anatomia și clasificarea balenelor suspendă vânătoarea, transformând obiectul urmărit într-un exces de cunoaștere.
 - În *Notre-Dame de Paris* de Victor Hugo, panorama Parisului medieval oprește acțiunea pentru a construi orașul și catedrala ca personaje istorice.
 
-## 230. Încetinirea narativă
+## 233. Încetinirea narativă
 
 **Ideea**
 
@@ -3557,7 +3606,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *În căutarea timpului pierdut*, gustul madlenei ocupă doar câteva clipe ale acțiunii, dar declanșează o amplă explorare a senzației și a memoriei involuntare.
 - În *Ulise*, episodul „Nausicaa” dilată schimbul scurt de priviri dintre Bloom și Gerty prin descriere, fantezie și ritmul artificiilor, făcând timpul dorinței perceptibil.
 
-## 231. Frecvența singulativă
+## 234. Frecvența singulativă
 
 **Ideea**
 
@@ -3572,7 +3621,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Anna Karenina*, moartea Annei sub tren este relatată ca eveniment unic, pregătit prin motivul gării și imposibil de repetat în lumea poveștii.
 - În *Oedip rege*, recunoașterea identității lui Oedip are loc o singură dată și reorganizează retrospectiv toate mărturiile anterioare.
 
-## 232. Frecvența repetitivă
+## 235. Frecvența repetitivă
 
 **Ideea**
 
@@ -3587,7 +3636,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Absalom, Absalom!* de Faulkner, istoria lui Sutpen este reconstruită repetat de Rosa, Mr. Compson, Quentin și Shreve, fără a deveni complet sigură.
 - În *Beloved*, uciderea copilului revine în amintiri și voci diferite, fiecare reluare modificând raportul dintre cruzime, iubire și supraviețuire.
 
-## 233. Frecvența iterativă
+## 236. Frecvența iterativă
 
 **Ideea**
 
@@ -3602,7 +3651,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *În căutarea timpului pierdut*, ritualurile serilor de la Combray sunt relatate iterativ, iar seara sărutului refuzat se desprinde ca abatere singulară.
 - În *Robinson Crusoe*, activitățile repetate de cultivare, numărare și fortificare sunt condensate în jurnal, până când urma unui picior rupe rutina.
 
-## 234. Focalizarea zero
+## 237. Focalizarea zero
 
 **Ideea**
 
@@ -3617,7 +3666,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Război și pace*, relatarea bătăliei de la Borodino trece între Kutuzov, Pierre, Andrei și planul general, depășind perspectiva fiecăruia.
 - În *Casa umbrelor* de Charles Dickens, naratorul panoramic urmărește ceața londoneză, instituțiile și familiile înainte ca personajele să le poată conecta.
 
-## 235. Focalizarea internă
+## 238. Focalizarea internă
 
 **Ideea**
 
@@ -3632,7 +3681,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Mândrie și prejudecată*, multe scene sunt filtrate prin Elizabeth; scrisoarea lui Darcy obligă cititorul să-și revizuiască judecata odată cu ea.
 - În *Ambasadorii* de Henry James, Parisul și familia Newsome sunt evaluate prin Strether, iar informațiile sosesc pe măsura transformării percepției sale.
 
-## 236. Focalizarea externă
+## 239. Focalizarea externă
 
 **Ideea**
 
@@ -3645,9 +3694,9 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 **Două exemple**
 
 - În povestirea *Ucigașii* de Hemingway, Nick și cititorul urmăresc conversația și pregătirile celor doi asasini fără explicații psihologice sau istorie completă.
-- În *Șoimii* de Dashiell Hammett, gesturile și dialogurile detectivului Sam Spade sunt oferite din exterior, păstrându-i intențiile strategice opace.
+- În *Șoimul maltez* de Dashiell Hammett, gesturile și dialogurile detectivului Sam Spade sunt oferite din exterior, păstrându-i intențiile strategice opace.
 
-## 237. Naratorul homodiegetic
+## 240. Naratorul homodiegetic
 
 **Ideea**
 
@@ -3662,7 +3711,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Marile speranțe* de Dickens, Pip adult povestește homodiegetic copilăria și își poate judeca retrospectiv iluziile.
 - În *Inima întunericului*, Marlow este narator homodiegetic și martor implicat al ascensiunii lui Kurtz, iar limitele experienței sale modelează descrierea colonialismului.
 
-## 238. Naratorul heterodiegetic
+## 241. Naratorul heterodiegetic
 
 **Ideea**
 
@@ -3677,7 +3726,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Doamna Bovary*, după „noi”-ul școlar de la început, vocea devine predominant heterodiegetică și trece între personaje fără a intra ca agent în intrigă.
 - În *Război și pace*, naratorul heterodiegetic urmărește Borodino prin mai multe conștiințe și adaugă comentarii istorice inaccesibile participanților.
 
-## 239. Nivelurile narative
+## 242. Nivelurile narative
 
 **Ideea**
 
@@ -3692,7 +3741,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Frankenstein*, Walton scrie scrisori, Victor îi povestește viața, iar Creatura își introduce propria relatare, formând trei niveluri încastrate.
 - În *O mie și una de nopți*, Șeherezada spune povești în care personaje devin la rândul lor povestitori, amânând prin încastrare execuția.
 
-## 240. Metalepsa
+## 243. Metalepsa
 
 **Ideea**
 
@@ -3707,7 +3756,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În partea a doua din *Don Quijote*, personajele întâlnesc oameni care au citit prima parte a romanului, iar produsul editorial pătrunde în lumea ficțiunii.
 - În *Dacă într-o noapte de iarnă un călător*, „tu”, Cititorul, devine personaj care caută chiar cartea pe care cititorul empiric o ține în mână.
 
-## 241. Autorul implicat
+## 244. Autorul implicat
 
 **Ideea**
 
@@ -3722,7 +3771,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Lolita* de Vladimir Nabokov, eleganța lui Humbert aparține naratorului, dar contradicțiile, suferința lui Dolores și cadrul editorial permit reconstruirea unei norme care îl condamnă.
 - În *Rămășițele zilei* de Kazuo Ishiguro, Stevens își justifică loialitatea, însă scenele ratate cu Miss Kenton și dezvăluirile despre lordul Darlington construiesc o evaluare opusă.
 
-## 242. Naratorul nefiabil
+## 245. Naratorul nefiabil
 
 **Ideea**
 
@@ -3737,7 +3786,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Lolita*, Humbert transformă abuzul într-o poveste de iubire, dar detaliile fugii, izolării și fricii lui Dolores contrazic retorica sa.
 - În *Prăbușirea casei Usher* de Edgar Allan Poe, observatorul se declară rațional, însă sensibilitatea lui crescândă și imposibilitatea verificării fac relatarea finală incertă.
 
-## 243. Naratorul autodiegetic
+## 246. Naratorul autodiegetic
 
 **Ideea**
 
@@ -3752,7 +3801,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Marile speranțe*, Pip adult reconstituie rușinea față de Joe și iluziile despre Estella; judecata retrospectivă transformă povestea ascensiunii într-o autocritică.
 - În *Viața lui Pi* de Yann Martel, Pi adult spune naufragiul și oferă ulterior două versiuni ale episodului, făcând din autodiegeză o probă a sensului ales pentru traumă.
 
-## 244. Timpul actului de narare
+## 247. Timpul actului de narare
 
 **Ideea**
 
@@ -3767,22 +3816,37 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Dracula* de Bram Stoker, jurnalele și scrisorile sunt redactate între episoadele urmăririi; nararea intercalată limitează informația la ceea ce personajele știu atunci.
 - În *Cronica unei morți anunțate*, investigatorul relatează ulterior moartea lui Santiago, folosind mărturii adunate după ani; distanța permite comparația versiunilor, dar nu închiderea completă a cazului.
 
-## 245. Naratarul și cititorul implicat
+## 248. Naratarul
 
 **Ideea**
 
 - Naratarul este destinatarul intern căruia naratorul îi adresează relatarea.
-- Cititorul implicat este poziția de receptare proiectată de structura textului.
-- Niciunul nu se confundă automat cu persoana reală care citește cartea.
-- Adresările, explicațiile și tăcerile indică ce competențe sau reacții presupune discursul.
-- Analiza separă publicul din scenă, receptorul modelat textual și publicul istoric efectiv.
+- El poate fi numit, prezent în scena povestirii sau doar presupus de explicațiile vocii.
+- Naratarul nu se confundă cu cititorul real și nici cu publicul ideal proiectat de întreaga operă.
+- Întrebările, reacțiile și cunoașterea lui pot determina selecția, ordinea și nivelul de detaliu al relatării.
+- Analiza identifică semnele adresării și efectul destinatarului intern asupra discursului naratorului.
 
 **Două exemple**
 
 - În *La răscruce de vânturi*, Lockwood este naratarul relatării lui Nelly, iar întrebările lui determină selecția istoriei pe care o primește și apoi o transmite cititorului.
-- În *Jane Eyre*, formula adresată direct cititorului la momentul căsătoriei construiește un confident textual capabil să compare rezultatul cu încercările anterioare ale eroinei.
+- În *Inima întunericului*, cei patru ascultători ai lui Marlow de pe vasul Nellie sunt naratarii poveștii sale, iar cadrul de pe Tamisa face ca relatarea despre Congo să fie adresată centrului imperial.
 
-## 246. Situațiile narative ale lui Stanzel
+## 249. Cititorul implicit
+
+**Ideea**
+
+- Cititorul implicit este poziția de receptare construită de text, nu persoana empirică ce ține cartea în mână.
+- Selecția informației, lacunele, ironiile și trimiterile presupun anumite competențe și forme de cooperare.
+- Această poziție poate fi invitată să creadă o voce, să o suspecteze sau să observe ceea ce personajele nu înțeleg.
+- Cititorul real poate accepta, negocia ori refuza rolul proiectat, dar trebuie mai întâi să-l reconstruiască textual.
+- Analiza descrie ce trebuie să știe, să compare și să infereze receptorul pentru ca strategia operei să funcționeze.
+
+**Două exemple**
+
+- În *Foc palid* de Vladimir Nabokov, poemul lui Shade, notele lui Kinbote și contradicțiile dintre ele proiectează un cititor care verifică trimiterile încrucișate și reconstruiește o poveste pe care editorul fictiv încearcă să o confiște; rolul rezultă din strategia întregii opere, nu dintr-o adresare către un destinatar intern.
+- În *Numele trandafirului* de Umberto Eco, indiciile despre bibliotecă, disputele teologice și manuscrisul-cadru proiectează un cititor dispus să combine ancheta detectivistă cu interpretarea semnelor medievale.
+
+## 250. Situațiile narative ale lui Stanzel
 
 **Ideea**
 
@@ -3799,7 +3863,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # E. Semiotica
 
-## 247. Semnul arbitrar
+## 251. Semnul arbitrar
 
 **Ideea**
 
@@ -3814,7 +3878,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Alice în Țara Oglinzilor* de Lewis Carroll, Humpty Dumpty pretinde că poate impune cuvintelor orice sens, iar scena transformă arbitrarul semnului într-o problemă de putere.
 - În *1984*, partidul reduce vocabularul prin Nouvorbă, încercând să modifice câmpul gândibil prin reorganizarea diferențelor din sistem.
 
-## 248. Iconul
+## 252. Iconul
 
 **Ideea**
 
@@ -3829,7 +3893,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Un coup de dés* de Mallarmé, gruparea și dispersarea cuvintelor pe pagină iconizează constelația și mișcarea aruncării.
 - În *Casa frunzelor*, rândurile care se îngustează, se răsucesc ori lasă pagini aproape goale imită grafic fuga și spațiul imposibil al coridorului.
 
-## 249. Indicele
+## 253. Indicele
 
 **Ideea**
 
@@ -3844,7 +3908,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Robinson Crusoe*, urma singulară a unui picior pe nisip indică prezența altui om și distruge siguranța insulară construită de protagonist.
 - În *Câinele din Baskerville* de Arthur Conan Doyle, urmele, noroiul și mirosul sunt tratate de Holmes ca efecte materiale care permit reconstruirea complotului.
 
-## 250. Simbolul
+## 254. Simbolul
 
 **Ideea**
 
@@ -3859,7 +3923,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Litera stacojie* de Nathaniel Hawthorne, litera A este o marcă legală convențională, dar sensul ei trece de la adulter la abilitate și identitate publică.
 - În *Ferma animalelor* de George Orwell, steagul, cântecul și poruncile funcționează ca simboluri politice ale noii comunități, apoi sunt rescrise de conducători.
 
-## 251. Relația triadică a semnului
+## 255. Relația triadică a semnului
 
 **Ideea**
 
@@ -3874,7 +3938,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Robinson Crusoe*, urma de picior este representamenul, trecerea unei ființe umane este obiectul presupus, iar frica de invadatori este interpretantul care reorganizează conduita lui Crusoe.
 - În *Litera stacojie*, litera purtată de Hester este forma vizibilă, abaterea sancționată este obiectul instituțional, iar sensurile succesive atribuite de comunitate îi modifică interpretantul.
 
-## 252. Semioza nelimitată
+## 256. Semioza nelimitată
 
 **Ideea**
 
@@ -3889,7 +3953,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Numele trandafirului*, semnele crimelor sunt interpretate prin Apocalipsă, apoi reinterpretate ca efect al unei serii doar parțial planificate.
 - În *Pierre Menard, autorul lui Don Quijote* de Borges, aceleași propoziții primesc alte interpretări când sunt atribuite unui autor din secolul XX.
 
-## 253. Expresie și conținut; formă și substanță
+## 257. Expresie și conținut; formă și substanță
 
 **Ideea**
 
@@ -3904,7 +3968,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Exerciții de stil* de Raymond Queneau, întâmplarea autobuzului oferă o substanță narativă relativ constantă, iar formele de expresie succesive o reorganizează în registre incompatibile.
 - În *Casa frunzelor*, spațiul imposibil este conținut narativ, iar paginile rarefiate, notele și orientarea tipografică îi dau o formă de expresie care obligă lectura să imite rătăcirea.
 
-## 254. Denotația, conotația și mitul
+## 258. Denotația, conotația și mitul
 
 **Ideea**
 
@@ -3919,7 +3983,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Marele Gatsby*, automobilul denotă un obiect de lux, conotează mobilitate și statut, iar accidentul demontează mitul succesului american fără cost.
 - În *Moartea unui comis-voiajor* de Arthur Miller, casa, frigiderul și slujba lui Willy susțin mitul prosperității prin merit, pe care eșecul familiei îl dezvăluie ca presiune ideologică.
 
-## 255. Opera deschisă
+## 259. Opera deschisă
 
 **Ideea**
 
@@ -3934,7 +3998,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Castelul destinelor încrucișate* de Calvino, cărțile de tarot pot susține istorii diferite, dar combinațiile lor vizuale limitează interpretarea.
 - În *Șotron* de Julio Cortázar, cititorul poate urma ordinea liniară ori traseul indicat de autor, obținând configurații diferite ale acelorași capitole.
 
-## 256. Cititorul-model
+## 260. Cititorul-model
 
 **Ideea**
 
@@ -3949,7 +4013,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Numele trandafirului*, cititorul-model corelează indicii detectivistice cu dezbateri medievale și recunoaște că soluția nu elimină hazardul.
 - În *Dacă într-o noapte de iarnă un călător*, adresarea la persoana a doua construiește explicit un cititor care caută continuitate și învață să accepte întreruperea.
 
-## 257. Codul și enciclopedia culturală
+## 261. Codul și enciclopedia culturală
 
 **Ideea**
 
@@ -3964,7 +4028,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Numele trandafirului*, citirea urmelor din zăpadă presupune scenariul cultural al urmăririi și cunoștințe despre cai; William produce animalul absent din relația indiciilor.
 - În *Mândrie și prejudecată*, balul de la Netherfield presupune codurile rangului, dansului și conversației; refuzurile și alegerile partenerilor capătă sens social prin această enciclopedie.
 
-## 258. Limitele interpretării
+## 262. Limitele interpretării
 
 **Ideea**
 
@@ -3976,10 +4040,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Cotitura de șurub*, lectura supranaturală și cea psihologică sunt ambele susținute de indicii, însă o interpretare care ignoră manuscrisul-cadru ori reacțiile copiilor explică insuficient construcția.
+- În *The Turn of the Screw*, lectura supranaturală și cea psihologică sunt ambele susținute de indicii, însă o interpretare care ignoră manuscrisul-cadru ori reacțiile copiilor explică insuficient construcția.
 - În *Numele trandafirului*, William abandonează schema apocaliptică totală când descoperă coincidențele seriei; corectarea arată că interpretul trebuie să răspundă rezistenței faptelor textuale.
 
-## 259. Semiosfera
+## 263. Semiosfera
 
 **Ideea**
 
@@ -3994,7 +4058,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Lucrurile se destramă* de Chinua Achebe, proverbele și ritualurile igbo intră în contact cu misiunea și administrația britanică, iar finalul arată reducerea violentă prin cod colonial.
 - În *Mâna stângă a întunericului*, Genly Ai traduce obiceiurile planetei Gethen prin categorii terestre, iar călătoria cu Estraven îi transformă codul inițial.
 
-## 260. Sistemul secundar de modelare
+## 264. Sistemul secundar de modelare
 
 **Ideea**
 
@@ -4009,7 +4073,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Eugen Oneghin*, limba rusă formează sistemul primar, iar strofa fixă, vocea digresivă și convențiile romanului în versuri construiesc sistemul secundar.
 - În *Pământul pustiu*, limbile, citatele și vocile cotidiene sunt reorganizate prin montaj, note și repetiții, producând un model cultural al fragmentării.
 
-## 261. Granița semiotică și traducerea
+## 265. Granița semiotică și traducerea
 
 **Ideea**
 
@@ -4024,7 +4088,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Lucrurile se destramă* de Chinua Achebe, traducerea proverbelor și ritualurilor igbo în limba romanului mediază între codul comunității și cititor, iar administrația colonială reduce această complexitate la raport.
 - În *The Namesake* de Jhumpa Lahiri, schimbarea numelor și a limbilor între India și Statele Unite transformă identitatea familiei Ganguli; granița culturală produce sens prin traduceri imperfecte.
 
-## 262. Genotextul și fenotextul
+## 266. Genotextul și fenotextul
 
 **Ideea**
 
@@ -4039,7 +4103,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În monologul lui Molly Bloom din *Ulise*, firul inteligibil al amintirilor este traversat de ritmuri corporale, reluări și asociații care depășesc ordinea sintactică.
 - În *Valurile* de Virginia Woolf, solilocviile păstrează identități recognoscibile, dar repetițiile marine și ritmul comun dizolvă granițele stabile dintre voci.
 
-## 263. Semioticul și simbolicul la Kristeva
+## 267. Semioticul și simbolicul la Kristeva
 
 **Ideea**
 
@@ -4056,7 +4120,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # F. Poststructuralismul
 
-## 264. Moartea autorului
+## 268. Moartea autorului
 
 **Ideea**
 
@@ -4071,7 +4135,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Pierre Menard*, un fragment identic cu cel al lui Cervantes capătă sens nou prin schimbarea atribuirii, demonstrând că numele autorului organizează lectura fără a epuiza textul.
 - În *Pământul pustiu*, vocile și sursele eterogene nu se reduc la biografia lui Eliot; cititorul construiește relații între mit, cântec popular și ruină contemporană.
 
-## 265. De la operă la Text
+## 269. De la operă la Text
 
 **Ideea**
 
@@ -4086,7 +4150,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Ulise*, o zi delimitată și un volum material devin Text prin traversarea Odiseei, a presei, a muzicii, a teologiei și a vocilor Dublinului.
 - În *Dacă într-o noapte de iarnă un călător*, volumul fizic pune în scenă Textul ca rețea de începuturi, genuri și acte de lectură imposibil de totalizat.
 
-## 266. Plăcere și *jouissance*
+## 270. Plăcere și *jouissance*
 
 **Ideea**
 
@@ -4101,7 +4165,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Dacă într-o noapte de iarnă un călător*, începuturile de gen oferă plăcerea recunoașterii, iar întreruperea lor repetată destramă identitatea cititorului care așteaptă posesia unei povești complete.
 - În monologul lui Molly Bloom din *Ulise*, revenirea amintirilor oferă continuități afective, dar sintaxa fără punctuație și trecerile corporale destabilizează controlul lecturii.
 
-## 267. Arheologia discursului
+## 271. Arheologia discursului
 
 **Ideea**
 
@@ -4116,7 +4180,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Jane Eyre*, descrierile medicale, juridice și coloniale ale Berthei Mason participă la discursuri istorice care fac „nebunia” și izolarea ei inteligibile pentru lumea romanului.
 - În *Dracula* de Bram Stoker, jurnalele, fonograful, telegramele și medicina modernă alcătuiesc o arhivă de enunțuri prin care grupul încearcă să clasifice supranaturalul.
 
-## 268. Genealogia
+## 272. Genealogia
 
 **Ideea**
 
@@ -4131,7 +4195,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Litera stacojie*, pedeapsa publică, eșafodul și litera purtată pe corp arată producerea istorică a identității de „păcătoasă”.
 - În *Povestea slujitoarei* de Margaret Atwood, ceremoniile și costumele regimului Gilead reconstruiesc genealogic controlul reproductiv din fragmente biblice și instituții moderne.
 
-## 269. Funcția-autor
+## 273. Funcția-autor
 
 **Ideea**
 
@@ -4146,7 +4210,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Don Quijote*, Cervantes invocă manuscrisul istoricului Cide Hamete Benengeli, fragmentând funcția-autor între traducător, editor și cronicar fictiv.
 - În *Povestea slujitoarei*, „Notele istorice” transformă mărturia lui Offred într-un document editat și atribuit academic, modificând autoritatea vocii ei.
 
-## 270. Rizomul
+## 274. Rizomul
 
 **Ideea**
 
@@ -4161,7 +4225,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Șotron*, capitolele pot fi parcurse prin mai multe rute, iar Parisul, Buenos Airesul, jazzul și reflecțiile formează o rețea fără centru unic.
 - În *Dicționar khazar* de Milorad Pavić, intrările celor trei tradiții se leagă transversal, iar cititorul construiește trasee diferite prin aceeași arhivă.
 
-## 271. Deterritorializarea
+## 275. Deterritorializarea
 
 **Ideea**
 
@@ -4176,7 +4240,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Procesul*, germana administrativă este împinsă spre o claritate rece și stranie, desprinzând birocrația de funcția ei practică și transformând-o în mediu existențial.
 - În *Copiii din miez de noapte* de Salman Rushdie, engleza este reconfigurată prin ritmuri, expresii și istorii sud-asiatice, devenind limbă a unei națiuni fragmentare.
 
-## 272. Asamblajul și reteritorializarea
+## 276. Asamblajul și reteritorializarea
 
 **Ideea**
 
@@ -4191,7 +4255,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Copiii din miez de noapte*, corpul lui Saleem, radioul, națiunea, familia și „copiii” formează un asamblaj; sterilizarea de urgență îl destramă și îl reteritorializează prin aparatul statului.
 - În *Procesul*, camerele, funcționarii, dosarele și regulile nescrise alcătuiesc asamblajul tribunalului; încercările lui K. de a ieși din el îl conectează mereu la alte ramuri ale instituției.
 
-## 273. Literatura minoră
+## 277. Literatura minoră
 
 **Ideea**
 
@@ -4206,7 +4270,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Metamorfoza* de Kafka, germana sobră și administrativă tratează transformarea imposibilă ca fapt domestic; limbajul major este făcut straniu din interiorul situației minoritare pragheze.
 - În *Lucrurile se destramă*, Achebe folosește engleza prin proverbe, ritmuri și concepte igbo, transformând limba colonială într-o voce colectivă a comunității reprezentate.
 
-## 274. Metanarațiunea și neîncrederea
+## 278. Metanarațiunea și neîncrederea
 
 **Ideea**
 
@@ -4221,7 +4285,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Copiii din miez de noapte*, istoria triumfală a independenței Indiei este fragmentată prin corpul instabil și memoria corectată a lui Saleem.
 - În *Beloved*, povestea națională a emancipării juridice este confruntată cu trauma persistentă a sclaviei în casa de pe Bluestone Road.
 
-## 275. Diferendul
+## 279. Diferendul
 
 **Ideea**
 
@@ -4236,7 +4300,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Procesul*, K. trebuie să răspundă unei acuzații care nu îi este comunicată; limbajul apărării nu poate funcționa în idiomul tribunalului, iar conflictul nu primește regulă comună.
 - În *Beloved*, experiența sclaviei nu poate fi judecată adecvat prin limbajul juridic al proprietății ori prin moralitatea abstractă; vocile fragmentare creează forme pentru prejudiciul nerecunoscut.
 
-## 276. Jocurile de limbaj
+## 280. Jocurile de limbaj
 
 **Ideea**
 
@@ -4251,7 +4315,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Procesul*, întrebările factuale și cererile de explicație ale lui K. intră într-un joc juridic ale cărui reguli rămân inaccesibile, astfel încât apărarea și acuzația nu folosesc același criteriu.
 - În *Antigona*, porunca politică a lui Creon și obligația rituală invocată de Antigona aparțin unor jocuri normative diferite, iar conflictul nu poate fi soluționat prin simpla repetare a unuia.
 
-## 277. Simulacrul
+## 281. Simulacrul
 
 **Ideea**
 
@@ -4263,10 +4327,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Banii* de Don DeLillo, viața lui John Self este organizată de reclame, film și consum, iar identitatea lui imită imagini care nu mai au un original coerent.
+- În *Banii* de Martin Amis, viața lui John Self este organizată de reclame, film și consum, iar identitatea lui imită imagini care nu mai au un original coerent.
 - În *Androidii visează oi electrice?* de Philip K. Dick, animalele artificiale și androizii destabilizează criteriul autenticității, inclusiv testul empatiei.
 
-## 278. Hiperrealul
+## 282. Hiperrealul
 
 **Ideea**
 
@@ -4281,7 +4345,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Zgomotul alb* de Don DeLillo, „evenimentul toxic aeropurtat” este trăit prin buletine, simulări și termeni tehnici; familia își recunoaște pericolul după modelele mediatice.
 - În *American Psycho* de Bret Easton Ellis, mărcile, reclamele și recenziile organizează identitatea lui Bateman atât de complet încât violența și rutina devin greu de separat într-o lume a imaginilor de consum.
 
-## 279. Stadiul oglinzii
+## 283. Stadiul oglinzii
 
 **Ideea**
 
@@ -4296,7 +4360,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Portretul lui Dorian Gray*, Dorian își proiectează unitatea și tinerețea în imaginea publică, în timp ce portretul ascuns înregistrează fragmentarea morală.
 - În *Frankenstein*, Creatura se vede reflectată în apă și înțelege diferența dintre imaginea dorită, învățată de la familia De Lacey, și corpul respins social.
 
-## 280. Realul, Imaginarul și Simbolicul
+## 284. Realul, Imaginarul și Simbolicul
 
 **Ideea**
 
@@ -4311,7 +4375,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Hamlet*, fantoma intră în rețeaua simbolică a datoriei și succesiunii, dar reapariția ei păstrează un rest imposibil de verificat sau integrat.
 - În *Beloved*, numele, poveștile și ritualul comunității încearcă să simbolizeze trauma, însă prezența corporală a lui Beloved revine ca exces al trecutului.
 
-## 281. Obiectul *a*
+## 285. Obiectul *a*
 
 **Ideea**
 
@@ -4326,14 +4390,14 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Marele Gatsby*, Daisy este tratată de Gatsby ca promisiunea unei plenitudini pierdute; întâlnirea de la conac nu oprește dorința, fiindcă ea urmărește timpul imposibil de recuperat.
 - În *Moby-Dick*, balena albă concentrează pentru Ahab cauza unei căutări care depășește animalul concret; apropierea de obiect intensifică lipsa în loc să o vindece.
 
-## 282. Metafora dorinței
+## 286. Metafora și simptomul
 
 **Ideea**
 
 - Lacan reinterpretează condensarea freudiană ca operație metaforică a inconștientului.
 - Un semnificant îl substituie pe altul și produce un sens nou care nu era prezent ca mesaj conștient.
 - Simptomul și imaginea obsesivă pot condensa mai multe conflicte într-o singură formulă.
-- Metafora nu este ornament exterior, ci mecanism prin care subiectul își spune indirect dorința.
+- Metafora nu este ornament exterior, ci mecanism prin care conflictul inconștient se condensează într-un simptom.
 - Analiza identifică substituția, termenii condensați și ruptura dintre efectul figurii și intenția declarată.
 
 **Două exemple**
@@ -4341,7 +4405,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Hamlet*, putreziciunea devine metaforă pentru stat, familie și corp, condensând într-o imagine repetată conflictul pe care eroul nu îl poate formula direct.
 - În *Metamorfoza* de Kafka, trupul de insectă substituie identitatea socială a lui Gregor și condensează exploatarea, rușinea familială și imposibilitatea de a mai vorbi în nume propriu.
 
-## 283. Metonimia dorinței
+## 287. Metonimia dorinței
 
 **Ideea**
 
@@ -4356,7 +4420,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *În căutarea timpului pierdut*, dorința lui Marcel se deplasează de la prezența Albertinei la scrisori, obiecte și scenarii ale geloziei; fiecare semn al ei menține lipsa după dispariție.
 - În *Marele Gatsby*, Daisy este urmărită prin voce, casa de peste golf, lumina verde și proiectul petrecerilor; seria obiectelor apropiate promite întâlnirea, dar mută mereu satisfacția mai departe.
 
-## 284. Inconștientul structurat asemenea unui limbaj
+## 288. Inconștientul structurat asemenea unui limbaj
 
 **Ideea**
 
@@ -4373,7 +4437,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # G. Naratologia postclasică
 
-## 285. Lumea narativă sau storyworld
+## 289. Lumea narativă sau storyworld
 
 **Ideea**
 
@@ -4388,7 +4452,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Un veac de singurătate*, cititorul învață regulile Macondo-ului, unde insomnia, ascensiunea și repetiția numelor coexistă cu istoria politică.
 - În *Stăpânul inelelor*, hărțile, limbile, itinerarele și legendele permit construirea unei lumi care depășește traseul imediat al lui Frodo.
 
-## 286. Narativitatea și caracterul demn de povestit
+## 290. Narativitatea și caracterul demn de povestit
 
 **Ideea**
 
@@ -4403,7 +4467,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Metamorfoza*, trezirea lui Gregor într-un corp de insectă rupe radical scenariul dimineții de lucru, iar reacția familiei construiește relevanța întregii istorii.
 - În *Doamna Dalloway*, cumpărarea florilor pare rutină, dar intersectarea cu amintirile, orașul și moartea lui Septimus o transformă într-o zi demnă de povestit.
 
-## 287. Experiențialitatea
+## 291. Experiențialitatea
 
 **Ideea**
 
@@ -4418,7 +4482,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Doamna Dalloway*, sunetele Londrei, bătaia ceasului și amintirile care irump redau felul în care Clarissa locuiește simultan prezentul și trecutul.
 - În *Străinul*, căldura, lumina și oboseala corporală din scena plajei structurează experiența lui Meursault înaintea explicațiilor morale ale procesului.
 
-## 288. Narativizarea
+## 292. Narativizarea
 
 **Ideea**
 
@@ -4433,7 +4497,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În prima secțiune din *Zgomotul și furia*, cititorul organizează salturile lui Benjy prin cadrul memoriei declanșate senzorial, reconstruind treptat datele pe care vocea nu le ordonează.
 - În *Valurile*, alternanța solilocviilor și interludiilor marine este narativizată ca experiență colectivă a trecerii vieții, deși nu există un narator și o intrigă tradiționale.
 
-## 289. Lumile posibile
+## 293. Lumile posibile
 
 **Ideea**
 
@@ -4448,22 +4512,22 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Grădina potecilor ce se bifurcă*, fiecare alegere deschide o lume în care o alternativă diferită se realizează, iar incompatibilitățile coexistă în cartea-labirint.
 - În *Omul din castelul înalt* de Philip K. Dick, lumea în care Axa a câștigat războiul conține o carte contrafactuală despre victoria Aliaților, multiplicând nivelurile posibilului.
 
-## 290. Transmedialitatea
+## 294. Transmedialitatea
 
 **Ideea**
 
 - Narațiunea este transmedială deoarece poate fi realizată în limbaj, imagine, sunet, performance sau medii digitale.
 - Fiecare mediu oferă resurse și limite specifice pentru timp, perspectivă și interioritate.
-- Adaptarea nu este simplă copiere, ci transpunere între sisteme semiotice.
+- Transpunerea între medii nu este simplă copiere, deoarece fiecare suport redistribuie informația și participarea receptorului.
 - O lume narativă se poate extinde prin mai multe medii fără a repeta aceeași intrigă.
 - Analiza compară ce este păstrat, eliminat și inventat de noul suport.
 
 **Două exemple**
 
-- În *Austerlitz* de W. G. Sebald, fotografiile, planurile și proza memoriei se completează fără ca imaginea să garanteze adevărul; textul literar distribuie narațiunea între medii.
-- În *Extremely Loud & Incredibly Close* de Jonathan Safran Foer, fotografiile, paginile goale și secvența finală de imagini inversează vizual căderea unui corp, schimbând felul în care trauma este povestită verbal.
+- În *Alice în Țara Minunilor*, schimbările de dimensiune și ceaiul Pălărierului au migrat din proză și ilustrație în teatru, film și joc; fiecare mediu recodează vocea narativă, logica spațiului și participarea publicului.
+- În *Dracula*, jurnalele și telegramele care reconstruiesc boala și moartea lui Lucy sunt condensate în scenă, radio și film prin dialog, montaj și sunet, arătând ce poate sau nu poate transporta fiecare mediu.
 
-## 291. Mintea distribuită și intermentalitatea
+## 295. Mintea distribuită și intermentalitatea
 
 **Ideea**
 
@@ -4478,7 +4542,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Middlemarch* de George Eliot, opinia orașului despre Lydgate și Dorothea este produsă prin conversații, vizite și zvonuri, devenind o inteligență colectivă constrângătoare.
 - În *Lucrurile se destramă*, adunările clanului, proverbele și ritualurile organizează decizia comună, iar convertirea separă treptat indivizii de această minte socială.
 
-## 292. Teoria minții aplicată narațiunii
+## 296. Teoria minții aplicată narațiunii
 
 **Ideea**
 
@@ -4493,7 +4557,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Othello*, Iago îl face pe Othello să creadă că Desdemona îl înșală, manipulând felul în care acesta interpretează gesturile și batista.
 - În *Mândrie și prejudecată*, Elizabeth atribuie mândrie și răutate acțiunilor lui Darcy, iar scrisoarea lui dezvăluie erorile acestei lecturi a minții.
 
-## 293. Vocea și autoritatea narativă feministă
+## 297. Vocea și autoritatea narativă feministă
 
 **Ideea**
 
@@ -4508,7 +4572,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Culoarea purpurie* de Alice Walker, scrisorile Celiei trec de la adresarea către Dumnezeu la schimbul cu Nettie, iar vocea interzisă devine autoritate asupra propriei istorii.
 - În *Povestea slujitoarei*, mărturia orală a lui Offred supraviețuiește pe casete, dar conferința finală o reîncadrează prin autoritatea masculină a arhivei.
 
-## 294. Naratologia retorică
+## 298. Naratologia retorică
 
 **Ideea**
 
@@ -4523,7 +4587,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Rămășițele zilei*, Stevens își adresează retrospectiva unui auditor nenumit pentru a-și apăra viața, dar progresia îi erodează justificarea.
 - În *Inima întunericului*, Marlow povestește pe vapor unor ascultători interni, iar cadrul obligă cititorul să evalueze atât colonialismul, cât și limitele confesiunii sale.
 
-## 295. Progresia narativă
+## 299. Progresia narativă
 
 **Ideea**
 
@@ -4538,7 +4602,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Rămășițele zilei*, detaliile despre lordul Darlington și Miss Kenton se acumulează până când călătoria lui Stevens devine recunoașterea unei vieți ratate, nu doar vizită profesională.
 - În *Oedip rege*, fiecare martor rezolvă o parte din anchetă și agravează poziția anchetatorului; progresia unește cunoașterea cu prăbușirea etică și politică.
 
-## 296. Publicurile narațiunii
+## 300. Publicurile narațiunii
 
 **Ideea**
 
@@ -4551,9 +4615,9 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 **Două exemple**
 
 - În *Gulliver’s Travels*, publicul narativ primește raportul unui călător, dar publicul auctorial recunoaște exagerările și transformă credulitatea lui Gulliver în obiect satiric.
-- În *Inima întunericului*, marinarii de pe Nellie sunt naratarii lui Marlow, în timp ce publicul auctorial trebuie să evalueze limitele limbajului colonial pe care ascultătorii îl acceptă mai ușor.
+- În *Inima întunericului*, cei patru ascultători de pe Nellie sunt naratarii lui Marlow, în timp ce publicul auctorial trebuie să evalueze limitele limbajului colonial pe care publicul intern le acceptă mai ușor.
 
-## 297. Narațiunea nenaturală
+## 301. Narațiunea nenaturală
 
 **Ideea**
 
@@ -4568,7 +4632,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Hoțul de cărți* de Markus Zusak, Moartea narează și urmărește simultan destine umane, ocupând o poziție imposibilă pentru un povestitor realist.
 - În *Iubita locotenentului francez* de John Fowles, naratorul oferă finaluri alternative și apare în compartimentul personajelor, încălcând timpul și ontologia lumii.
 
-## 298. Întruparea și afectul
+## 302. Întruparea și afectul
 
 **Ideea**
 
@@ -4583,7 +4647,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Metamorfoza*, încercarea lui Gregor de a se ridica, de a deschide ușa și de a controla membrele străine obligă cititorul să simuleze un corp imposibil.
 - În *Bătrânul și marea*, firul care taie mâinile lui Santiago și oboseala trasului transmit lupta prin durere și efort corporal repetat.
 
-## 299. Narațiunea ludică
+## 303. Narațiunea ludică
 
 **Ideea**
 
@@ -4598,7 +4662,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În cartea-joc *The Cave of Time* de Edward Packard, alegerile de la capătul secțiunilor produc trasee și finaluri diferite, făcând decizia parte din discurs.
 - În romanul *Șotron*, tabla de direcționare transformă ordinea lecturii într-o regulă de joc, deși cititorul nu poate inventa capitolele disponibile.
 
-## 300. Narațiunea transficțională
+## 304. Narațiunea transficțională
 
 **Ideea**
 
@@ -4613,7 +4677,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Wide Sargasso Sea* de Jean Rhys, Bertha din *Jane Eyre* devine Antoinette și primește o copilărie caraibiană, iar „nebunia” este recontextualizată colonial.
 - În *Foe* de J. M. Coetzee, lumea lui *Robinson Crusoe* este reluată prin Susan Barton și tăcerea lui Friday, contestând autoritatea autorului asupra poveștii.
 
-## 301. Empatia narativă
+## 305. Empatia narativă
 
 **Ideea**
 
@@ -4628,7 +4692,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Beloved*, trecerea între Sethe, Denver și Paul D distribuie trauma sclaviei fără a reduce gestul lui Sethe la o sentință simplă.
 - În *Crimă și pedeapsă*, focalizarea apropiată de febra și frica lui Raskolnikov produce participare afectivă fără a transforma crima într-un act acceptabil.
 
-## 302. Narațiunea traumă
+## 306. Narațiunea traumei
 
 **Ideea**
 
@@ -4645,7 +4709,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # H. José Ortega y Gasset
 
-## 303. Dezumanizarea artei
+## 307. Dezumanizarea artei
 
 **Ideea**
 
@@ -4660,7 +4724,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Șase personaje în căutarea unui autor* de Luigi Pirandello, repetiția scenei familiale este întreruptă de disputa despre reprezentare; suferința devine simultan dramă și problemă a formei teatrale.
 - În *Ulise*, episodul „Circe” transformă dorințele și spaimele lui Bloom într-un scenariu teatral instabil, refuzând reprezentarea psihologică transparentă.
 
-## 304. Perspectivismul
+## 308. Perspectivismul
 
 **Ideea**
 
@@ -4675,7 +4739,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Război și pace*, Borodino este văzut de Pierre, Andrei, Kutuzov și soldați; pluralitatea perspectivelor contestă imaginea strategică totală a bătăliei.
 - În *Absalom, Absalom!*, Rosa, Mr. Compson, Quentin și Shreve reconstruiesc familia Sutpen din poziții diferite, iar adevărul rămâne distribuția tensiunilor dintre mărturii.
 
-## 305. Încetinirea și densitatea romanului
+## 309. Încetinirea și densitatea romanului
 
 **Ideea**
 
@@ -4692,7 +4756,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # I. Citarea și intertextualitatea
 
-## 306. Citatul
+## 310. Citatul
 
 **Ideea**
 
@@ -4707,7 +4771,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Pământul pustiu*, versurile în mai multe limbi și fragmentele din Dante, Shakespeare ori Wagner sunt montate în vocea prezentului ruinat, nu doar reproduse erudit.
 - În *Numele trandafirului*, formulele biblice și patristice sunt citate de călugări pentru a susține poziții opuse despre râs, sărăcie și erezie.
 
-## 307. Colajul de citate
+## 311. Colajul de citate
 
 **Ideea**
 
@@ -4722,7 +4786,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Cantos* de Ezra Pound, documente economice, texte chineze, cronici și fragmente lirice sunt juxtapuse într-o arhivă poetică discontinuă.
 - În *Pământul pustiu*, cântecul de music-hall, Upanișadele și vocile londoneze sunt montate fără o voce unificatoare care să le împace definitiv.
 
-## 308. Aluzia
+## 312. Aluzia
 
 **Ideea**
 
@@ -4734,10 +4798,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Ulise*, rătăcirea lui Leopold Bloom prin Dublin trimite la itinerarul lui Ulise, iar eroismul epic este transpus în gesturile unei zile obișnuite.
-- În *Copiii din miez de noapte*, nașterea lui Saleem la ora independenței trimite la miturile fondatoare, dar corpul lui imperfect ironizează imaginea națiunii unitare.
+- În *Doamna Dalloway* de Virginia Woolf, Clarissa își amintește în repetate rânduri versul „Fear no more the heat o’ the sun” fără a numi *Cymbeline*; ecoul shakespearian leagă discret pregătirea petrecerii de moartea lui Septimus și de propria ei meditație asupra dispariției.
+- Titlul romanului *Zgomotul și furia* de William Faulkner trimite, fără să-și indice sursa, la monologul lui Macbeth despre viața ca poveste spusă de un idiot; recunoașterea aluziei face ca percepția lui Benjy și destrămarea familiei Compson să capete o rezonanță tragică suplimentară.
 
-## 309. Referința intertextuală
+## 313. Referința intertextuală
 
 **Ideea**
 
@@ -4749,10 +4813,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Dacă într-o noapte de iarnă un călător*, menționarea autorilor, editurilor și genurilor plasează aventurile Cititorului într-o lume explicită a producției de literatură.
+- În *Don Quijote*, examinarea bibliotecii numește explicit *Amadís de Gaula* și alte romane cavalerești; referințele precizează biblioteca pe care eroul o transformă în model de viață și permit satirei să evalueze separat cărțile invocate.
 - În *Numele trandafirului*, referințele la Aristotel și la tratatul despre comedie orientează enigma bibliotecii către conflictul dintre râs și autoritatea teologică.
 
-## 310. Epigraful
+## 314. Epigraful
 
 **Ideea**
 
@@ -4767,7 +4831,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Soarele răsare și el* de Ernest Hemingway, epigrafele din Gertrude Stein și Ecleziast pun „generația pierdută” în tensiune cu ciclurile durabile ale lumii.
 - În *Povestea slujitoarei*, epigrafele biblice, swiftiene și proverbiale pregătesc simultan justificarea religioasă a Gileadului și lectura ei satirică.
 
-## 311. Plagiatul ca intertext nemarcat
+## 315. Plagiatul ca intertext nemarcat
 
 **Ideea**
 
@@ -4782,7 +4846,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *The Plot* de Jean Hanff Korelitz, Jacob Finch Bonner transformă intriga relatată de studentul său decedat într-un roman de succes; ascunderea sursei devine motorul amenințării și al anchetei.
 - În *Yellowface* de R. F. Kuang, June ia manuscrisul inedit al Athenei după moartea acesteia, îl rescrie și îl publică sub propriul nume; ștergerea atribuirii produce atât cariera, cât și prăbușirea ei publică.
 
-## 312. Centonul
+## 316. Centonul
 
 **Ideea**
 
@@ -4795,9 +4859,9 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 **Două exemple**
 
 - În *Cento nuptialis* de Ausonius, versuri din Vergiliu sunt reasamblate pentru a descrie o nuntă, iar solemnitatea epică este deplasată spre registrul erotic.
-- În *The Waste Land: A Facsimile and Transcript*, montajul final păstrează fragmente din numeroase tradiții; lectura secvenței finale arată cum citatele produc o rugăciune compozită.
+- În *Cento Vergilianus de laudibus Christi* de Faltonia Betitia Proba, versuri din Vergiliu sunt decupate și recombinate pentru a povesti creația și viața lui Hristos, iar vocabularul epic primește o funcție creștină.
 
-## 313. Dialogismul
+## 317. Dialogismul
 
 **Ideea**
 
@@ -4812,7 +4876,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Frații Karamazov*, legenda Marelui Inchizitor răspunde credinței lui Alioșa, iar sărutul tăcut al acestuia devine la rândul său replică.
 - În *Doamna Bovary*, limbajul romantic al Emmei dialoghează conflictual cu formulele comerciale, medicale și clericale ale provinciei.
 
-## 314. Heteroglosia
+## 318. Heteroglosia
 
 **Ideea**
 
@@ -4827,7 +4891,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Doamna Bovary*, discursul sentimental, jargonul farmacistului, retorica târgului și limbajul clerical se intersectează în aceeași lume provincială.
 - În *Ulise*, presa, catehismul, reclama, balada și monologul interior transformă Dublinul într-o pluralitate de limbaje sociale.
 
-## 315. Polifonia
+## 319. Polifonia
 
 **Ideea**
 
@@ -4842,7 +4906,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Frații Karamazov*, Ivan, Alioșa, Dmitri și Zosima formulează poziții incompatibile despre libertate, suferință și credință, fără o anulare simplă.
 - În *Pe patul de moarte* de Faulkner, membrii familiei Bundren povestesc pe rând călătoria, iar diferențele de limbaj împiedică o versiune unică.
 
-## 316. Cronotopul
+## 320. Cronotopul
 
 **Ideea**
 
@@ -4857,7 +4921,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Odiseea*, marea este cronotopul încercării și al întârzierii, iar Itaca este spațiul recunoașterii; întoarcerea transformă distanța parcursă în identitate.
 - În *Madame Bovary*, provincia, trăsura și drumurile dintre Yonville și Rouen organizează repetarea dorinței și imposibilitatea ieșirii Emmei din timpul social al vieții ei.
 
-## 317. Genurile discursului
+## 321. Genurile discursului
 
 **Ideea**
 
@@ -4872,7 +4936,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Dracula*, jurnalul, telegrama, scrisoarea și raportul medical păstrează reguli distincte; montajul lor construiește cooperarea grupului și limitele fiecărei cunoașteri.
 - În *Doamna Bovary*, discursul oficial al târgului și declarația amoroasă a lui Rodolphe sunt genuri sociale montate alternativ, iar asemănarea formulelor produce ironia seducției.
 
-## 318. Absorbția și transformarea
+## 322. Absorbția și transformarea
 
 **Ideea**
 
@@ -4887,7 +4951,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Wide Sargasso Sea*, personajul marginal din *Jane Eyre* este absorbit și transformat într-o protagonistă cu istorie caraibiană și voce proprie.
 - În *Ulise*, structura *Odiseei* este absorbită în Dublin, unde monstrul, călătoria și întoarcerea devin episoade cotidiene și stilistice.
 
-## 319. Strategia formei intertextuale
+## 323. Strategia formei intertextuale
 
 **Ideea**
 
@@ -4902,7 +4966,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În episodul „Boii soarelui” din *Ulise* de James Joyce, întâlnirea din maternitate este relatată printr-o succesiune de stiluri ale prozei engleze; modelele sunt linearizate și montate ca istorie formală a gestației limbajului.
 - În *Pământul pustiu* de T. S. Eliot, vocile cotidiene, fragmentele liturgice și citatele în mai multe limbi sunt înglobate într-un montaj ale cărui rupturi transformă autoritatea fiecărei surse.
 
-## 320. Hipograma și matricea
+## 324. Hipograma și matricea
 
 **Ideea**
 
@@ -4914,10 +4978,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Corbul* de Poe, pierderea irevocabilă funcționează ca matrice, iar refrenul transformă succesiv fiecare întrebare într-o variație a imposibilității.
-- În sonetul *Correspondances* de Baudelaire, matricea relației dintre simțuri generează pădurea de simboluri, parfumurile, culorile și sunetele care se răspund.
+- În poemul *Ulysses* de Alfred Tennyson, întoarcerea eroului în Itaca din *Odiseea* funcționează ca hipogramă textuală, iar matricea „viața rămasă trebuie transformată într-o nouă călătorie” se dezvoltă în vatra inertă, cârmuirea lăsată lui Telemah, chemarea marinarilor și plecarea finală.
+- În *The Second Coming* de W. B. Yeats, promisiunea revenirii mântuitoare din *Apocalipsa* este hipograma răsturnată; matricea „revelația devine nașterea unei puteri monstruoase” generează spirala, șoimul desprins de șoimar, anarhia și fiara care înaintează spre Betleem.
 
-## 321. Lectura euristică și lectura retroactivă
+## 325. Lectura euristică și lectura retroactivă
 
 **Ideea**
 
@@ -4929,10 +4993,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Oedip rege*, lectura euristică urmărește ancheta unui ucigaș exterior, iar mărturia păstorului impune lectura retroactivă prin care blestemele și întrebările lui Oedip se întorc asupra lui.
-- În *Cotitura de șurub*, prima lectură poate accepta fantomele, dar reacțiile copiilor și izolarea perspectivei guvernantei obligă la recitirea indiciilor ca posibile efecte ale nefiabilității.
+- În *The Second Coming* de W. B. Yeats, lectura euristică urmărește imaginile unei apocalipse, dar nepotrivirea dintre titlul creștin și fiara care înaintează spre Betleem cere lectura retroactivă: spirala, anarhia și nașterea se reorganizează ca variante ale unei veniri mântuitoare răsturnate.
+- În poemul *Ulysses* de Alfred Tennyson, lectura euristică urmărește monologul unui rege bătrân care își pregătește plecarea; recitirea prin *Odiseea* leagă vatra inertă, delegarea către Telemah și chemarea marinarilor de matricea care transformă întoarcerea eroului într-un nou refuz al imobilității.
 
-## 322. Agramaticalitatea poetică
+## 326. Agramaticalitatea poetică
 
 **Ideea**
 
@@ -4947,7 +5011,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Sonetul 73* de Shakespeare, eul este succesiv anotimp, amurg și jar; incompatibilitatea literală cere citirea metaforică a îmbătrânirii și a iubirii intensificate de pierdere.
 - În *Țara pustie*, apariția lui Tiresias într-un apartament londonez rupe coerența realistă și semnalează intertextul mitic prin care scenele moderne sunt suprapuse.
 
-## 323. Paratextul
+## 327. Paratextul
 
 **Ideea**
 
@@ -4962,7 +5026,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Lolita*, prefața fictivă semnată de John Ray prezintă manuscrisul ca document psihiatric și moral, înainte ca vocea seducătoare a lui Humbert să înceapă.
 - În *Povestea slujitoarei*, secțiunea „Note istorice” reîncadrează retrospectiv confesiunea ca obiect academic și expune limitările editorilor.
 
-## 324. Metatextualitatea
+## 328. Metatextualitatea
 
 **Ideea**
 
@@ -4977,7 +5041,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Pierre Menard*, naratorul comentează fragmentele din *Don Quijote* ca și când ar fi o operă nouă, satirizând convențiile criticii.
 - În partea a doua din *Don Quijote*, personajele discută prima parte publicată, evaluând erori, episoade și reputații în interiorul continuării.
 
-## 325. Arhitextualitatea
+## 329. Arhitextualitatea
 
 **Ideea**
 
@@ -4992,7 +5056,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Don Quijote*, modelul romanului cavaleresc este activat pentru a fi contrazis de hanuri, țărani și consecințe materiale.
 - În *Numele trandafirului*, convențiile romanului polițist organizează ancheta, dar finalul cu soluție incompletă și bibliotecă arsă refuză închiderea tipică.
 
-## 326. Hipertextualitatea
+## 330. Hipertextualitatea
 
 **Ideea**
 
@@ -5007,7 +5071,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - *Ulise* transformă *Odiseea* prin transpunerea călătoriei eroice într-o zi urbană, păstrând corespondențe fără a reproduce intriga literal.
 - *Wide Sargasso Sea* transformă *Jane Eyre* prin extinderea trecutului Berthei și schimbarea centrului etic al poveștii.
 
-## 327. Pastișa
+## 331. Pastișa
 
 **Ideea**
 
@@ -5022,22 +5086,22 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Ulise*, capitolul „Boii Soarelui” imită etapele istorice ale prozei engleze, trecând de la stiluri arhaice la limbaj contemporan.
 - În *The Seven-Per-Cent Solution* de Nicholas Meyer, vocea memorialistică a lui Watson, indiciile și demonstrația finală reproduc ca pastișă formula povestirilor cu Sherlock Holmes.
 
-## 328. Travestiul
+## 332. Travestiul
 
 **Ideea**
 
 - Travestiul păstrează în linii mari acțiunea unui model, dar îi schimbă registrul stilistic.
-- Materia înaltă poate fi relatată într-un stil jos sau invers.
+- În sensul strict folosit de Genette, materia înaltă este relatată într-un stil jos; mișcarea inversă aparține eroicului-comic și nu trebuie confundată cu travestiul.
 - Contrastul dintre intrigă și dicțiune produce efect comic ori critic.
 - Procedeul expune convențiile de prestigiu ale limbajului.
 - Analiza compară nivelul subiectului cu nivelul expresiei.
 
 **Două exemple**
 
-- În *Batrahomiomahia*, războiul dintre broaște și șoareci este relatat în stilul solemn al epopeii homerice, coborând materia eroică în miniatură animalieră.
-- În *The Rape of the Lock* de Alexander Pope, disputa pentru o șuviță este tratată cu invocații, arme și mașinării epice, disproporția devenind critică socială.
+- În *Virgile travesti* de Paul Scarron, călătoria și luptele din *Eneida* sunt păstrate recognoscibil, dar zeii și eroii vorbesc într-un registru familiar și burlesc, care coboară demnitatea modelului.
+- În *Scarronides, or Virgil Travestie* de Charles Cotton, naufragiul lui Enea și episodul Didonei din cărțile I și IV ale *Eneidei* sunt repovestite în dicțiune colocvială și comică, păstrând acțiunea și schimbând nivelul stilistic.
 
-## 329. Transpoziția
+## 333. Transpoziția
 
 **Ideea**
 
@@ -5052,7 +5116,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Mourning Becomes Electra* de Eugene O’Neill, mitul Orestiei este mutat într-o familie americană de după Războiul Civil.
 - În *Home Fire* de Kamila Shamsie, conflictul din *Antigona* este transpus în contextul cetățeniei britanice, radicalizării și securității contemporane.
 
-## 330. Rescrierea
+## 334. Rescrierea
 
 **Ideea**
 
@@ -5067,7 +5131,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Wide Sargasso Sea* de Jean Rhys, femeia din pod din *Jane Eyre* primește numele Antoinette, copilărie caraibiană și voce; incendierea conacului devine rezultatul unei istorii coloniale și conjugale.
 - În *Foe* de J. M. Coetzee, naufragiul lui Crusoe este relatat prin Susan Barton, iar tăcerea lui Friday transformă aventura stăpânirii într-o problemă a reprezentării.
 
-## 331. Adaptarea
+## 335. Adaptarea
 
 **Ideea**
 
@@ -5079,10 +5143,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În romanul grafic *City of Glass* adaptat de Paul Auster, Paul Karasik și David Mazzucchelli, identitățile și caietul detectivului devin rețele vizuale, iar confuzia numelor este distribuită în cadre.
+- În romanul grafic *City of Glass*, adaptat de Paul Karasik și David Mazzucchelli după romanul lui Paul Auster, identitățile și caietul detectivului devin rețele vizuale, iar confuzia numelor este distribuită în cadre.
 - În *Rosencrantz și Guildenstern sunt morți* de Tom Stoppard, episoadele laterale din *Hamlet* devin centrul unei piese care adaptează tragedia prin comedie existențială și schimbarea focalizării.
 
-## 332. Continuarea
+## 336. Continuarea
 
 **Ideea**
 
@@ -5097,7 +5161,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Testamentele* de Margaret Atwood, mătușa Lydia și două tinere prelungesc lumea din *Povestea slujitoarei*, iar arhiva regimului este reconfigurată din trei poziții.
 - În *Through the Looking-Glass* de Lewis Carroll, Alice revine într-o lume construită după șah, iar continuarea păstrează logica verbală a *Țării Minunilor* schimbând regula spațială a aventurii.
 
-## 333. Intratextualitatea
+## 337. Intratextualitatea
 
 **Ideea**
 
@@ -5112,7 +5176,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Comedia umană* de Balzac, reapariția lui Rastignac din tânărul de la pensiunea Vauquer în figura puterii pariziene leagă romanele și măsoară transformarea ambiției.
 - În *Absalom, Absalom!* de Faulkner, familiile Sutpen și Compson reapar din perspective care revizuiesc informații din celelalte romane Yoknapatawpha, iar trecutul local este corectat intratextual.
 
-## 334. Autocitarea
+## 338. Autocitarea
 
 **Ideea**
 
@@ -5124,10 +5188,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Finnegans Wake*, Joyce reia și deformează nume, ritmuri și motive din *Ulise*; autocitarea mută orașul diurn într-un limbaj oniric și circular.
-- În *Sonetele către Orfeu* de Rainer Maria Rilke, imaginile morții și ale transformării reiau tensiuni din *Elegiile duineze*, dar le mută spre celebrarea metamorfozei prin cântec.
+- În *Finnegans Wake*, Joyce își indică ironic romanul *Ulise* prin formula deformată „usylessly unreadable Blue Book of Eccles”; autocitarea comprimă titlul, strada lui Leopold Bloom și reputația cărții într-un autoportret comic al autorului ca Shem.
+- În *Purgatoriul* din *Divina Comedie*, Casella cântă „Amor che ne la mente mi ragiona”, poemul liric al lui Dante comentat anterior în *Convivio*; reluarea exactă mută vechiul text filosofic într-o scenă în care fascinația artei trebuie întreruptă de Caton pentru ca drumul purificării să continue.
 
-## 335. Intermedialitatea
+## 339. Intermedialitatea
 
 **Ideea**
 
@@ -5142,7 +5206,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Portretul lui Dorian Gray*, tabloul lui Basil este inclus ca obiect vizual care înregistrează în locul narațiunii schimbarea morală și corporală a lui Dorian.
 - În *Un coup de dés* de Mallarmé, mărimea caracterelor și dispunerea în spațiul paginii apropie poemul de imagine și partitură, făcând lectura simultan verbală și vizuală.
 
-## 336. *Clinamen*
+## 340. *Clinamen*
 
 **Ideea**
 
@@ -5154,10 +5218,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Paradise Lost*, Milton preia invocația și războiul epopeii clasice, dar deplasează eroismul către ascultare și cădere, prezentând modelul antic ca insuficient pentru adevărul creștin.
-- În *Pământul pustiu*, căutarea Graalului este reluată fără restaurarea fertilității; abaterea corectează promisiunea mitică prin experiența fragmentară a modernității.
+- În *Frost at Midnight*, Coleridge se abate de la sublimul lui Milton, mai ales de la iubirea lui Adam pentru Eva din *Paradise Lost*: binecuvântarea adresată copilului domesticește măreția și spaima modelului, ca și cum precursorul ar fi trebuit să iubească mai tandru și mai simplu.
+- În *Ode: Intimations of Immortality*, Wordsworth reia limbajul pierderii și al puterii poetice din *Lycidas*, dar mută criza din elegia publică în dispariția viziunii copilăriei; consolarea matură se oferă drept corectare a soluției miltoniene.
 
-## 337. *Tessera*
+## 341. *Tessera*
 
 **Ideea**
 
@@ -5169,10 +5233,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Paradise Lost*, Milton completează antitetic epopeea lui Homer și Vergiliu printr-un război ale cărui consecințe sunt spirituale, nu doar politice sau militare.
-- În *Mourning Becomes Electra* de Eugene O’Neill, trilogia păstrează structura *Orestiei*, dar mută fatalitatea în psihologia și istoria familiei americane, revendicând o împlinire modernă a conflictului.
+- În *The Owl in the Sarcophagus*, Wallace Stevens păstrează somnul și maternitatea funebră din *The Sleepers* de Whitman, dar transformă neliniștea precursorului într-o figură a păcii și a acceptării morții; Bloom prezintă poemul drept completare antitetică a universului whitmanian.
+- În versiunea târzie din *The Eolian Harp*, Coleridge păstrează aspirația miltoniană către unitate, dar o completează prin pasajul panteist în care natura și sufletul participă la aceeași „harpă” vie; tocmai această inversare a ortodoxiei lui Milton este numită de Bloom o *tessera* doar pentru scurt timp susținută.
 
-## 338. *Kenosis*
+## 342. *Kenosis*
 
 **Ideea**
 
@@ -5184,10 +5248,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *În așteptarea lui Godot*, Beckett golește scena, acțiunea și retorica dramei occidentale; reducerea transformă așteptarea fără faptă într-un nou principiu teatral.
-- În *Bătrânul și marea*, Hemingway reduce amploarea epopeii la un pescar, o barcă și o luptă repetitivă, obținând forță prin renunțarea la ornamentul eroic.
+- În lectura propusă chiar de Bloom, *Odă vântului de apus* a lui Shelley repetă relația wordsworthiană dintre poet și natură, dar o golește de continuitatea ei sigură: eul căzut renunță la autonomie și îi cere vântului să-i devină suflu și liră, astfel încât precursorul este slăbit odată cu urmașul.
+- În *As I Ebb'd with the Ocean of Life*, Whitman coboară eul expansiv moștenit de la Emerson la condiția unor resturi spălate de mare; retragerea oceanului repetă promisiunea comuniunii cu natura numai pentru a o desface într-o scenă de discontinuitate și umilire poetică.
 
-## 339. *Daemonization*
+## 343. *Daemonization*
 
 **Ideea**
 
@@ -5199,10 +5263,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Cântecele inocenței și experienței*, William Blake opune viziunii raționalizate o energie profetică proprie, iar scenele mielului și tigrului revendică o sursă contradictorie a creației.
-- În *Așa grăit-a Zarathustra* de Nietzsche, vocea profetică împrumută forma scripturală, dar invocă reîntoarcerea și depășirea omului ca puteri menite să răstoarne autoritatea tradiției biblice.
+- În *Alastor sau Spiritul singurătății*, Shelley reia peisajul spiritualizat al lui Wordsworth, dar îl supune unei mișcări de zbor și „cădere în sus”; în termenii lui Bloom, căutarea unei totalități angelice transformă sublimul precursorului într-un contra-sublim mai vast și îl reduce pe Wordsworth la o manifestare limitată a aceleiași puteri.
+- În *Kubla Khan*, Coleridge transformă paradisul și geniul poetic miltonian într-o putere daimonică proprie: domul plăcerii, abisul și figura poetului temut alcătuiesc contra-sublimul prin care, în lectura explicită a lui Bloom, urmașul deplasează sublimul din *Paradise Lost* spre o sursă mai originară decât precursorul.
 
-## 340. *Askesis*
+## 344. *Askesis*
 
 **Ideea**
 
@@ -5214,10 +5278,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Pentru că nu m-am putut opri pentru Moarte* de Emily Dickinson, scena și argumentul public sunt restrânse la strofe scurte, liniuțe și o voce retrasă, limitând deliberat retorica tradiției solemne.
-- În *Străinul* de Camus, vocabularul și explicația psihologică sunt reduse până la propoziții factuale, iar austeritatea limitează atât confesionalul, cât și romanul moralizator.
+- În *Home at Grasmere*, mai ales în pasajul devenit „Prospectus” la *The Excursion*, Wordsworth renunță la „trâmbița eroică” și își retrage poezia spre blândețe și interioritate; Bloom citește această autolimitare ca reducere simultană a amplorii lui Milton și a posibilităților propriului poem.
+- În *Childe Roland to the Dark Tower Came*, Browning restrânge profeția orfică moștenită de la Shelley la monologul unui căutător singuratic, închis într-un peisaj grotesc și într-o victorie echivocă; turnul recunoscut abia la final marchează costul purgării care separă urmașul de precursor.
 
-## 341. *Apophrades*
+## 345. *Apophrades*
 
 **Ideea**
 
@@ -5229,10 +5293,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- După *Ulise*, episoadele cotidiene ale *Odiseei* pot fi recitite prin paralelul unei singure zile dubliene, iar gesturile lui Ulise capătă o neașteptată intimitate modernă.
-- După *Wide Sargasso Sea*, reapariția Berthei în *Jane Eyre* este greu de separat de istoria Antoinettei; rescrierea face precursorul să pară locuit de vocea ulterioară.
+- În *The Triumph of Life*, mai ales în revenirea imaginilor luminii pierdute și în întrebarea finală a lui Rousseau, Shelley se redeschide către *Ode: Intimations of Immortality*; vocea lui Wordsworth revine însă în culorile sumbre ale urmașului, astfel încât oda poate fi recitită retrospectiv ca anticipare a crizei shelleyene.
+- În secvența târzie *The Rock*, mai ales în poemul titular și în „The Plain Sense of Things”, Wallace Stevens redeschide vocea către natura și eul poetic al lui Whitman; pustiirea și abstracția sunt atât de puternic stevensiene încât imaginile frunzei și ale lumii din *Song of Myself* pot fi recitite ca prefigurări ale urmașului.
 
-## 342. Șarja
+## 346. Șarja
 
 **Ideea**
 
@@ -5244,10 +5308,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Batrahomiomahia*, stilul solemn al epopeii homerice este imitat pentru războiul dintre broaște și șoareci, iar disproporția produce șarja eroicului.
-- În *The Rape of the Lock* de Alexander Pope, invocațiile, luptele și coborârile epopeii sunt imitate pentru furtul unei bucle, expunând prin exagerare codul societății mondene.
+- În *A Christmas Garland* de Max Beerbohm, schița „The Mote in the Middle Distance” amplifică frazele amânate, calificările și perspectiva lui Henry James până când ticurile stilului devin obiectul satirei.
+- În *The Rehearsal* de George Villiers, repetițiile piesei lui Bayes exagerează cupletele bombastice, intrările arbitrare și efectele eroice, transformând stilul teatrului Restaurației în propria lui caricatură.
 
-## 343. Imitația serioasă
+## 347. Imitația serioasă
 
 **Ideea**
 
@@ -5259,10 +5323,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Mourning Becomes Electra*, O’Neill imită serios arhitectura trilogiei lui Eschil pentru a reprezenta vinovăția, războiul și familia în Noua Anglie.
-- În *Home Fire* de Kamila Shamsie, conflictul din *Antigona* este reluat fără parodie pentru a examina cetățenia, radicalizarea și doliul într-un stat contemporan.
+- În *Posthomerica* de Quintus din Smirna, moartea lui Ahile, disputa armelor, calul troian și căderea cetății umplu intervalul dintre *Iliada* și *Odiseea* printr-o dicțiune și o compoziție epică menite să continue fără parodie lumea lui Homer.
+- În *Aventurile lui Telemah* de Fénelon, călătoria fiului lui Ulise este continuată în compania lui Mentor prin insule, războaie și cetăți organizate după matricea epopeii homerice; imitația serioasă transformă aventura într-o educație despre guvernare, fără a caricaturiza modelul.
 
-## 344. Ironia intertextuală
+## 348. Ironia intertextuală
 
 **Ideea**
 
@@ -5277,7 +5341,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Numele trandafirului*, numele William din Baskerville activează ironic tradiția lui Sherlock Holmes, dar anchetatorul medieval nu poate controla hazardul ca detectivul clasic.
 - În *Ulise*, episodul ciclopului este transformat într-o confruntare de tavernă; cititorul informat vede simultan grandilocvența epică și naționalismul ridicol.
 
-## 345. Iterabilitatea citatului
+## 349. Iterabilitatea citatului
 
 **Ideea**
 
@@ -5294,7 +5358,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # J. Critica Teoriei și postcritica
 
-## 346. Metoda dialectică a lui Compagnon
+## 350. Metoda dialectică a lui Compagnon
 
 **Ideea**
 
@@ -5309,7 +5373,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Metamorfoza* de Kafka, reducerea trezirii lui Gregor la biografia autorului ar elimina organizarea familială și economică a scenei, dar documentele biografice pot rămâne dovezi contextuale fără a deveni verdict.
 - În *Mândrie și prejudecată*, reacțiile cititorilor diferă istoric, însă scrisoarea lui Darcy și distribuția focalizării constrâng corectarea judecății despre Wickham; activitatea receptorului nu anulează forma textuală.
 
-## 347. Descrierea înaintea interpretării
+## 351. Descrierea înaintea interpretării
 
 **Ideea**
 
@@ -5324,7 +5388,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În scena târgului din *Doamna Bovary*, descrierea alternanței replicilor, a aplauzelor și a termenilor agricoli precedă concluzia despre ironia socială.
 - În „Timpul trece” din *Spre far*, inventarierea parantezelor, a obiectelor și a anotimpurilor arată forma pierderii înaintea unei lecturi psihanalitice sau istorice.
 
-## 348. „Erotica artei” și atenția senzorială
+## 352. „Erotica artei” și atenția senzorială
 
 **Ideea**
 
@@ -5339,7 +5403,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Bătrânul și marea*, tensiunea firului, rănile palmelor și alternanța dintre efort și liniște trebuie descrise înainte ca lupta să fie redusă la alegorie morală.
 - În *Spre far*, lumina, ferestrele și ritmul valurilor organizează secțiunea „Timpul trece”; experiența formală nu este epuizată de simbolul trecerii.
 
-## 349. Rezistența internă la teorie
+## 353. Rezistența internă la teorie
 
 **Ideea**
 
@@ -5354,7 +5418,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Despre educația estetică a omului* de Schiller, metaforele jocului și armoniei promit reconciliere, dar separarea facultăților pe care o presupun menține tensiunea pe care teoria vrea să o rezolve.
 - În *Confesiunile* lui Rousseau, promisiunea transparenței de sine depinde de scene construite retrospectiv și de figuri ale memoriei, iar forma mărturisirii rezistă idealului prezenței totale.
 
-## 350. Hermeneutica suspiciunii
+## 354. Hermeneutica suspiciunii
 
 **Ideea**
 
@@ -5369,7 +5433,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Jane Eyre*, idealul casei engleze este citit prin camera încuiată și averea colonială a lui Rochester; suspiciunea dezvăluie condițiile reprimate ale romantismului domestic.
 - În *Marele Gatsby*, petrecerile și automobilul promit libertate, dar proveniența averii și moartea lui Myrtle arată interesele de clasă și violența ascunse de mitul succesului.
 
-## 351. Reancorarea teoriei în realitatea materială
+## 355. Reancorarea teoriei în realitatea materială
 
 **Ideea**
 
@@ -5384,7 +5448,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Timpuri grele* de Charles Dickens, opoziția dintre limbajul „faptelor” al lui Gradgrind și circul lui Sleary trebuie legată de accidentele fabricii și de precaritatea lui Stephen Blackpool, nu tratată numai ca joc între două coduri.
 - În *Germinal* de Émile Zola, vocile colective și imaginile subteranului dobândesc miză prin salarii, foame și reprimarea grevei; analiza formală rămâne legată de conflictul material pe care romanul îl organizează.
 
-## 352. Instrumentele în slujba experienței literare
+## 356. Instrumentele în slujba experienței literare
 
 **Ideea**
 
@@ -5399,7 +5463,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Moartea lui Ivan Ilici* de Lev Tolstoi, focalizarea asupra bolnavului și repetarea formulelor sociale explică formal izolarea lui, dar lectura urmărește în final confruntarea cu autoamăgirea și apariția compasiunii.
 - În *Beloved* de Toni Morrison, cronologia fragmentată și schimbarea vocilor fac accesibilă discontinuitatea traumei lui Sethe; identificarea tehnicii servește întâlnirii cu o memorie pe care relatarea liniară n-ar putea-o reda.
 
-## 353. Lectura paranoidă
+## 357. Lectura paranoidă
 
 **Ideea**
 
@@ -5414,7 +5478,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Povestea slujitoarei*, o lectură paranoidă urmărește cum formulele biblice, costumele și ceremoniile naturalizează controlul corpurilor feminine.
 - În *Marele Gatsby*, ea citește petrecerile, mașinile și casele ca suprafețe care maschează exploatarea și ierarhia de clasă.
 
-## 354. Lectura reparatoare
+## 358. Lectura reparatoare
 
 **Ideea**
 
@@ -5429,7 +5493,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Culoarea purpurie*, scrisorile, relația cu Shug și recuperarea muncii de croitorie devin resurse prin care Celie își reconstruiește vocea.
 - În *Beloved*, adunarea femeilor din comunitate și cântecul colectiv oferă o formă imperfectă de reparare a izolării lui Sethe.
 
-## 355. Lectura de suprafață
+## 359. Lectura de suprafață
 
 **Ideea**
 
@@ -5444,7 +5508,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Un coup de dés*, dimensiunea literelor și spațiile paginii sunt citite ca organizare materială, nu ca simplu înveliș al unei semnificații ascunse.
 - În *Casa frunzelor*, notele, culorile și orientarea tipografică pot fi cartografiate înainte de a fi reduse la simboluri ale inconștientului.
 
-## 356. Producerea prezenței
+## 360. Producerea prezenței
 
 **Ideea**
 
@@ -5459,7 +5523,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Iliada*, descrierea scutului lui Ahile face vizibile orașe, recolte și dansuri înainte ca ele să fie integrate într-o teză despre război.
 - În *În căutarea timpului pierdut*, gustul madlenei produce o prezență corporală a trecutului înainte ca memoria să-i reconstruiască locurile și oamenii.
 
-## 357. De la „fapte” la „preocupări”
+## 361. De la „fapte” la „preocupări”
 
 **Ideea**
 
@@ -5474,7 +5538,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Moby-Dick*, balena adună marinari, științe, mituri, economie și obsesia lui Ahab, fiind mai mult decât un simbol de demascat.
 - În *Ciuma*, boala reunește medici, administrație, familii, statistici și alegeri morale, transformând orașul într-o rețea de preocupări comune.
 
-## 358. Recunoașterea
+## 362. Recunoașterea
 
 **Ideea**
 
@@ -5489,7 +5553,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Jane Eyre*, refuzul lui Jane de a deveni amanta lui Rochester articulează dorința de autonomie fără a separa iubirea de respectul de sine, oferind un posibil vocabular al recunoașterii.
 - În *Omul invizibil* de Ralph Ellison, discursul prologului despre invizibilitatea socială transformă experiența de a nu fi văzut ca persoană într-o formă pe care cititorul o poate recunoaște și interoga.
 
-## 359. Încântarea
+## 363. Încântarea
 
 **Ideea**
 
@@ -5504,7 +5568,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *O mie și una de nopți*, Șeherezada întrerupe povestea în zori și deschide alte istorii în interiorul ei; suspansul îl captivează pe Șahriar și amână repetat execuția.
 - În *Alice în Țara Minunilor*, schimbările de scară, jocurile de cuvinte și regulile mereu reinventate ale întâlnirilor produc o încântare ludică ce persistă chiar când lumea o amenință pe Alice.
 
-## 360. Cunoașterea
+## 364. Cunoașterea
 
 **Ideea**
 
@@ -5519,7 +5583,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Germinal* de Émile Zola, coborârea lui Étienne în mină, plata salariilor și greva fac perceptibile relațiile dintre tehnică, muncă, foame și solidaritate prin experiența succesivă a personajelor.
 - În *O lume se destramă* de Chinua Achebe, săptămâna păcii, judecata clanului și venirea misionarilor oferă cunoaștere despre instituțiile igbo și despre deformarea lor în privirea colonială.
 
-## 361. Șocul
+## 365. Șocul
 
 **Ideea**
 
@@ -5534,7 +5598,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Metamorfoza* de Kafka, propoziția inaugurală prezintă transformarea lui Gregor ca situație deja împlinită; șocul imposibilului obligă lectura să observe normalitatea economică a reacției familiei.
 - În *Beloved* de Toni Morrison, dezvăluirea uciderii copilului în șopron reconfigurează episoadele anterioare ale casei bântuite și împiedică o judecată simplă asupra alegerii lui Sethe sub sclavie.
 
-## 362. Atașamentul
+## 366. Atașamentul
 
 **Ideea**
 
@@ -5551,7 +5615,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # K. Constructivismul rus
 
-## 363. Productivismul
+## 367. Productivismul
 
 **Ideea**
 
@@ -5563,10 +5627,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Reportaj cu ștreangul de gât* de Julius Fučík, notele scrise clandestin sunt transmise material din închisoare și organizate ca mărturie colectivă; circuitul producerii devine parte a funcției textului.
-- În *Omagiu Cataloniei* de George Orwell, experiența directă din miliție este transformată în document polemic, iar relatarea intervine în disputa publică despre războiul civil.
+- În volumul *Pentru voce*, poemele lui Maiakovski sunt reproiectate împreună cu El Lissitzky ca obiect reproductibil de uz: filele-index aleg rapid textul, iar tipografia îi coordonează rostirea publică, unind poetul, proiectantul și tiparul într-un singur proces de producție.
+- În *Dén-Shi-Khua: A Bio-Interview* de Serghei Tretiakov, biografia studentului chinez este construită din interviuri și documente colectate colaborativ; scriitorul renunță la ficțiunea autonomă pentru un dispozitiv informațional destinat circulației și intervenției sociale.
 
-## 364. Tectonica
+## 368. Tectonica
 
 **Ideea**
 
@@ -5581,7 +5645,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În poemul *150.000.000* de Maiakovski, vocea colectivă, scara hiperbolică și conflictul mondial construiesc tectonic ideea revoluției de masă.
 - În *Mama* de Maxim Gorki, trecerea Pelagheei de la spațiul domestic la procesiunea publică organizează arhitectura romanului după formarea conștiinței colective.
 
-## 365. Faktura
+## 369. Faktura
 
 **Ideea**
 
@@ -5596,7 +5660,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Pentru voce* de Maiakovski și El Lissitzky, filele-index, literele mari și raportul roșu-negru expun cartea ca instrument material de lectură și rostire.
 - În *Zang Tumb Tuuum* de F. T. Marinetti, dimensiunile literelor și onomatopeele fac vizibilă compunerea tipografică a zgomotului de război.
 
-## 366. Construcția
+## 370. Construcția
 
 **Ideea**
 
@@ -5611,7 +5675,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Zece zile care au zguduit lumea* de John Reed, proclamațiile, scenele de stradă și observația martorului sunt construite ca piese ale unei cronici revoluționare operative.
 - În *Berlin Alexanderplatz* de Alfred Döblin, anunțurile, știrile și cântecele sunt montate funcțional pentru a construi mediul urban care îl acționează pe Franz Biberkopf.
 
-## 367. Fotomontajul
+## 371. Fotomontajul
 
 **Ideea**
 
@@ -5623,10 +5687,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În poemul ilustrat *Despre asta* de Maiakovski, montajele Rodcenkăi combină chipul poetului cu corpuri și obiecte decupate, materializând conflictul dintre iubire și viața modernă.
-- În *Austerlitz* de W. G. Sebald, fotografiile inserate întrerup proza și funcționează ca fragmente arhivistice a căror dovadă rămâne incertă.
+- În poemul ilustrat *Despre asta* de Maiakovski, montajele lui Aleksandr Rodcenko combină chipul poetului cu corpuri și obiecte decupate, materializând conflictul dintre iubire și viața modernă.
+- În *Kriegsfibel* (*Abecedar de război*) de Bertolt Brecht, fotografiile decupate din presa de război sunt remontate cu epigrame; coliziunea dintre imaginea publică și versul critic îi schimbă sensul documentar.
 
-## 368. Tipografia funcțională
+## 372. Tipografia funcțională
 
 **Ideea**
 
@@ -5641,7 +5705,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Zang Tumb Tuuum* de F. T. Marinetti, mărimea literelor și dispersia onomatopeelor transformă pagina într-o hartă acustică a bombardamentului, obligând ochiul să schimbe ritmul.
 - În *Casa frunzelor*, rândurile răsturnate, ferestrele tipografice și paginile aproape goale conduc fizic cititorul prin labirint și fac suportul parte din intrigă.
 
-## 369. Comanda socială
+## 373. Comanda socială
 
 **Ideea**
 
@@ -5654,9 +5718,9 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 **Două exemple**
 
 - În poemul *La stânga marș!* de Maiakovski, ritmul imperativ și adresarea colectivă răspund direct mobilizării revoluționare.
-- În *Ciuma*, cronicile lui Rieux răspund nevoii de mărturie comună după epidemie, deși romanul păstrează complexitatea morală dincolo de mesajul mobilizator.
+- În *Misterul-buf* de Maiakovski, scris pentru prima aniversare a Revoluției din Octombrie, „Necurații” traversează arca, infernul și paradisul spre pământul făgăduinței; forma de spectacol de masă răspunde unei ocazii și unui public colectiv precis, făcând vizibilă tensiunea dintre comandă publică și invenție avangardistă.
 
-## 370. Poezia ca muncă verbală
+## 374. Poezia ca muncă verbală
 
 **Ideea**
 
@@ -5671,7 +5735,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *La stânga marș!* de Maiakovski, comanda publică devine material verbal prin imperative, reluări și ritm de defilare; poemul poate fi citit ca produs proiectat pentru rostire colectivă.
 - În *Pământul pustiu* de T. S. Eliot, trecerile dintre voci, citatele și revizuirile vizibile în manuscris arată o muncă de selecție și montaj prin care materialul cultural eterogen este organizat pentru un efect de fragmentare modernă.
 
-## 371. Scriitorul-operativ
+## 375. Scriitorul-operativ
 
 **Ideea**
 
@@ -5686,7 +5750,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Dén-Shi-Khua: A Bio-Interview* de Serghei Tretiakov, interviurile și documentele despre studentul chinez înlocuiesc observația distantă cu producerea colaborativă a unei biografii sociale.
 - În *Omagiu Cataloniei* de George Orwell, naratorul este combatant și martor, iar descrierea frontului și a represiunii răspunde unei dispute politice imediate.
 
-## 372. Reportajul operativ
+## 376. Reportajul operativ
 
 **Ideea**
 
@@ -5701,7 +5765,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Drumul spre Wigan Pier* de George Orwell, vizitele în locuințe și coborârea în mină produc observații corporale, iar raportul este folosit pentru a polemiza cu publicul socialist confortabil.
 - În *Oamenii abisului* de Jack London, autorul locuiește în East End, își schimbă hainele și consemnează condițiile întâlnite; participarea corporală devine metodă a reportajului social.
 
-## 373. Biografia obiectului
+## 377. Biografia obiectului
 
 **Ideea**
 
@@ -5716,7 +5780,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Paltonul* de Gogol, fabricarea, purtarea și furtul hainei organizează destinul lui Akaki și ierarhia birocratică din Petersburg.
 - În *Perla* de John Steinbeck, descoperirea, evaluarea și încercarea de vânzare a perlei conectează familia lui Kino la medic, negustori și violența colonială.
 
-## 374. Factografia
+## 378. Factografia
 
 **Ideea**
 
@@ -5731,7 +5795,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Armata de cavalerie* de Isaac Babel, datele campaniei, localitățile și observațiile de front sunt condensate în schițe care păstrează tensiunea dintre document și stil.
 - În *Cu sânge rece* de Truman Capote, ancheta, interviurile și cronologia crimei sunt organizate într-o „narațiune nonficțională” cu tehnici de roman.
 
-## 375. Documentul montat
+## 379. Documentul montat
 
 **Ideea**
 
@@ -5746,37 +5810,37 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Dracula*, scrisorile, jurnalele, telegramele și înregistrările sunt copiate și ordonate de personaje; montajul construiește cunoașterea colectivă necesară urmăririi contelui.
 - În *Povestea slujitoarei*, casetele lui Offred sunt reordonate de editorii viitorului, iar „Notele istorice” arată că documentul depinde de aparatul care îl conservă și interpretează.
 
-## 376. Cine-ochiul
+## 380. Cine-ochiul
 
 **Ideea**
 
 - Cine-ochiul afirmă capacitatea aparatului de a vedea relații inaccesibile ochiului obișnuit.
 - Filmarea și montajul construiesc un adevăr al proceselor, nu o simplă înregistrare neutră.
 - Unghiul, încetinirea și apropierea desfac gesturile automatizate.
-- În proză, analogul apare prin secvențe vizuale scurte și schimbări rapide de cadru.
+- Fiind un procedeu cinematografic al lui Vertov, el trebuie demonstrat mai întâi în succesiuni filmate efectiv, nu dedus doar prin analogie din proza cu secvențe vizuale scurte.
 - Analiza urmărește dispozitivul perceptiv și ordinea montajului.
 
 **Două exemple**
 
-- În *Berlin Alexanderplatz*, fragmentele de trafic, reclame și mulțime sunt montate ca priviri mecanice asupra orașului care îl depășește pe protagonist.
-- În *Manhattan Transfer* de John Dos Passos, cadrele scurte ale străzilor, reclamelor și personajelor produc o vedere urbană discontinuă, apropiată de montajul cinematografic.
+- În filmul *Kino-Eye* de Dziga Vertov, carnea și pâinea sunt urmărite în sens invers, de la consum și distribuție spre abator, brutărie și materia primă; inversarea montată face aparatul să reconstruiască un lanț de producție pe care privirea cotidiană îl percepe numai fragmentar.
+- În filmul *Omul cu aparatul de filmat*, apropierea ochiului suprapus peste obiectiv, cadrele operatorului în oraș și imaginile montării realizate de Elizaveta Svilova expun succesiv văzul, filmarea și editarea; aparatul descoperă relații urbane și își arată simultan propriul mecanism.
 
-## 377. Montajul atracțiilor
+## 381. Montajul atracțiilor
 
 **Ideea**
 
 - Montajul atracțiilor organizează stimuli calculați pentru a produce un efect precis asupra publicului.
 - Unitatea de bază nu este continuitatea realistă, ci șocul activ.
 - Juxtapunerea poate transforma sensul fiecărui fragment.
-- Procedeul provine din teatru și film, dar poate descrie coliziunile prozei.
+- Procedeul provine din teatrul și cinematograful lui Eisenstein; aplicarea lui la proză este un transfer și trebuie deosebită de instanțele istorice ale tehnicii.
 - Analiza identifică succesiunea stimulilor și reacția intelectual-afectivă urmărită.
 
 **Două exemple**
 
-- În *Mama* de Bertolt Brecht, cântecele și pancartele întrerup acțiunea pentru a transforma emoția într-o problemă politică și discutabilă.
-- În *Abatorul cinci*, Dresda, planeta Tralfamadore și formula repetată despre moarte sunt juxtapuse ca șocuri care blochează reconcilierea sentimentală.
+- În montarea lui Eisenstein din 1923 a comediei lui Ostrovski *La tot înțeleptul destulă prostie*, intrarea pe sârmă a Arlechinului, numerele de circ și proiecția filmului *Jurnalul lui Glumov* întrerup continuitatea dramatică prin atracții autonome, calculate să șocheze și să reorienteze publicul.
+- În filmul *Crucișătorul Potemkin*, secvența treptelor din Odesa ciocnește bocancii soldaților, corpurile fugarilor, căruciorul copilului și leii de piatră; montajul nu reproduce continuu masacrul, ci construiește prin stimuli succesivi indignarea și ideea revoltei.
 
-## 378. Biomecanica
+## 382. Biomecanica
 
 **Ideea**
 
@@ -5788,10 +5852,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Revizorul* de Gogol, intrările, înclinările și agitația funcționarilor pot fi montate biomecanic, făcând panica administrativă vizibilă înaintea explicației psihologice.
-- În *Ubu rege* de Alfred Jarry, mersul, loviturile și gesturile exagerate ale lui Ubu transformă corpul actorului într-o mașină grotescă a puterii.
+- În montarea lui Meyerhold din 1922 a piesei *Mărinimosul încornorat* de Fernand Crommelynck, scenele geloziei lui Bruno sunt executate prin deplasări ritmice și acrobatice pe platformele, scările și roțile construcției Liubovei Popova; emoția este produsă prin scorul exterior al corpului, nu prin joc psihologic naturalist.
+- În montarea lui Meyerhold din 1922 a piesei *Moartea lui Tarelkin* de Aleksandr Suhovo-Kobîlin, urmărirea lui Tarelkin de către polițiști adaptează exercițiul biomecanic „Vânătoarea”, iar mobilierul-capcană al Varvarei Stepanova obligă actorii la reacții fizice precise și ritmate.
 
-## 379. Limbajul concentrat și imperativ
+## 383. Limbajul concentrat și imperativ
 
 **Ideea**
 
@@ -5803,10 +5867,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În poemul *Marș de stânga* de Maiakovski, imperativele și întrebările ritmice transformă versul într-o comandă colectivă destinată rostirii publice.
+- În poemul *La stânga marș!* de Maiakovski, imperativele și întrebările ritmice transformă versul într-o comandă colectivă destinată rostirii publice.
 - În *1984*, formulele Partidului sunt scurte, paralele și contradictorii; eficiența lor imperativă suspendă analiza și organizează comportamentul mulțimii.
 
-## 380. Serialitatea și reproducerea
+## 384. Serialitatea și reproducerea
 
 **Ideea**
 
@@ -5818,10 +5882,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Poezii de buzunar* și textele pentru afiș ale lui Maiakovski, formula versificată este concepută pentru reproducere, rostire și circulație, nu pentru un manuscris unic contemplat.
-- În *Jurnalul Annei Frank*, existența caietelor și a edițiilor succesive arată cum reproducerea lărgește comunitatea mărturiei, dar fiecare montaj editorial schimbă accesul la voce.
+- În volumul *Pentru voce* de Maiakovski și El Lissitzky, filele-index și compoziția tipografică proiectează poemele pentru ediție reproductibilă, acces rapid și rostire publică, nu pentru contemplarea unui manuscris unic.
+- În *Kriegsfibel* (*Abecedar de război*) de Bertolt Brecht, fotografiile de presă reproduse în serie sunt remontate alături de epigrame, iar circulația tehnică a imaginilor devine material pentru o lectură critică.
 
-## 381. Activarea receptorului
+## 385. Activarea receptorului
 
 **Ideea**
 
@@ -5833,10 +5897,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Dacă într-o noapte de iarnă un călător*, cititorul este adresat ca personaj și trebuie să lege zece începuturi; activarea devine tema și mecanismul cărții.
-- În *Șotron* de Julio Cortázar, tabla de direcționare cere alegerea unui traseu între capitole, iar ordinea lecturii devine o operație vizibilă a receptorului.
+- În *Pentru voce* de Maiakovski și El Lissitzky, indexul decupat permite cititorului-recitant să aleagă rapid poemul, iar variația tipografică îi indică ritmul și intensitatea; cartea construiește astfel un utilizator care manipulează și performează obiectul.
+- În prefața versiunii din 1921 a piesei *Misterul-buf*, Maiakovski îi autorizează pe viitorii interpreți să actualizeze textul și să-l facă imediat și contemporan; receptorul teatral este transformat din spectator pasiv în executant și co-producător al spectacolului.
 
-## 382. Expunerea procesului de producție
+## 386. Expunerea procesului de producție
 
 **Ideea**
 
@@ -5853,7 +5917,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 # L. Deconstrucția
 
-## 383. Metafizica prezenței
+## 387. Metafizica prezenței
 
 **Ideea**
 
@@ -5868,7 +5932,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *În căutarea timpului pierdut*, madlena pare să readucă trecutul prezent, dar memoria se construiește prin diferența dintre senzația actuală și Combray-ul absent.
 - În *Povestea slujitoarei*, casetele par să conserve vocea vie a lui Offred, însă ordonarea și transcrierea lor viitoare arată că prezența depinde de mediere.
 
-## 384. Logocentrismul
+## 388. Logocentrismul
 
 **Ideea**
 
@@ -5883,7 +5947,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Numele trandafirului*, biblioteca și cartea pierdută par să promită centrul enigmei, dar incendiul și hazardul arată că ordinea semnelor nu poate fi închisă de un adevăr unic.
 - În *Castelul*, autoritatea centrală ar trebui să garanteze sensul ordinelor, însă fiecare mesager și birou produce alte versiuni, făcând centrul dependent de rețeaua lui.
 
-## 385. Fonocentrismul
+## 389. Fonocentrismul
 
 **Ideea**
 
@@ -5898,7 +5962,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Dracula*, fonograful lui Seward păstrează vocea, dar aceasta trebuie transcrisă, copiată și montată cu celelalte documente pentru a deveni cunoaștere comună.
 - În *Foc palid*, poemul lui Shade nu ajunge ca voce originară la cititor, ci prin ediția și comentariul lui Kinbote, care demonstrează puterea suplimentului scris.
 
-## 386. Identificarea opoziției ierarhice
+## 390. Identificarea opoziției ierarhice
 
 **Ideea**
 
@@ -5913,7 +5977,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Furtuna*, civilizat/sălbatic îl privilegiază pe Prospero, dar cunoașterea insulei și limbajul lui Caliban fac autoritatea „civilizată” dependentă de cel subordonat.
 - În *Jane Eyre*, rațiune/nebunie o separă pe Jane de Bertha, însă dorința și furia celei dintâi sunt proiectate și făcute vizibile prin figura încuiată în pod.
 
-## 387. Dubla lectură
+## 391. Dubla lectură
 
 **Ideea**
 
@@ -5928,7 +5992,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Inima întunericului*, prima lectură urmărește denunțarea atrocităților coloniale de către Marlow; a doua observă că africanii rămân adesea fără voce în chiar discursul critic.
 - În *Povestea slujitoarei*, prima lectură recuperează mărturia lui Offred, iar a doua examinează cum „Notele istorice” o transformă din nou într-un obiect al autorității masculine.
 
-## 388. Răsturnarea și deplasarea
+## 392. Răsturnarea și deplasarea
 
 **Ideea**
 
@@ -5943,7 +6007,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Wide Sargasso Sea*, vocea „nebunei din pod” răstoarnă ierarhia din *Jane Eyre*, iar identitățile Antoinette/Bertha deplasează opoziția sănătate/nebunie.
 - În *Foe*, tăcerea lui Friday primește prioritate față de narațiunea stăpânilor, dar rămâne un rest care nu poate fi transformat într-o voce transparentă.
 
-## 389. Différance
+## 393. Différance
 
 **Ideea**
 
@@ -5958,7 +6022,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Castelul* de Kafka, autoritatea castelului este mereu definită prin mesageri, funcționari și zvonuri, iar accesul direct este amânat indefinit.
 - În *În așteptarea lui Godot*, sensul lui Godot este diferențiat prin așteptare, mesaje și presupuneri, fără ca prezența promisă să stabilizeze numele.
 
-## 390. Urma
+## 394. Urma
 
 **Ideea**
 
@@ -5973,7 +6037,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Beloved*, copilul mort este absent fizic la început, dar numele casei, fantoma și reacțiile familiei păstrează urma crimei în fiecare scenă.
 - În *Spre far*, doamna Ramsay dispare în secțiunea mediană, însă obiectele casei și gesturile supraviețuitorilor poartă urma ei până la excursia finală.
 
-## 391. Suplimentul
+## 395. Suplimentul
 
 **Ideea**
 
@@ -5988,7 +6052,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Frankenstein*, Creatura este produsă ca adaos la viața naturală, dar existența ei dezvăluie lipsa familiei, a responsabilității și a controlului în proiectul lui Victor.
 - În *Foe*, scriitorul Foe pare doar să dea formă aventurii lui Susan, însă „suplimentul” autorului ajunge să înlocuiască și să controleze experiența pretins originară.
 
-## 392. Scrierea originară
+## 396. Scrierea originară
 
 **Ideea**
 
@@ -6003,7 +6067,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Povestea slujitoarei*, vocea lui Offred ajunge la viitor numai prin casete reasamblate, iar oralitatea presupus vie depinde de înscriere și editare.
 - În *Dracula*, personajele își coordonează lupta prin jurnale, stenograme și fonograf; comunitatea „prezentă” este produsă de arhiva semnelor.
 
-## 393. Diseminarea
+## 397. Diseminarea
 
 **Ideea**
 
@@ -6018,7 +6082,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Trandafirul* din *Numele trandafirului*, numele final deschide simultan tradiții despre frumusețe, pierdere, nominalism și bibliotecă, fără o cheie unică.
 - În *Moby-Dick*, „albul” se diseminează între puritate, groază, vid, rasă și fenomen natural în capitolul dedicat culorii balenei.
 
-## 394. Pharmakonul
+## 398. Pharmakonul
 
 **Ideea**
 
@@ -6033,7 +6097,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Romeo și Julieta*, poțiunea fratelui Lorenzo oferă posibilitatea salvării, dar produce neînțelegerea care conduce la moarte.
 - În *Portretul lui Dorian Gray*, portretul îl protejează pe Dorian de urmele vârstei și îi permite totodată degradarea morală care îl distruge.
 
-## 395. Himenul
+## 399. Himenul
 
 **Ideea**
 
@@ -6045,10 +6109,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Jane Eyre*, pragul camerei din pod separă domesticitatea de secret, dar zgomotele Berthei fac interiorul respectabil dependent de ceea ce exclude.
+- În proza *Mimique* de Mallarmé, pantomima lui Pierrot nu reproduce o acțiune originară, ci plutește „între” dorință și împlinire, crimă și amintirea ei; în lectura lui Derrida, himenul numește tocmai sintaxa care unește și separă aceste poziții fără a se fixa în una.
 - În *Castelul*, hanurile, telefoanele și mesagerii îl conectează pe K. la castel tocmai prin proceduri care îi mențin distanța.
 
-## 396. Parergonul
+## 400. Parergonul
 
 **Ideea**
 
@@ -6063,7 +6127,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - Prefața fictivă din *Lolita* pare anexă editorială, dar determină statutul manuscrisului și conflictul dintre verdictul moral și seducția naratorului.
 - Rama lui Marlow din *Inima întunericului* pare exterioară aventurii africane, însă poziția ascultătorilor pe Tamisa leagă colonialismul de centrul imperial.
 
-## 397. Aporia
+## 401. Aporia
 
 **Ideea**
 
@@ -6078,7 +6142,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Antigona*, respectarea legii cetății și respectarea datoriei funerare sunt ambele obligatorii în sisteme care nu pot fi reconciliate fără pierdere.
 - În *Alegerea Sophiei* de William Styron, ordinul de a alege un copil produce o decizie imposibilă, în care orice opțiune anulează condiția morală a alegerii.
 
-## 398. Retorica împotriva gramaticii
+## 402. Retorica împotriva gramaticii
 
 **Ideea**
 
@@ -6093,7 +6157,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În discursul lui Marc Antoniu din *Iulius Cezar*, gramatica repetă că Brutus este „onorabil”, dar contextul și repetiția transformă afirmația în acuzație ironică.
 - În *Modesta propunere* de Swift, gramatica argumentului economic recomandă o soluție, iar retorica satirică cere cititorului să o respingă și să judece sistemul care o face plauzibilă.
 
-## 399. Alegoria lecturii
+## 403. Alegoria lecturii
 
 **Ideea**
 
@@ -6108,7 +6172,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Oedip rege*, eroul citește oracolul și mărturiile pentru a găsi un alt vinovat, iar ancheta devine povestea interpretului prins în propriul răspuns.
 - În *Scrisoarea furată* de Poe, poliția caută profunzimi și ascunzători, în timp ce scrisoarea expusă obligă cititorul să-și revizuiască modelul interpretativ.
 
-## 400. Repetiția cu diferență
+## 404. Repetiția cu diferență
 
 **Ideea**
 
@@ -6123,7 +6187,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Un veac de singurătate*, numele Aureliano și José Arcadio revin în generații, dar fiecare repetare modifică singurătatea, războiul și raportul cu memoria.
 - În *În așteptarea lui Godot*, a doua zi repetă copacul, perechea și mesajul, însă frunzele și uitarea fac imposibilă identitatea perfectă.
 
-## 401. Momentul lingvistic
+## 405. Momentul lingvistic
 
 **Ideea**
 
@@ -6136,9 +6200,9 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 **Două exemple**
 
 - În *Bartleby, copistul* de Herman Melville, formula „aș prefera să nu” pare inteligibilă gramatical, dar refuză să fixeze porunca, motivul și opoziția; repetarea ei blochează transparența schimbului juridic și comercial.
-- În *O coardă prea întinsă* de Henry James, descrierile aparițiilor provin numai din manuscrisul guvernantei, iar scena finală cu Miles nu decide dacă limbajul numește o fantomă ori produce interpretarea care îl ucide.
+- În *The Turn of the Screw* de Henry James, descrierile aparițiilor provin numai din manuscrisul guvernantei, iar scena finală cu Miles nu decide dacă limbajul numește o fantomă ori produce interpretarea care îl ucide.
 
-## 402. Critica drept scriere creatoare
+## 406. Critica drept scriere creatoare
 
 **Ideea**
 
@@ -6153,7 +6217,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Foc palid* de Vladimir Nabokov, notele lui Kinbote la poemul lui Shade se extind într-o narațiune despre Zembla; comentariul nu explică simplu poemul, ci produce o operă rivală și îi redistribuie sensurile.
 - În partea a doua din *Don Quijote*, personajele au citit prima parte și discută continuarea apocrifă a lui Avellaneda; comentariul critic asupra cărților precedente devine motor al noii ficțiuni.
 
-## 403. Textul în dezacord cu sine
+## 407. Textul în dezacord cu sine
 
 **Ideea**
 
@@ -6168,7 +6232,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Tapetul galben* de Charlotte Perkins Gilman, limbajul medical al soțului prezintă izolarea drept îngrijire, dar jurnalul secret arată cum tratamentul produce captivitatea și destrămarea pe care pretinde să le vindece.
 - În *Inima întunericului* de Joseph Conrad, Marlow denunță jaful colonial în episoadele de la stații, însă descrierile sale estetizează frecvent suferința și reduc africanii la fundal; critica imperiului rămâne în dezacord cu propria retorică.
 
-## 404. Mimetismul strategic
+## 408. Mimetismul strategic
 
 **Ideea**
 
@@ -6183,7 +6247,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Orlando* de Virginia Woolf, protagonistul joacă după transformare gesturile și veșmintele feminității, iar exagerarea convențiilor sociale arată că genul este produs prin repetiție.
 - În *Casa veseliei* de Edith Wharton, Lily Bart performează rafinamentul și pasivitatea cerute femeii mondene; scenele de „tableaux vivants” expun rolul feminin ca imagine construită pentru schimb social.
 
-## 405. *Mimicry* colonială ambivalentă
+## 409. *Mimicry* colonială ambivalentă
 
 **Ideea**
 
@@ -6196,9 +6260,9 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 **Două exemple**
 
 - În *O trecere spre India* de E. M. Forster, educația și politețea personajelor indiene sunt cerute de administrație, dar nu le oferă egalitate sau credibilitate la ancheta despre peșteri.
-- În *Rușinea* de Salman Rushdie, elitele imită forme politice și culturale importate, iar exagerarea lor grotescă expune instabilitatea modelului postcolonial.
+- În *The Mimic Men* de V. S. Naipaul, Ralph Singh își schimbă numele, adoptă manierele dandyului londonez și reproduce după întoarcere formele politicii coloniale; asemănarea îi promite autoritate, dar dependența de modelele britanice îl menține „aproape același, dar nu chiar” și expune caracterul imitativ al centrului însuși.
 
-## 406. Écriture féminine
+## 410. Écriture féminine
 
 **Ideea**
 
@@ -6213,7 +6277,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Valurile*, vocile curg una în alta prin ritm și imagini recurente, slăbind granița dintre eul individual și corporalitatea comună.
 - În *Pasiunea după G.H.* de Clarice Lispector, întâlnirea cu gândacul destramă propozițiile și identitatea naratoarei într-o scriere corporală, repetitivă și paradoxală.
 
-## 407. Citirea tăcerii
+## 411. Citirea tăcerii
 
 **Ideea**
 
@@ -6228,7 +6292,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Foe*, Friday refuză ori nu poate să-și spună povestea, iar încercările lui Susan și Foe de a-i interpreta tăcerea repetă controlul colonial.
 - În *Lucrurile se destramă*, finalul reduce viața lui Okonkwo la un posibil paragraf din cartea comisarului, arătând producerea arhivistică a tăcerii indigene.
 
-## 408. Reprezentarea ca vorbire pentru altul
+## 412. Reprezentarea ca vorbire pentru altul
 
 **Ideea**
 
@@ -6243,7 +6307,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Foe*, Susan cere ca Friday să fie introdus în carte, dar fiecare interpretare a tăcerii lui îl transformă în obiect al proiectului ei și al scriitorului.
 - În *Lucrurile se destramă*, comisarul imaginează reducerea morții lui Okonkwo la un paragraf, convertind viața locală în material pentru autoritatea colonială.
 
-## 409. Actul de limbaj și mărturia
+## 413. Actul de limbaj și mărturia
 
 **Ideea**
 
@@ -6258,7 +6322,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Don Juan* de Molière, promisiunile seducătorului produc obligații și speranțe pe care el nu intenționează să le respecte; forța lor socială depășește adevărul propozițiilor.
 - În *Beloved*, mărturisirile fragmentare ale lui Sethe și Paul D nu oferă o cronologie perfectă, dar creează între ascultători o relație prin care trauma poate fi recunoscută.
 
-## 410. Orbirea și intuiția
+## 414. Orbirea și intuiția
 
 **Ideea**
 
@@ -6270,10 +6334,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Oedip rege*, încrederea lui Oedip în propria capacitate de a descifra conduce la descoperirea adevărului, dar îi ascunde până la final identitatea celui căutat.
+- În *Foc palid* de Vladimir Nabokov, Kinbote este orb la autonomia poemului lui Shade și îl anexează obsesiv istoriei Zemblei; tocmai această lectură eronată face însă vizibilă violența productivă a comentariului și generează narațiunea rivală pe care editorul nu știe că o scrie.
 - În *Rămășițele zilei*, disciplina verbală prin care Stevens își apără demnitatea îi permite să relateze tocmai scenele care dovedesc ratarea vieții sale.
 
-## 411. Prosopopeea
+## 415. Prosopopeea
 
 **Ideea**
 
@@ -6288,7 +6352,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Hoțul de cărți*, Moartea primește voce de narator și comentează oamenii pe care îi colectează, făcând abstracția simultan familiară și stranie.
 - În *Beloved*, copilul mort primește corp și voce, dar discursul ei fragmentar nu repară complet absența sau trauma.
 
-## 412. Indecidabilitatea
+## 416. Indecidabilitatea
 
 **Ideea**
 
@@ -6300,10 +6364,10 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 
 **Două exemple**
 
-- În *Cotitura de șurub*, fantomele sunt simultan susținute ca prezențe și subminate ca proiecții ale guvernantei.
+- În *The Turn of the Screw*, fantomele sunt simultan susținute ca prezențe și subminate ca proiecții ale guvernantei.
 - În *Viața lui Pi* de Yann Martel, povestea cu animale și versiunea fără animale cer o alegere, dar criteriul adevărului este înlocuit de întrebarea despre povestea preferată.
 
-## 413. Centrul și jocul structurii
+## 417. Centrul și jocul structurii
 
 **Ideea**
 
@@ -6318,7 +6382,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Împăratul muștelor* de William Golding, scoica organizează inițial adunarea și vorbirea; pierderea autorității ei arată că centrul politic depindea de acceptarea colectivă.
 - În *Castelul*, castelul pare centrul care explică satul, dar accesul prin birouri și mesageri îl transformă într-o funcție mereu substituită.
 
-## 414. Legea și dreptatea
+## 418. Legea și dreptatea
 
 **Ideea**
 
@@ -6333,7 +6397,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Neguțătorul din Veneția*, aplicarea literală a contractului și intervenția Portiei arată conflictul dintre lege, milă și manipularea regulii.
 - În *Antigona*, decretul lui Creon este legal în cetate, dar îngroparea lui Polinice revendică o dreptate care nu se lasă calculată de aceeași normă.
 
-## 415. Etica lecturii
+## 419. Etica lecturii
 
 **Ideea**
 
@@ -6348,7 +6412,7 @@ Această parte transformă conceptele volumului în instrumente de analiză. Fie
 - În *Antigona*, o lectură etică nu declară pur și simplu un erou corect, ci răspunde simultan datoriei funerare, ordinii cetății și pierderilor produse de fiecare decizie.
 - În *Povestea slujitoarei*, interpretarea mărturiei lui Offred trebuie să reziste tentației conferinței finale de a o transforma în simplu obiect arhivistic și să păstreze incertitudinile vocii.
 
-## 416. Lectura contrasemnăturii
+## 420. Lectura contrasemnăturii
 
 **Ideea**
 
@@ -6372,4 +6436,4 @@ Pentru fiecare fișă, o analiză completă poate fi construită în patru pași
 3. descrie operația formală efectivă;
 4. explică efectul asupra sensului, ritmului, cititorului sau poziției istorice.
 
-Cele două exemple nu sunt modele de copiat mecanic, ci demonstrații ale transferului. O tehnică devine cu adevărat utilă când poate fi recunoscută într-un al treilea text și când analiza arată de ce funcționează diferit acolo.
+Cele două exemple nu sunt modele de copiat mecanic, ci demonstrații ale aplicării sau ale transferului. O tehnică devine cu adevărat utilă când poate fi recunoscută într-un al treilea text ori obiect artistic și când analiza arată de ce funcționează diferit acolo. Transferul între medii trebuie numit ca atare și nu poate înlocui instanțele istorice ale unui procedeu specific filmului, teatrului sau artelor vizuale.
