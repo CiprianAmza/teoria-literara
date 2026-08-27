@@ -20,6 +20,7 @@ Texte principale:
 - „Legătura procedeelor de construire a subiectului cu procedeele generale de stil” (1919);
 - „Tristram Shandy al lui Sterne și teoria romanului” (1921);
 - *Teoria prozei* (1925).
+- 
 
 ### Automatizarea percepției
 
