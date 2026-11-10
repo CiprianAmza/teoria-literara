@@ -24,6 +24,8 @@ Documentul acoperă:
 - constructivismul rus;
 - deconstrucția;
 - hărți comparative, dicționar de concepte și bibliografie.
+
+
 - un atlas aplicativ cu 282 de tehnici și concepte, fiecare explicat în 5–10
   puncte și ilustrat prin două episoade din opere diferite ale literaturii
   universale.
