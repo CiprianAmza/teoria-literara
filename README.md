@@ -1,6 +1,6 @@
 # Teoria literară modernă și contemporană
 
-Compendiu în limba română despre principalele direcții ale teoriei literare moderne și contemporane, de la formalismul rus la naratologia postclasică, postcritică și deconstrucție.
+Compendiu în limba română despre principalele direcții ale teoriei literare moderne și contemporane, de la formalismul rus la naratologia postclasică, postcritică și deconstrucție. Bazat pe ce am citit de-a lungul vremii.
 
 ## Documente
 
